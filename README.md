@@ -1,4 +1,7 @@
-### Hi there 👋
+### 👋 Hi there 👋
+Mein Name is **Crimsonshade** oder auch einfach Erik, und ich bin ein kleiner Indi Developer. Ich studiere gerade Informatik, und versuche mit meinen neu erlerneten Skills, eingene Videospiele zu entwickeln. Derzeit hab ich leider nichts zum vorweisen, aber ich versuche an einigen GameJams mit zu machen, damit ich euch auch mal einige eigene Spiele oder Projekte vorzeigen kann! </br>
+
+### 🔭 Hierran arbeite ich derzeit! 🔭
 
 <!--
 **crimsonshade/crimsonshade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
