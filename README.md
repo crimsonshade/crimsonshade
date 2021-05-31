@@ -7,10 +7,11 @@
 Mein Name is **Crimsonshade** oder auch einfach Erik, und ich bin ein kleiner Indi Developer. Ich studiere gerade Informatik, und versuche mit meinen neu erlerneten Skills, eingene Videospiele zu entwickeln. Derzeit hab ich leider nichts zum vorweisen, aber ich versuche an einigen GameJams mit zu machen, damit ich euch auch mal einige eigene Spiele oder Projekte vorzeigen kann!
 
 ### 📫 Social Media 📫
-- GitHub: [crimsonshade](https://github.com/crimsonshade)
-- YouTube: [Crimsonshade](https://www.youtube.com/channel/UC2H7HblECA1_R2gWPjH26qw)
-- Twitter: [@Crimsonshade_](https://twitter.com/Crimsonshade_)
-- Twitch: [Crimsonshade_](https://www.twitch.tv/crimsonshade_)
+- GitHub: <a href="https://github.com/crimsonshade" target="_blank">crimsonshade</a>
+- YouTube: <a href="https://www.youtube.com/channel/UC2H7HblECA1_R2gWPjH26qw" target="_blank">Crimsonshade</a>
+- Twitter: <a href="https://twitter.com/Crimsonshade_" target="_blank">@Crimsonshade_</a>
+- Twitch: <a href="https://www.twitch.tv/crimsonshade_" target="_blank">crimsonshade_</a>
+- Discord: <a href="https://discord.gg/WEZHKtQ" target="_blank">{BOTS}</a>
 
 ### 🔭 Derzeit Arbeite ich an: 🔭
 - [Homework Webpage][Workin-0]
