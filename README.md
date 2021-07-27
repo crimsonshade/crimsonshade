@@ -4,7 +4,7 @@
 <div align="center">
   <h2>👋 About Me 👋
 </div>
-Mein Name is **Crimsonshade** oder auch einfach Erik, und ich bin ein kleiner Indi Developer. Ich studiere gerade Informatik, und versuche mit meinen neu erlerneten Skills, eingene Videospiele zu entwickeln. Derzeit hab ich leider nichts zum vorweisen, aber ich versuche an einigen GameJams mit zu machen, damit ich euch auch mal einige eigene Spiele oder Projekte vorzeigen kann!
+  Mein Name is <b>Crimsonshade</b> oder auch einfach Erik, und ich bin ein kleiner Indi Developer. Ich studiere gerade Informatik, und versuche mit meinen neu erlerneten Skills, eingene Videospiele zu entwickeln. Derzeit hab ich leider nichts zum vorweisen, aber ich versuche an einigen GameJams mit zu machen, damit ich euch auch mal einige eigene Spiele oder Projekte vorzeigen kann!
 
 ### 📫 Social Media 📫
 - GitHub: <a href="https://github.com/crimsonshade" target="_blank">crimsonshade</a>
