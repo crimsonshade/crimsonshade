@@ -25,5 +25,8 @@ Hey there! My Name is **Crimsonshade** but all my friends (if had some...) would
 <!--CURRENT_PROJECTS_BEGIN-->
 <a href="https://github.com/crimsonshade/crimsonshade">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=crimsonshade&repo=crimsonshade&show_icons=ture&theme=radical" />
+</a>
+<a href="https://github.com/crimsonshade/domestica-course">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=crimsonshade&repo=domestica-course&show_icons=ture&theme=radical" />
 </a><!--CURRENT_PROJECTS_END-->
 </div> 
