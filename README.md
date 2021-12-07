@@ -18,6 +18,7 @@ Hey there! My Name is **Crimsonshade** but all my friends (if had some...) would
 ## 🌱 Doing right now 🌱
 - Learning game development with [Jason Weimann](https://www.youtube.com/channel/UCX_b3NNQN5bzExm-22-NVVg)'s course for Unity and C#
 - Learning a spanish course from [Domestica](https://www.domestika.org/en/courses/716-introduction-to-unity-for-2d-video-games) about Unity3D and C#. (This is a complet spanish course but with good english subtitles)
+- Designing my own website in GitHub
 ## 💻 Current Projects 💻
 
 <div align="center">
@@ -28,5 +29,9 @@ Hey there! My Name is **Crimsonshade** but all my friends (if had some...) would
 </a>
 <a href="https://github.com/crimsonshade/domestica-course">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=crimsonshade&repo=domestica-course&show_icons=ture&theme=radical" />
-</a><!--CURRENT_PROJECTS_END-->
+</a>
+<a href="https://github.com/crimsonshade/crimsonshade.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=crimsonshade&repo=crimsonshade.github.io&show_icons=ture&theme=radical" />
+</a>
+  <!--CURRENT_PROJECTS_END-->
 </div> 
