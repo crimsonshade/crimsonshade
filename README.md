@@ -18,7 +18,7 @@ Hey there! My Name is **Crimsonshade** but all my friends (if had some...) would
 ## 🌱 Doing right now 🌱
 - Learning game development with [Jason Weimann](https://www.youtube.com/channel/UCX_b3NNQN5bzExm-22-NVVg)'s course for Unity and C#
 - Learning a spanish course from [Domestica](https://www.domestika.org/en/courses/716-introduction-to-unity-for-2d-video-games) about Unity3D and C#. (This is a complet spanish course but with good english subtitles)
-- Designing my own website in GitHub
+- Designing my own [website](https://crimsonshade.github.io) in GitHub
 ## 💻 Current Projects 💻
 
 <div align="center">
