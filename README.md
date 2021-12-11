@@ -5,7 +5,7 @@
   </a>
   <a href="https://twitter.com/crimsonshade_">
     <img src="https://img.shields.io/badge/Twitter-Crimsonshade__-00acee.svg?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
+  </a> <br>
   <a href="http://bots-entertainment.com/twitch">
     <img src="https://img.shields.io/badge/Twitch-Crimsonshade__-6441a5.svg?style=for-the-badge&logo=twitch&logoColor=white" />
   </a>
