@@ -1,3 +1,5 @@
+![rias-cropped](https://github.com/crimsonshade/crimsonshade/blob/main/media/rias_cropped.gif)
+
 <div align="center">
   <h1>~ Socials and Stuff ~</h1>
   <a href="http://bots-entertainment.com/crimson">
