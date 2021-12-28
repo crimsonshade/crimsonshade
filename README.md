@@ -40,8 +40,8 @@
 <div align="center">
   <h1>~ Current Projects ~</h1>
 <!--CURRENT_PROJECTS_BEGIN-->
-<a href="https://github.com/crimsonshade/helltaker-clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=crimsonshade&repo=helltaker-clone&show_icons=ture&theme=radical" />
+<a href="https://github.com/crimsonshade/minijam-96">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=crimsonshade&repo=minijam-96&show_icons=ture&theme=radical" />
 </a> 
 <a href="https://github.com/crimsonshade/icarus">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=crimsonshade&repo=icarus&show_icons=ture&theme=radical" />
