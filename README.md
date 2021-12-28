@@ -23,6 +23,7 @@
   </p>
   <p><b>Some Apps I made</b></p>
   <a href="https://github.com/crimsonshade/icarus" target="_blank"><img src="https://github.com/crimsonshade/icarus/blob/main/images/Ikarus-Icon.png" width="50px"/></a>
+  <a href="https://github.com/crimsonshade/crimsonshade/tree/main/media/D20round.png" target="_blank"><img src="https://github.com/crimsonshade/icarus/blob/main/images/Ikarus-Icon.png" width="50px" padding="20px"/></a>
   <hr>
   <a href="#">
     <img src="https://github-readme-stats.vercel.app/api?username=crimsonshade&show_icons=true&theme=radical&hide=stars,prs&include_all_commits=true&custom_title=Crimsonshades+Stats" />
