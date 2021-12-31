@@ -22,7 +22,7 @@
     Hey there! My Name is <b>Crimsonshade</b> but all my friends (if had some...) would call me Erik! Sooo feel free to call me like that! Currently I'm studying <b>Computer Sience</b> and I try to make some videogames by my own! Currently I haven't made one... But I'm working on it! 
   </p>
   <p><b>Some Apps I made</b></p>
-  <div style="padding: 0px 100px">
+  <div class="prject-links" style="padding: 0px 200px">
      <a href="https://github.com/crimsonshade/icarus" target="_blank"><img src="https://github.com/crimsonshade/icarus/blob/main/images/Ikarus-Icon.png" width="50px"/></a>
      <a href="https://https://crimsonshade.itch.io/devils-fate" style="padding-left:50px" target="_blank"><img src="https://github.com/crimsonshade/crimsonshade/blob/main/media/D20round.png" width="50px"/></a>
   </div>
