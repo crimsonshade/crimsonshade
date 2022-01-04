@@ -27,7 +27,7 @@
   
   ---
   
-  # ~ 💻 Working on 💻 ~
+  # ~ 💻 Projects 💻 ~
   | Project                      | Status     | Commits        | Description                                                                                 |
   |------------------------------|:----------:|----------------|---------------------------------------------------------------------------------------------|
   | [devils-fate][df]            |  ✍ (WIP)  | ![ca][WO-df]   | This is a game I made for a GameJam, and now I'm working on it, trying to improve it a bit. |
