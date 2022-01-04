@@ -14,12 +14,12 @@
   
   # ~ 📚 Knowledge 📚 ~
   
-  | Type       | Item                                                      |
-  |------------|-----------------------------------------------------------|
-  | Software   | ![Affinity][S-Design] ![Rider][S-Rider] ![Unity][S-Unity] |
-  | Languages  | ![Java][L-Java]                                           |
-  | Frameworks | ![Bootstrap][F-Boot]                                      |
-  |Terminal    | ![Git][T-Git]                                             |
+  | Type       | Item                                                                        |
+  |------------|:----------------------------------------------------------------------------|
+  | Software   | ![Affinity][S-Design] ![Photo][S-Photo] ![Rider][S-Rider] ![Unity][S-Unity] |
+  | Languages  | ![Java][L-Java]                                                             |
+  | Frameworks | ![Bootstrap][F-Boot]                                                        |
+  |Terminal    | ![Git][T-Git]                                                               |
   
   </div>
   
@@ -63,21 +63,22 @@
 <!-- IMAGES -->
 [1.1]: https://github.com/crimsonshade/crimsonshade/blob/main/media/rias_cropped.gif
 
-[S-Unity]: https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white
-[S-Rider]: https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white
-[S-Design]: https://img.shields.io/badge/affinitydesginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white
-[T-Git]: https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
-[F-Boot]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[L-Java]: https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
+[S-Unity]:  https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white
+[S-Rider]:  https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white
+[S-Design]: https://img.shields.io/badge/desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white
+[S-Photo]:  https://img.shields.io/badge/photo-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white
+[T-Git]:    https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
+[F-Boot]:   https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+[L-Java]:   https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
 
-[WO-df]: https://img.shields.io/github/commit-activity/m/crimsonshade/devils-fate?style=for-the-badge
-[WO-ic]: https://img.shields.io/github/commit-activity/m/crimsonshade/icarus?style=for-the-badge
-[WO-bl]: https://img.shields.io/github/commit-activity/m/crimsonshade/crimsonshade.github.io?style=for-the-badge
+[WO-df]:   https://img.shields.io/github/commit-activity/m/crimsonshade/devils-fate?style=for-the-badge
+[WO-ic]:   https://img.shields.io/github/commit-activity/m/crimsonshade/icarus?style=for-the-badge
+[WO-bl]:   https://img.shields.io/github/commit-activity/m/crimsonshade/crimsonshade.github.io?style=for-the-badge
 [WO-mj96]: https://img.shields.io/github/commit-activity/m/crimsonshade/minijam-96?style=for-the-badge
 
 <!-- LINKS -->
-[1]: https://crimsonshade.github.io/
-[df]: https://github.com/crimsonshade/devils-fate
-[ic]: https://github.com/crimsonshade/icarus
-[bl]: https://github.com/crimsonshade/crimsonshade.github.io
+[1]:    https://crimsonshade.github.io/
+[df]:   https://github.com/crimsonshade/devils-fate
+[ic]:   https://github.com/crimsonshade/icarus
+[bl]:   https://github.com/crimsonshade/crimsonshade.github.io
 [mj96]: https://github.com/crimsonshade/minijam-96
