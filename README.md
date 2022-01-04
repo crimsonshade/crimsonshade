@@ -38,28 +38,18 @@
   </div>
   <hr>
   <div align="center">
-  <h1>~ 🤜 Social Media 🤛 ~</h1>
-  <a href="http://bots-entertainment.com/twitch">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
-  </a>
-  <a href="http://bots-entertainment.com/crimson">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://crimsonshade.itch.io/">
-    <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/crimsonshade_">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="http://bots-entertainment.com/discord">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
+  
+  # ~ 🤜 Social Media 🤛 ~
+  
+  [![Twtich][SI-tw]][SL-tw]
+  [![YouTube][SI-yt]][SL-yt]
+  [![Itch][SI-it]][SL-it]
+  [![Twitter][SI-tt]][SL-tt]
+  [![Discord][SI-dc]][SL-dc]
+  [![KoFi][SI-kf]][SL-kf]
+
 </div>
   
-<!-- 
-  
-  <hr>
--->
 <!-- IMAGES -->
 [1.1]: https://github.com/crimsonshade/crimsonshade/blob/main/media/rias_cropped.gif
 
@@ -76,9 +66,23 @@
 [WO-bl]:   https://img.shields.io/github/commit-activity/m/crimsonshade/crimsonshade.github.io?style=for-the-badge
 [WO-mj96]: https://img.shields.io/github/commit-activity/m/crimsonshade/minijam-96?style=for-the-badge
 
+[SI-tw]: https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white
+[SI-yt]: https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white
+[SI-it]: https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white
+[SI-tt]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
+[SI-dc]: https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
+[SI-kf]: https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white
+
 <!-- LINKS -->
 [1]:    https://crimsonshade.github.io/
 [df]:   https://github.com/crimsonshade/devils-fate
 [ic]:   https://github.com/crimsonshade/icarus
 [bl]:   https://github.com/crimsonshade/crimsonshade.github.io
 [mj96]: https://github.com/crimsonshade/minijam-96
+
+[SL-tw]: http://bots-entertainment.com/twitch
+[SL-yt]: http://bots-entertainment.com/crimson
+[SL-it]: https://crimsonshade.itch.io/
+[SL-tt]: https://twitter.com/crimsonshade_
+[SL-dc]: http://bots-entertainment.com/discord
+[SL-kf]: https://www.buymeacoffee.com/crimsonshade
