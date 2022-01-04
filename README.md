@@ -28,11 +28,12 @@
   ---
   
   # ~ 💻 Working on 💻 ~
-  | Project                      | Status    | Commits      | Description                                                                                 |
-  |------------------------------|:---------:|--------------|---------------------------------------------------------------------------------------------|
-  | [devils-fate][df]            |  ✍ (WIP) | ![ca][WO-df] | This is a game I made for a GameJam, and now I'm working on it, trying to improve it a bit. |
-  | [icarus][ic]                 |  ✍ (WIP) | ![ca][WO-ic] | This is just a little Discord offered I'm doing for fun to see how well it works out.       |
-  | [crimsonshade.github.io][bl] |  ✍ (WIP) | ![ca][WO-bl] | This is a small blog page, where I try to learn HTML, CSS and the Bootstrap Framework.      |
+  | Project                      | Status     | Commits        | Description                                                                                 |
+  |------------------------------|:----------:|----------------|---------------------------------------------------------------------------------------------|
+  | [devils-fate][df]            |  ✍ (WIP)  | ![ca][WO-df]   | This is a game I made for a GameJam, and now I'm working on it, trying to improve it a bit. |
+  | [icarus][ic]                 |  ✍ (WIP)  | ![ca][WO-ic]   | This is just a little Discord offered I'm doing for fun to see how well it works out.       |
+  | [crimsonshade.github.io][bl] |  ✍ (WIP)  | ![ca][WO-bl]   | This is a small blog page, where I try to learn HTML, CSS and the Bootstrap Framework.      |
+  | [minijam-96][mj96]           |  ✅ (Done) | ![ca][WO-mj96] | This is a game, I made for a GameJam.                                                       |
   
   </div>
   <hr>
@@ -72,9 +73,11 @@
 [WO-df]: https://img.shields.io/github/commit-activity/m/crimsonshade/devils-fate?style=for-the-badge
 [WO-ic]: https://img.shields.io/github/commit-activity/m/crimsonshade/icarus?style=for-the-badge
 [WO-bl]: https://img.shields.io/github/commit-activity/m/crimsonshade/crimsonshade.github.io?style=for-the-badge
+[WO-mj96]: https://img.shields.io/github/commit-activity/m/crimsonshade/minijam-96?style=for-the-badge
 
 <!-- LINKS -->
 [1]: https://crimsonshade.github.io/
 [df]: https://github.com/crimsonshade/devils-fate
 [ic]: https://github.com/crimsonshade/icarus
 [bl]: https://github.com/crimsonshade/crimsonshade.github.io
+[mj96]: https://github.com/crimsonshade/minijam-96
