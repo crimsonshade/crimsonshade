@@ -16,10 +16,10 @@
   
   | Type       | Item                                                                        |
   |------------|:----------------------------------------------------------------------------|
-  | Software   | ![Affinity][S-Design] ![Photo][S-Photo] ![Rider][S-Rider] ![Unity][S-Unity] |
-  | Languages  | ![Java][L-Java]                                                             |
-  | Frameworks | ![Bootstrap][F-Boot]                                                        |
-  |Terminal    | ![Git][T-Git]                                                               |
+  | Software   | [![Affinity][S-Design]][S-Design-L] [![Photo][S-Photo]][S-Photo-L] [![Rider][S-Rider]][S-Rider-L] [![Unity][S-Unity]][S-Unity-L] |
+  | Languages  | [![Java][L-Java]][L-Java-L]                                                 |
+  | Frameworks | [![Bootstrap][F-Boot]][F-Boot-L]                                            |
+  |Terminal    | [![Git][T-Git]][T-Git-L]                                                    |
   
   </div>
   
@@ -79,6 +79,14 @@
 [ic]:   https://github.com/crimsonshade/icarus
 [bl]:   https://github.com/crimsonshade/crimsonshade.github.io
 [mj96]: https://github.com/crimsonshade/minijam-96
+
+[S-Design-L]: https://affinity.serif.com/de/designer/
+[S-Photo-L]: https://affinity.serif.com/de/photo/
+[S-Rider-L]: https://www.jetbrains.com/rider/
+[S-Unity-L]: https://unity.com/
+[L-Java-L]: https://www.oracle.com/java/
+[F-Boot-L]: https://getbootstrap.com/
+[T-Git-L]: https://git-scm.com/
 
 [SL-tw]: http://bots-entertainment.com/twitch
 [SL-yt]: http://bots-entertainment.com/crimson
