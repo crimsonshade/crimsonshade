@@ -11,6 +11,9 @@
   </div>
   <hr>
   <div align="center">
+
+  ## 😂 Here is a random joke that'll make you laugh!
+  ![Jokes Card](https://readme-jokes.vercel.app/api)
   
   # ~ 📚 Knowledge 📚 ~
   
@@ -49,9 +52,6 @@
   [![Twitter][SI-tt]][SL-tt]
   [![Discord][SI-dc]][SL-dc]
   [![KoFi][SI-kf]][SL-kf]
-
-  ## 😂 Here is a random joke that'll make you laugh!
-  ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 </div>
   
