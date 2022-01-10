@@ -21,7 +21,7 @@
   | Software   | [![Affinity][S-Design]][S-Design-L] [![Photo][S-Photo]][S-Photo-L] [![Rider][S-Rider]][S-Rider-L] [![Unity][S-Unity]][S-Unity-L] |
   | Languages  | [![Java][L-Java]][L-Java-L]                                                 |
   | Frameworks | [![Bootstrap][F-Boot]][F-Boot-L]                                            |
-  |Terminal    | [![Git][T-Git]][T-Git-L]                                                    |
+  |Terminal    | [![Git][T-Git]][T-Git-L] [![GitCLI][T-GitCLI]][T-GitCLI-L]                  |
   
   </div>
   
@@ -50,6 +50,9 @@
   [![Discord][SI-dc]][SL-dc]
   [![KoFi][SI-kf]][SL-kf]
 
+  ## 😂 Here is a random joke that'll make you laugh!
+  ![Jokes Card](https://readme-jokes.vercel.app/api)
+
 </div>
   
 <!-- IMAGES -->
@@ -60,6 +63,7 @@
 [S-Design]: https://img.shields.io/badge/desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white
 [S-Photo]:  https://img.shields.io/badge/photo-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white
 [T-Git]:    https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
+[T-GitCLI]:  https://img.shields.io/badge/GitHub--CLI-100000?style=for-the-badge&logo=github&logoColor=white
 [F-Boot]:   https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [L-Java]:   https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
 
@@ -89,6 +93,7 @@
 [L-Java-L]: https://www.oracle.com/java/
 [F-Boot-L]: https://getbootstrap.com/
 [T-Git-L]: https://git-scm.com/
+[T-GitCLI-L]: https://cli.github.com/
 
 [SL-tw]: http://bots-entertainment.com/twitch
 [SL-yt]: http://bots-entertainment.com/crimson
