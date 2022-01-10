@@ -14,6 +14,8 @@
   
   # ~ 📚 Knowledge 📚 ~
   
+  Right now I am lerning this things!
+  
   | Type       | Item                                                                        |
   |------------|:----------------------------------------------------------------------------|
   | Software   | [![Affinity][S-Design]][S-Design-L] [![Photo][S-Photo]][S-Photo-L] [![Rider][S-Rider]][S-Rider-L] [![Unity][S-Unity]][S-Unity-L] |
