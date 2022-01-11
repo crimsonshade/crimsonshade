@@ -43,6 +43,12 @@
   </div>
   <hr>
   <div align="center">
+
+  # ~ 🏆 My Trophys 🏆 ~
+
+  [![trophy](https://github-profile-trophy.vercel.app/?username=crimsonshade)](https://github.com/ryo-ma/github-profile-trophy)
+
+  ---
   
   # ~ 🤜 Social Media 🤛 ~
   
