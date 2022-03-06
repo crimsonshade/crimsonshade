@@ -35,7 +35,7 @@
   # ~ 💻 Projects 💻 ~
   | Project                      | Status     | Commits        | Description                                                                                 |
   |------------------------------|:----------:|----------------|---------------------------------------------------------------------------------------------|
-  | [astroids][gm]            |  ✍ (WIP)  | ![ca][WO-gm]   | This is a game I made for a GameJam, and now I'm working on it, trying to improve it a bit. |
+  | [astroids][gm_01]            |  ✍ (WIP)  | ![ca][WO-gm_01]| This is the first game I try to create by my self. |
   | [icarus][ic]                 |  ✍ (WIP)  | ![ca][WO-ic]   | This is just a little Discord offered I'm doing for fun to see how well it works out.       |
   | [crimsonshade.github.io][bl] |  ✍ (WIP)  | ![ca][WO-bl]   | This is a small blog page, where I try to learn HTML, CSS and the Bootstrap Framework.      |
   | [minijam-96][mj96]           |  ✅ (Done) | ![ca][WO-mj96] | This is a game, I made for a GameJam.                                                       |
@@ -69,14 +69,14 @@
 [S-Design]: https://img.shields.io/badge/desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white
 [S-Photo]:  https://img.shields.io/badge/photo-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white
 [T-Git]:    https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
-[T-GitCLI]:  https://img.shields.io/badge/GitHub--CLI-100000?style=for-the-badge&logo=github&logoColor=white
+[T-GitCLI]: https://img.shields.io/badge/GitHub--CLI-100000?style=for-the-badge&logo=github&logoColor=white
 [F-Boot]:   https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [L-Java]:   https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
 
-[WO-gm]:   https://img.shields.io/github/commit-activity/m/crimsonshade/astroids?style=for-the-badge
-[WO-ic]:   https://img.shields.io/github/commit-activity/m/crimsonshade/icarus?style=for-the-badge
-[WO-bl]:   https://img.shields.io/github/commit-activity/m/crimsonshade/crimsonshade.github.io?style=for-the-badge
-[WO-mj96]: https://img.shields.io/github/commit-activity/m/crimsonshade/minijam-96?style=for-the-badge
+[WO-gm_01]: https://img.shields.io/github/commit-activity/m/crimsonshade/astroids?style=for-the-badge
+[WO-ic]:    https://img.shields.io/github/commit-activity/m/crimsonshade/icarus?style=for-the-badge
+[WO-bl]:    https://img.shields.io/github/commit-activity/m/crimsonshade/crimsonshade.github.io?style=for-the-badge
+[WO-mj96]:  https://img.shields.io/github/commit-activity/m/crimsonshade/minijam-96?style=for-the-badge
 
 [SI-tw]: https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white
 [SI-yt]: https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white
@@ -86,11 +86,11 @@
 [SI-kf]: https://img.shields.io/badge/Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black
 
 <!-- LINKS -->
-[1]:    https://crimsonshade.github.io/
-[gm]:   https://github.com/crimsonshade/astroids
-[ic]:   https://github.com/crimsonshade/icarus
-[bl]:   https://github.com/crimsonshade/crimsonshade.github.io
-[mj96]: https://github.com/crimsonshade/minijam-96
+[1]:     https://crimsonshade.github.io/
+[gm_01]: https://github.com/crimsonshade/astroids
+[ic]:    https://github.com/crimsonshade/icarus
+[bl]:    https://github.com/crimsonshade/crimsonshade.github.io
+[mj96]:  https://github.com/crimsonshade/minijam-96
 
 [S-Design-L]: https://affinity.serif.com/de/designer/
 [S-Photo-L]: https://affinity.serif.com/de/photo/
