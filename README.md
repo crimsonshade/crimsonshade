@@ -7,6 +7,8 @@
   </p>
   <a href="#">
     <img src="https://github-readme-stats.vercel.app/api?username=crimsonshade&show_icons=true&theme=radical&hide=stars,prs&include_all_commits=true&custom_title=Crimsonshades+Stats" align="center" />
+
+    <img src="https://activity-graph.herokuapp.com/graph?username=crimsonshade&theme=dark" align="center" />
   </a>
   </div>
   <hr>
@@ -25,7 +27,7 @@
   | Languages  | [![Java][L-Java]][L-Java-L]                                                 |
   | Frameworks | [![Bootstrap][F-Boot]][F-Boot-L]                                            |
   |Terminal    | [![Git][T-Git]][T-Git-L] [![GitCLI][T-GitCLI]][T-GitCLI-L]                  |
-  
+
   </div>
   
   <div align="center">
