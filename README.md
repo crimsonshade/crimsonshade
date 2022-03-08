@@ -7,9 +7,12 @@
   </p>
   <a href="#">
     <img src="https://github-readme-stats.vercel.app/api?username=crimsonshade&show_icons=true&theme=radical&hide=stars,prs&include_all_commits=true&custom_title=Crimsonshades+Stats" align="center" />
-
-    <img src="https://activity-graph.herokuapp.com/graph?username=crimsonshade&theme=dark" align="center" />
   </a>
+  
+  <br />
+  
+  ![Das ist ein Test](https://activity-graph.herokuapp.com/graph?username=crimsonshade&theme=dark)
+  
   </div>
   <hr>
   <div align="center">
