@@ -28,7 +28,7 @@
   |------------|:----------------------------------------------------------------------------|
   | Software   | [![Affinity][S-Design]][S-Design-L] [![Photo][S-Photo]][S-Photo-L] [![Rider][S-Rider]][S-Rider-L] [![Unity][S-Unity]][S-Unity-L] |
   | Languages  | [![Java][L-Java]][L-Java-L]                                                 |
-  | Frameworks | [![Bootstrap][F-Boot]][F-Boot-L]                                            |
+  | Frameworks | `Currently nothing`                                           |
   |Terminal    | [![Git][T-Git]][T-Git-L] [![GitCLI][T-GitCLI]][T-GitCLI-L]                  |
 
   </div>
