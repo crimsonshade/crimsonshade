@@ -40,7 +40,7 @@
   # ~ 💻 Projects 💻 ~
   | Project                      | Status     | Commits        | Description                                                                                 |
   |------------------------------|:----------:|----------------|---------------------------------------------------------------------------------------------|
-  | [astroids][gm_01]            |  ✍ (WIP)  | ![ca][WO-gm_01]| This is the first game I try to create by my self. |
+  | [si-clone][gm_01]            |  ✍ (WIP)  | ![ca][WO-gm_01]| This is the first game I try to create by my self. |
   | [icarus][ic]                 |  ✍ (WIP)  | ![ca][WO-ic]   | This is just a little Discord offered I'm doing for fun to see how well it works out.       |
   | [crimsonshade.github.io][bl] |  ✍ (WIP)  | ![ca][WO-bl]   | This is a small blog page, where I try to learn HTML, CSS and the Bootstrap Framework.      |
   | [minijam-96][mj96]           |  ✅ (Done) | ![ca][WO-mj96] | This is a game, I made for a GameJam.                                                       |
