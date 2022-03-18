@@ -27,7 +27,7 @@
   | Type       | Item                                                                        |
   |------------|:----------------------------------------------------------------------------|
   | Software   | [![Affinity][S-Design]][S-Design-L] [![Photo][S-Photo]][S-Photo-L] [![Rider][S-Rider]][S-Rider-L] [![Unity][S-Unity]][S-Unity-L] |
-  | Languages  | [![Java][L-Java]][L-Java-L]                                                 |
+  | Languages  | [![Java][L-Java]][L-Java-L] [![Csharp][L-Csharp]][L-Csharp-L]                                    |
   | Frameworks | `Currently nothing`                                           |
   |Terminal    | [![Git][T-Git]][T-Git-L] [![GitCLI][T-GitCLI]][T-GitCLI-L]                  |
 
@@ -77,6 +77,7 @@
 [T-GitCLI]: https://img.shields.io/badge/GitHub--CLI-100000?style=for-the-badge&logo=github&logoColor=white
 [F-Boot]:   https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [L-Java]:   https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
+[L-Csharp]: https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
 
 [WO-gm_01]: https://img.shields.io/github/commit-activity/m/crimsonshade/astroids?style=for-the-badge
 [WO-ic]:    https://img.shields.io/github/commit-activity/m/crimsonshade/icarus?style=for-the-badge
@@ -98,12 +99,13 @@
 [mj96]:  https://github.com/crimsonshade/minijam-96
 
 [S-Design-L]: https://affinity.serif.com/de/designer/
-[S-Photo-L]: https://affinity.serif.com/de/photo/
-[S-Rider-L]: https://www.jetbrains.com/rider/
-[S-Unity-L]: https://unity.com/
-[L-Java-L]: https://www.oracle.com/java/
-[F-Boot-L]: https://getbootstrap.com/
-[T-Git-L]: https://git-scm.com/
+[S-Photo-L]:  https://affinity.serif.com/de/photo/
+[S-Rider-L]:  https://www.jetbrains.com/rider/
+[S-Unity-L]:  https://unity.com/
+[L-Java-L]:   https://www.oracle.com/java/
+[L-Csharp-L]: https://docs.microsoft.com/en-us/dotnet/csharp/
+[F-Boot-L]:   https://getbootstrap.com/
+[T-Git-L]:    https://git-scm.com/
 [T-GitCLI-L]: https://cli.github.com/
 
 [SL-tw]: http://bots-entertainment.com/twitch
