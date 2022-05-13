@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/crimsonshade/crimsonshade/blob/main/media/banner.gif" alt="my Banner" style="height:100px">
+  <img src="https://github.com/crimsonshade/crimsonshade/blob/main/media/banner.gif" alt="Crimsonshade. Developer, Gamer, Musician, and more" style="height:100px">
   <br/>
 </div>
 
@@ -7,7 +7,7 @@
 <div align="center">
   <h1>~ <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> About me <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ~</h1>
   <p>
-    Hello there! My name is Crimsonshade, but feel free to call me Erik ^^ I'm 21 years old I'm a self taught game developer! I love to play and create videogames, watch anime, and food is also very good! Thanks for reading this stuff and have a great day!
+    Hello there! My name is Crimsonshade, but feel free to call me Erik ^^ I'm 22 years old I'm a self taught game developer! I love to play and create videogames, watch anime, and food is also very good! Thanks for reading this stuff and have a great day!
   </p>
   <a href="#">
     <img src="https://github-readme-stats.vercel.app/api?username=crimsonshade&show_icons=true&theme=radical&hide=stars,prs&include_all_commits=true&custom_title=Crimsonshades+Stats" align="center" />
