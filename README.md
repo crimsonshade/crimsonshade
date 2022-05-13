@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/crimsonshade/crimsonshade/blob/main/media/banner.gif" alt="my Banner">
+  <img src="https://github.com/crimsonshade/crimsonshade/blob/main/media/banner.gif" alt="my Banner" style="height:150px">
   <br/>
 </div>
 
