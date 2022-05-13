@@ -16,7 +16,7 @@
   <br />
   <br />
   
-  ![Das ist ein Test](https://activity-graph.herokuapp.com/graph?username=crimsonshade&theme=dark)
+  ![dev-joke](https://activity-graph.herokuapp.com/graph?username=crimsonshade&theme=dark)
   
   </div>
   <hr>
