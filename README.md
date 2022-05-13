@@ -1,10 +1,3 @@
-<style>
-  *
-  {
-    background-color: green;
-  }
-</style>
-
 <div align="center">
   <img src="https://github.com/crimsonshade/crimsonshade/blob/main/media/banner.gif" alt="my Banner">
   <br/>
