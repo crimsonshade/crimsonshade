@@ -31,11 +31,10 @@
   
   | Type       | Item                                                                        |
   |------------|:----------------------------------------------------------------------------|
-  | Software   | [![Affinity][S-Design]][S-Design-L] [![Photo][S-Photo]][S-Photo-L] [![Rider][S-Rider]][S-Rider-L] [![Unity][S-Unity]][S-Unity-L] |
-  | Languages  | [![Java][L-Java]][L-Java-L] [![Csharp][L-Csharp]][L-Csharp-L]                                    |
-  | Frameworks | `Currently nothing`                                           |
-  |Terminal    | [![Git][T-Git]][T-Git-L] [![GitCLI][T-GitCLI]][T-GitCLI-L]                  |
-
+  | Software   | [![Affinity][S-Design]][S-Design-L] [![Photo][S-Photo]][S-Photo-L] [![Rider][S-Rider]][S-Rider-L] [![VSCode][S-VsCode]][S-VsCode-L] [![Unity][S-Unity]][S-Unity-L] |
+  | Languages  | [![Java][L-Java]][L-Java-L] [![Csharp][L-Csharp]][L-Csharp-L] |
+  | Frameworks | [![React][F-React]][F-React-L] |
+  |Terminal    | [![Git][T-Git]][T-Git-L] [![GitCLI][T-GitCLI]][T-GitCLI-L] |
   </div>
   
   <div align="center">
@@ -43,12 +42,12 @@
   ---
   
   # ~ 💻 Projects 💻 ~
-  | Project | Started | Status | Description |
+  | Project | Issues | Status | Description |
   |:--------|:-------:|:------:|:------------|
-  | [magic-rush][pj_01] | `01-01-2022` | [![ca][WO-pj_01]][pj_01_l] | This is the first game I try to create by my self. |
-  | [ludum-dare-50][pj_02] | `01-01-2022` | [![ca][WO-pj_02]][pj_02_l] | A small discord bot, just for having one.|
-  | [crimsonshade.github.io][pj_03] | `01-01-2022` | [![ca][WO-pj_03]][pj_03_l]   | This is a small blog page, where I try to learn HTML, CSS and the Bootstrap Framework. |
-  | [minijam-96][pj_04] | `01-01-2022` | [![ca][WO-pj_04]][pj_04_l] | This is a game, I made for a GameJam. |
+  | [magic-rush][pj_01] | ![Issues][pj_01_i] | [![ca][WO-pj_01]][pj_01_l] | This is the first game I try to create by my self. |
+  | [ludum-dare-50][pj_02] |  | [![ca][WO-pj_02]][pj_02_l] | A small discord bot, just for having one.|
+  | [crimsonshade.github.io][pj_03] |  | [![ca][WO-pj_03]][pj_03_l]   | This is a small blog page, where I try to learn HTML, CSS and the Bootstrap Framework. |
+  | [minijam-96][pj_04] |  | [![ca][WO-pj_04]][pj_04_l] | This is a game, I made for a GameJam. |
   
   </div>
   <hr>
@@ -62,12 +61,12 @@
   
   # ~ 🤜 Social Media 🤛 ~
   
-  [![Twtich][SI-tw]][SL-tw]
-  [![YouTube][SI-yt]][SL-yt]
   [![Itch][SI-it]][SL-it]
   [![Twitter][SI-tt]][SL-tt]
+  [![LinkedIn][SI-li]][SL-li]
   [![Discord][SI-dc]][SL-dc]
   [![KoFi][SI-kf]][SL-kf]
+  [![Patreon][SI-pa]][SL-pa]
 
 </div>
   
@@ -78,9 +77,10 @@
 [S-Rider]:  https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white
 [S-Design]: https://img.shields.io/badge/desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white
 [S-Photo]:  https://img.shields.io/badge/photo-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white
+[S-VsCode]: https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
 [T-Git]:    https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
 [T-GitCLI]: https://img.shields.io/badge/GitHub--CLI-100000?style=for-the-badge&logo=github&logoColor=white
-[F-Boot]:   https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+[F-React]:  https://img.shields.io/badge/-React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black
 [L-Java]:   https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
 [L-Csharp]: https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
 
@@ -89,12 +89,12 @@
 [WO-pj_03]: https://img.shields.io/badge/Visit-me-blue?style=flat-square
 [WO-pj_04]: https://img.shields.io/badge/Status-done-brightgreen?style=flat-square&logo=itch.io&logoColor=white
 
-[SI-tw]: https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white
-[SI-yt]: https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white
 [SI-it]: https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white
 [SI-tt]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
+[SI-li]: https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white
 [SI-dc]: https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
 [SI-kf]: https://img.shields.io/badge/Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black
+[SI-pa]: https://img.shields.io/badge/-Patreon-%23FF424D?style=for-the-badge&logo=patreon&logoColor=white
 
 <!-- LINKS -->
 [1]:     https://crimsonshade.github.io/
@@ -108,19 +108,23 @@
 [pj_03_l]: https://crimsonshade.github.io/
 [pj_04_l]: https://crimsonshade.itch.io/devils-fate
 
+[pj_01_i]: https://img.shields.io/github/issues/crimsonshade/magic-rush?style=flat-square
+[pj_02_i]: https://img.shields.io/github/issues/crimsonshade/run-fast?style=flat-square
+
 [S-Design-L]: https://affinity.serif.com/de/designer/
 [S-Photo-L]:  https://affinity.serif.com/de/photo/
 [S-Rider-L]:  https://www.jetbrains.com/rider/
 [S-Unity-L]:  https://unity.com/
+[S-VsCode-L]: https://code.visualstudio.com
 [L-Java-L]:   https://www.oracle.com/java/
 [L-Csharp-L]: https://docs.microsoft.com/en-us/dotnet/csharp/
-[F-Boot-L]:   https://getbootstrap.com/
+[F-React-L]:  https://reactjs.org/
 [T-Git-L]:    https://git-scm.com/
 [T-GitCLI-L]: https://cli.github.com/
 
-[SL-tw]: http://bots-entertainment.com/twitch
-[SL-yt]: http://bots-entertainment.com/crimson
 [SL-it]: https://crimsonshade.itch.io/
 [SL-tt]: https://twitter.com/crimsonshade_
+[SL-li]: https://www.linkedin.com/in/erik-huebl/
 [SL-dc]: http://bots-entertainment.com/discord
 [SL-kf]: https://www.buymeacoffee.com/crimsonshade
+[SL-pa]: https://www.patreon.com/crimsonshade
