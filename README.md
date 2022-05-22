@@ -21,20 +21,15 @@
   </div>
   <hr>
   <div align="center">
-
-  ## 😂 Here is a random joke that'll make you laugh!
-  ![Jokes Card](https://readme-jokes.vercel.app/api)
   
   # ~ 📚 Knowledge 📚 ~
   
-  Right now I am lerning this things!
+  <div align="left">
+    Currently I'm learning or have knowledge of:
+  </div>
+
+  [![Unity][Image_Unity]](https://unity.com) [![CSharp][Image_Csharp]](https://docs.microsoft.com/en-us/dotnet/csharp/) [![HTML][Image_HTML]](https://www.w3schools.com/html/default.asp) [![CSS][Image_CSS]](https://www.w3schools.com/css/default.asp) [![React][Image_React]](https://reactjs.org) [![Java][Image_Java]](https://www.java.com/de/) [![Designer][Image_Design]](https://affinity.serif.com/de/designer/) [![Photo][Image_Photo]](https://affinity.serif.com/de/photo/) [![Git][Image_git]](https://git-scm.com) [![CLI][Image_Cli]](https://cli.github.com)
   
-  | Type       | Item                                                                        |
-  |------------|:----------------------------------------------------------------------------|
-  | Software   | [![Affinity][S-Design]][S-Design-L] [![Photo][S-Photo]][S-Photo-L] [![Rider][S-Rider]][S-Rider-L] [![VSCode][S-VsCode]][S-VsCode-L] [![Unity][S-Unity]][S-Unity-L] |
-  | Languages  | [![Java][L-Java]][L-Java-L] [![Csharp][L-Csharp]][L-Csharp-L] |
-  | Frameworks | [![React][F-React]][F-React-L] |
-  |Terminal    | [![Git][T-Git]][T-Git-L] [![GitCLI][T-GitCLI]][T-GitCLI-L] |
   </div>
   
   <div align="center">
@@ -53,12 +48,31 @@
   <hr>
   <div align="center">
 
-  # ~ 🏆 My Trophys 🏆 ~
-
-  [![trophy](https://github-profile-trophy.vercel.app/?username=crimsonshade&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
   ---
-  
+
+  # ~ 🥰 Here is more stuff 🥰 ~
+
+  <div align="left">
+
+<details>
+<summary>📺 My Favorite Anime</summary>
+
+* [Demon Slayer](https://anilist.co/anime/101922/Demon-Slayer-Kimetsu-no-Yaiba/)
+* [Gurren Lagann](https://anilist.co/anime/2001/Gurren-Lagann/)
+* [High School DxD](https://anilist.co/anime/11617/High-School-DxD/)
+
+</details>
+
+<details>
+<summary>📊 Currently watching</summary>
+
+* [watched episode 5](https://anilist.co/activity/395993035) of [Spy x Family](https://anilist.co/anime/140960/SPY-x-FAMILY/)
+* [watched episode 16](https://anilist.co/activity/395994105) of [The Rising of the Shield Hero](https://anilist.co/anime/99263/The-Rising-of-the-Shield-Hero/)
+
+</details>
+
+  </div>
+
   # ~ 🤜 Social Media 🤛 ~
   
   [![Itch][SI-it]][SL-it]
@@ -71,18 +85,18 @@
 </div>
   
 <!-- IMAGES -->
-[1.1]: https://github.com/crimsonshade/crimsonshade/blob/main/media/banner.gif
+[Image_unity]:  https://img.shields.io/badge/-Unity-%23FFFFFF?style=for-the-badge&logo=Unity&logoColor=black
+[Image_HTML]:   https://img.shields.io/badge/-HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white
+[Image_CSS]:    https://img.shields.io/badge/-CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white
+[Image_React]:  https://img.shields.io/badge/-React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black
+[Image_CSharp]: https://img.shields.io/badge/-C%23-%23239120?style=for-the-badge&logo=csharp
+[Image_Java]:   https://img.shields.io/badge/-Java-%23007396?style=for-the-badge&logo=java&logoColor=white
+[Image_Design]: https://img.shields.io/badge/-Affinity%20Designer-%231B72BE?style=for-the-badge&logo=affinity-designer&logoColor=white
+[Image_Photo]:  https://img.shields.io/badge/-Affinity%20Photo-%237E4DD2?style=for-the-badge&logo=affinity-photo&logoColor=white
+[Image_Git]:    https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=white
+[Image_Cli]:    https://img.shields.io/badge/-GitHub%20Cli-%23181717?style=for-the-badge&logo=github&logoColor%20=%20white
 
-[S-Unity]:  https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white
-[S-Rider]:  https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white
-[S-Design]: https://img.shields.io/badge/desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white
-[S-Photo]:  https://img.shields.io/badge/photo-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white
-[S-VsCode]: https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
-[T-Git]:    https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
-[T-GitCLI]: https://img.shields.io/badge/GitHub--CLI-100000?style=for-the-badge&logo=github&logoColor=white
-[F-React]:  https://img.shields.io/badge/-React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black
-[L-Java]:   https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
-[L-Csharp]: https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
+[1.1]: https://github.com/crimsonshade/crimsonshade/blob/main/media/banner.gif
 
 [WO-pj_01]: https://img.shields.io/badge/Status-wip-orange?style=flat-square&logo=google-drive&logoColor=white
 [WO-pj_02]: https://img.shields.io/badge/Status-done-brightgreen?style=flat-square&logo=itch.io&logoColor=white
@@ -110,17 +124,6 @@
 
 [pj_01_i]: https://img.shields.io/github/issues/crimsonshade/magic-rush?style=flat-square
 [pj_02_i]: https://img.shields.io/github/issues/crimsonshade/run-fast?style=flat-square
-
-[S-Design-L]: https://affinity.serif.com/de/designer/
-[S-Photo-L]:  https://affinity.serif.com/de/photo/
-[S-Rider-L]:  https://www.jetbrains.com/rider/
-[S-Unity-L]:  https://unity.com/
-[S-VsCode-L]: https://code.visualstudio.com
-[L-Java-L]:   https://www.oracle.com/java/
-[L-Csharp-L]: https://docs.microsoft.com/en-us/dotnet/csharp/
-[F-React-L]:  https://reactjs.org/
-[T-Git-L]:    https://git-scm.com/
-[T-GitCLI-L]: https://cli.github.com/
 
 [SL-it]: https://crimsonshade.itch.io/
 [SL-tt]: https://twitter.com/crimsonshade_
