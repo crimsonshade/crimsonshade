@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/crimsonshade/crimsonshade/blob/main/media/banner.gif" alt="Crimsonshade. Developer, Gamer, Musician, and more" style="height:100px">
+  <img src="https://github.com/crimsonshade/crimsonshade/blob/main/media/banner.gif" alt="Crimsonshade. Developer, Gamer, Musician, and more" style="width:200px">
   <br/>
 </div>
 
@@ -73,7 +73,7 @@
 <details>
 <summary>📊 Currently watching</summary>
 
-* [watched episode 5](https://anilist.co/activity/395993035) of [Spy x Family](https://anilist.co/anime/140960/SPY-x-FAMILY/)
+* [watched episode 6 and 7](https://anilist.co/activity/396523295) of [Spy x Family](https://anilist.co/anime/140960/SPY-x-FAMILY/)
 * [watched episode 16](https://anilist.co/activity/395994105) of [The Rising of the Shield Hero](https://anilist.co/anime/99263/The-Rising-of-the-Shield-Hero/)
 * [watched episode 10](https://anilist.co/activity/396489754) of [Black Clover](https://anilist.co/anime/97940/Black-Clover/)
 * [watched episode 37](https://anilist.co/activity/396490269) of [Fairy Tail](https://anilist.co/anime/6702/Fairy-Tail/)
