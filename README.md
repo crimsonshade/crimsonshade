@@ -24,9 +24,9 @@
   
   # ~ 📚 Knowledge 📚 ~
   
-  <div align="left">
-    Currently I'm learning or have knowledge of:
-  </div>
+  Currently I'm learning or have knowledge of:
+
+  <br />
 
   [![Unity][Image_Unity]](https://unity.com) [![CSharp][Image_Csharp]](https://docs.microsoft.com/en-us/dotnet/csharp/) [![HTML][Image_HTML]](https://www.w3schools.com/html/default.asp) [![CSS][Image_CSS]](https://www.w3schools.com/css/default.asp) [![React][Image_React]](https://reactjs.org) [![Java][Image_Java]](https://www.java.com/de/) [![Designer][Image_Design]](https://affinity.serif.com/de/designer/) [![Photo][Image_Photo]](https://affinity.serif.com/de/photo/) [![Git][Image_git]](https://git-scm.com) [![CLI][Image_Cli]](https://cli.github.com)
   
@@ -55,11 +55,18 @@
   <div align="left">
 
 <details>
-<summary>📺 My Favorite Anime</summary>
+<summary>📺 My Watched Anime</summary>
 
-* [Demon Slayer](https://anilist.co/anime/101922/Demon-Slayer-Kimetsu-no-Yaiba/)
-* [Gurren Lagann](https://anilist.co/anime/2001/Gurren-Lagann/)
-* [High School DxD](https://anilist.co/anime/11617/High-School-DxD/)
+| NR | Title | Watched (first time) | Rating | Rewatches |
+|:--:|-------|---------|--------|-----------|
+| 0 | [Demon Slayer: Kimetsu no Yaiba](https://anilist.co/anime/101922/Demon-Slayer-Kimetsu-no-Yaiba/) | `05.04.2022`| ⭐⭐⭐⭐⭐ | 2 |
+| 1 | [Gurren Lagann](https://anilist.co/anime/2001/Gurren-Lagann/) | `12.06.2021` | ⭐⭐⭐⭐ | 0 |
+| 2 | [High School DxD](https://anilist.co/anime/2001/Gurren-Lagann/) | `25.08.2020` | ⭐⭐⭐⭐⭐ | 0 |
+| 3 | [Kill la Kill](https://anilist.co/anime/18679/Kill-la-Kill/) | `unkown` | ⭐⭐⭐ | 0 |
+| 4 | [Your Name.](https://anilist.co/anime/21519/Your-Name/) | `03.04.2022` | ⭐⭐⭐⭐⭐ | 1 |
+| 5 | [Seraph of the End: Vampire Reign](https://anilist.co/anime/20829/Seraph-of-the-End-Vampire-Reign/) | `unkown` | ⭐⭐ | 0 |
+| 6 | [Spirited Away](https://anilist.co/anime/199/Spirited-Away/) | `11.03.2016` | ⭐⭐⭐⭐⭐ | 0 |
+| 7 | [The Testament of Sister New Devil](https://anilist.co/anime/20678/The-Testament-of-Sister-New-Devil/) | `unknown` | ⭐⭐⭐⭐ | 0 |
 
 </details>
 
@@ -68,6 +75,9 @@
 
 * [watched episode 5](https://anilist.co/activity/395993035) of [Spy x Family](https://anilist.co/anime/140960/SPY-x-FAMILY/)
 * [watched episode 16](https://anilist.co/activity/395994105) of [The Rising of the Shield Hero](https://anilist.co/anime/99263/The-Rising-of-the-Shield-Hero/)
+* [watched episode 10](https://anilist.co/activity/396489754) of [Black Clover](https://anilist.co/anime/97940/Black-Clover/)
+* [watched episode 37](https://anilist.co/activity/396490269) of [Fairy Tail](https://anilist.co/anime/6702/Fairy-Tail/)
+* [watched episode 10](https://anilist.co/activity/396490694) of [Jujutsu Kaisen](https://anilist.co/anime/113415/JUJUTSU-KAISEN/)
 
 </details>
 
@@ -78,6 +88,7 @@
   [![Itch][SI-it]][SL-it]
   [![Twitter][SI-tt]][SL-tt]
   [![LinkedIn][SI-li]][SL-li]
+  [![AniList][SI-al]][SL-al]
   [![Discord][SI-dc]][SL-dc]
   [![KoFi][SI-kf]][SL-kf]
   [![Patreon][SI-pa]][SL-pa]
@@ -106,6 +117,7 @@
 [SI-it]: https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white
 [SI-tt]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
 [SI-li]: https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white
+[SI-al]: https://img.shields.io/badge/-AniList-%2302A9FF?style=for-the-badge&logo=anilist&logoColor=white
 [SI-dc]: https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
 [SI-kf]: https://img.shields.io/badge/Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black
 [SI-pa]: https://img.shields.io/badge/-Patreon-%23FF424D?style=for-the-badge&logo=patreon&logoColor=white
@@ -128,6 +140,7 @@
 [SL-it]: https://crimsonshade.itch.io/
 [SL-tt]: https://twitter.com/crimsonshade_
 [SL-li]: https://www.linkedin.com/in/erik-huebl/
+[SL-al]: https://anilist.co/user/CrimsonshadeTV/
 [SL-dc]: http://bots-entertainment.com/discord
 [SL-kf]: https://www.buymeacoffee.com/crimsonshade
 [SL-pa]: https://www.patreon.com/crimsonshade
