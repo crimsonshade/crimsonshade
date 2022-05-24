@@ -111,13 +111,13 @@
 <details>
 <summary>🏫 Some Courses</summary>
 
-| Lang | Course | Completion |
-|:----:|--------|:----------:|
-| DE | [Affinity Designer Meisterkurs: Der Komplette Kurs](./media/Certificates/AffinityDesigner.pdf) | `07.01.2022` |
-| DE | [Die komplette Unity & C# Masterclass - Entwickle 5 Spiele](./media/Certificates/Unity_C%23.pdf) | `15.01.2020` |
-| DE | [Git Komplettkurs: Vom Anfänger zum Profi (inkl. GitHub)](./media/Certificates/Git.pdf) | `16.12.2021` |
-| DE | [Der komplette Blender Kurs - Erstelle hochwertige 3D Modelle](./media/Certificates/Blender.pdf) | `26.11.2019` |
-| EN | [Learn Unity 2D. Make Your First Mobile Game.](./media/Certificates/Unity_Flappy.pdf) | `17.07.2020` |
+| Lang | Course | Completion | Platform |
+|:----:|--------|:----------:|:--------:|
+| DE | [Affinity Designer Meisterkurs: Der Komplette Kurs](./media/Certificates/AffinityDesigner.pdf) | `07.01.2022` | [Udemy](https://www.udemy.com/course/affinity-designer-meisterkurs/) |
+| DE | [Die komplette Unity & C# Masterclass - Entwickle 5 Spiele](./media/Certificates/Unity_C%23.pdf) | `15.01.2020` | [Udemy](https://www.udemy.com/course/die_unity_masterclass/) |
+| DE | [Git Komplettkurs: Vom Anfänger zum Profi (inkl. GitHub)](./media/Certificates/Git.pdf) | `16.12.2021` | [Udemy](https://www.udemy.com/course/git-komplett/) |
+| DE | [Der komplette Blender Kurs - Erstelle hochwertige 3D Modelle](./media/Certificates/Blender.pdf) | `26.11.2019` | [Udemy](https://www.udemy.com/course/blender-komplettkurs/) |
+| EN | [Learn Unity 2D. Make Your First Mobile Game.](./media/Certificates/Unity_Flappy.pdf) | `17.07.2020` | [Udemy](https://www.udemy.com/course/learn-unity-make-your-first-mobile-game/) |
 
 </details>
 
