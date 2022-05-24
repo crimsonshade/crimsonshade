@@ -86,6 +86,7 @@
 | 5 | [Seraph of the End: Vampire Reign](https://anilist.co/anime/20829/Seraph-of-the-End-Vampire-Reign/) | `unkown` | ⭐⭐ | 0 |
 | 6 | [Spirited Away](https://anilist.co/anime/199/Spirited-Away/) | `11.03.2016` | ⭐⭐⭐⭐⭐ | 0 |
 | 7 | [The Testament of Sister New Devil](https://anilist.co/anime/20678/The-Testament-of-Sister-New-Devil/) | `unknown` | ⭐⭐⭐⭐ | 0 |
+| 8 | [Naruto](https://anilist.co/anime/20/Naruto/) | `unknown` | ⭐⭐⭐⭐ | 0 |
 
 </details>
 
