@@ -119,6 +119,7 @@
 | DE | [Git Komplettkurs: Vom Anfänger zum Profi (inkl. GitHub)](./media/Certificates/Git.pdf) | `16.12.2021` | [Udemy](https://www.udemy.com/course/git-komplett/) |
 | DE | [Der komplette Blender Kurs - Erstelle hochwertige 3D Modelle](./media/Certificates/Blender.pdf) | `26.11.2019` | [Udemy](https://www.udemy.com/course/blender-komplettkurs/) |
 | EN | [Learn Unity 2D. Make Your First Mobile Game.](./media/Certificates/Unity_Flappy.pdf) | `17.07.2020` | [Udemy](https://www.udemy.com/course/learn-unity-make-your-first-mobile-game/) |
+| EN | [C# Basics for Beginners: Learn C# Fundamentals by Coding]() | `00.0%` | [Udemy](https://www.udemy.com/course/csharp-tutorial-for-beginners/) |
 
 </details>
 
