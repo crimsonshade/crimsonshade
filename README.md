@@ -51,7 +51,6 @@
   # ~ 💻 Projects 💻 ~
   | Project | Issues | Status | Description |
   |:--------|:-------:|:------:|:------------|
-  | [magic-rush][pj_01] | ![Issues][pj_01_i] | [![ca][WO-pj_01]][pj_01_l] | This is the first game I try to create by my self. |
   | [ludum-dare-50][pj_02] |  | [![ca][WO-pj_02]][pj_02_l] | A small discord bot, just for having one.|
   | [crimsonshade.github.io][pj_03] |  | [![ca][WO-pj_03]][pj_03_l]   | This is a small blog page, where I try to learn HTML, CSS and the Bootstrap Framework. |
   | [minijam-96][pj_04] |  | [![ca][WO-pj_04]][pj_04_l] | This is a game, I made for a GameJam. |
