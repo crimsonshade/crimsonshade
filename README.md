@@ -1,8 +1,13 @@
+<!-- BANNER [START] -->
+
 <div align="center">
   <img src="https://github.com/crimsonshade/crimsonshade/blob/main/media/banner.gif" alt="Crimsonshade. Developer, Gamer, Musician, and more" style="width:200px">
   <br/>
 </div>
 
+<!-- BANNER [END] -->
+
+<!-- ABOUT ME [START] -->
 
 <div align="center">
   <h1>~ <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> About me <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ~</h1>
@@ -13,6 +18,11 @@
     <img src="https://github-readme-stats.vercel.app/api?username=crimsonshade&show_icons=true&theme=radical&hide=stars,prs&include_all_commits=true&custom_title=Crimsonshades+Stats" align="center" />
   </a>
   </div>
+
+<!-- ABOUT ME [END] -->
+
+<!-- KNOWLEDGE [START] -->
+
   <hr>
   <div align="center">
   
@@ -22,10 +32,18 @@
 
   <br />
 
+  <!-- KNOWLEDGE BAGES [START] -->
+
   [![Unity][Image_Unity]](https://unity.com) [![CSharp][Image_Csharp]](https://docs.microsoft.com/en-us/dotnet/csharp/) [![HTML][Image_HTML]](https://www.w3schools.com/html/default.asp) [![CSS][Image_CSS]](https://www.w3schools.com/css/default.asp) [![React][Image_React]](https://reactjs.org) [![Java][Image_Java]](https://www.java.com/de/) [![Designer][Image_Design]](https://affinity.serif.com/de/designer/) [![Photo][Image_Photo]](https://affinity.serif.com/de/photo/) [![Git][Image_git]](https://git-scm.com) [![CLI][Image_Cli]](https://cli.github.com)
+
+  <!-- KNOWLEDGE BAGES [END] -->
   
   </div>
   
+  <!-- KNOWLEDGE [END] -->
+
+  <!-- PROJECTS [START] -->
+
   <div align="center">
   
   ---
@@ -39,6 +57,11 @@
   | [minijam-96][pj_04] |  | [![ca][WO-pj_04]][pj_04_l] | This is a game, I made for a GameJam. |
   
   </div>
+
+<!-- PROJECTS [END] -->
+
+<!-- MORE [START] -->
+
   <hr>
   <div align="center">
 
@@ -47,6 +70,8 @@
   # ~ 🥰 Here is more stuff 🥰 ~
 
   <div align="left">
+
+  <!-- WATCHED ANIME [START] -->
 
 <details>
 <summary>📺 My Watched Anime</summary>
@@ -64,6 +89,10 @@
 
 </details>
 
+<!-- WATCHED ANIME [END] -->
+
+<!-- CURRENTLY WATCHING [START] -->
+
 <details>
 <summary>📊 Currently watching</summary>
 
@@ -74,6 +103,11 @@
 * [watched episode 10](https://anilist.co/activity/396490694) of [Jujutsu Kaisen](https://anilist.co/anime/113415/JUJUTSU-KAISEN/)
 
 </details>
+
+<!-- CURRENTLY WATCHING [END] -->
+
+<!-- COURSES [START] -->
+
 <details>
 <summary>🏫 Some Courses</summary>
 
@@ -87,7 +121,13 @@
 
 </details>
 
+<!-- COURSES [END] -->
+
   </div>
+
+  <!-- MORE [END] -->
+
+  <!-- SOCIALS [START] -->
 
   # ~ 🤜 Social Media 🤛 ~
   
@@ -99,9 +139,14 @@
   [![KoFi][SI-kf]][SL-kf]
   [![Patreon][SI-pa]][SL-pa]
 
+  <!-- SOCIALS [END] -->
+
 </div>
   
 <!-- IMAGES -->
+
+<!-- KNOWLEGE BAGDE [START] -->
+
 [Image_unity]:  https://img.shields.io/badge/-Unity-%23FFFFFF?style=for-the-badge&logo=Unity&logoColor=black
 [Image_HTML]:   https://img.shields.io/badge/-HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white
 [Image_CSS]:    https://img.shields.io/badge/-CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white
@@ -113,12 +158,30 @@
 [Image_Git]:    https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=white
 [Image_Cli]:    https://img.shields.io/badge/-GitHub%20Cli-%23181717?style=for-the-badge&logo=github&logoColor%20=%20white
 
+<!-- KNOWLEGDE BADGE [END] -->
+
+<!-- BANNER [START] -->
+
 [1.1]: https://github.com/crimsonshade/crimsonshade/blob/main/media/banner.gif
+
+<!-- BANNER [END] -->
+
+<!-- PROJECT STATUS BADGE [START] -->
 
 [WO-pj_01]: https://img.shields.io/badge/Status-wip-orange?style=flat-square&logo=google-drive&logoColor=white
 [WO-pj_02]: https://img.shields.io/badge/Status-done-brightgreen?style=flat-square&logo=itch.io&logoColor=white
 [WO-pj_03]: https://img.shields.io/badge/Visit-me-blue?style=flat-square
 [WO-pj_04]: https://img.shields.io/badge/Status-done-brightgreen?style=flat-square&logo=itch.io&logoColor=white
+
+<!-- PROJECT STATUS BADGE [END] -->
+
+<!-- PROJECT ISSUES BADGE [START] -->
+
+[pj_01_i]: https://img.shields.io/github/issues/crimsonshade/magic-rush?style=flat-square
+
+<!-- PROJECT ISSUES BADGE [END] -->
+
+<!-- SOCIALS BADGE [START] -->
 
 [SI-it]: https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white
 [SI-tt]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
@@ -128,20 +191,30 @@
 [SI-kf]: https://img.shields.io/badge/Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black
 [SI-pa]: https://img.shields.io/badge/-Patreon-%23FF424D?style=for-the-badge&logo=patreon&logoColor=white
 
+<!-- SOCIALS BADGE [END] -->
+
 <!-- LINKS -->
+
+<!-- TO PROJECTS LINKS [START] -->
+
 [1]:     https://crimsonshade.github.io/
 [pj_01]: https://github.com/crimsonshade/magic-rush
 [pj_02]:    https://github.com/crimsonshade/run-fast
 [pj_03]:    https://github.com/crimsonshade/crimsonshade.github.io
 [pj_04]:  https://github.com/crimsonshade/minijam-96
 
+<!-- TO PROJECT LINKS [END] -->
+
+<!-- PROJECT DOWNLOAD [START] -->
+
 [pj_01_l]: https://drive.google.com/file/d/1h9U0aOT1zBLbaSAovF2wM4QC8lAxJ1xj/view?usp=sharing
 [pj_02_l]: https://crimsonshade.itch.io/ldjam-50
 [pj_03_l]: https://crimsonshade.github.io/
 [pj_04_l]: https://crimsonshade.itch.io/devils-fate
 
-[pj_01_i]: https://img.shields.io/github/issues/crimsonshade/magic-rush?style=flat-square
-[pj_02_i]: https://img.shields.io/github/issues/crimsonshade/run-fast?style=flat-square
+<!-- PROJECT DONWLOAD [END] -->
+
+<!-- SOCIALS LINKS [START] -->
 
 [SL-it]: https://crimsonshade.itch.io/
 [SL-tt]: https://twitter.com/crimsonshade_
@@ -150,3 +223,5 @@
 [SL-dc]: http://bots-entertainment.com/discord
 [SL-kf]: https://www.buymeacoffee.com/crimsonshade
 [SL-pa]: https://www.patreon.com/crimsonshade
+
+<!-- SOCIALS LINKS [END] -->
