@@ -12,12 +12,6 @@
   <a href="#">
     <img src="https://github-readme-stats.vercel.app/api?username=crimsonshade&show_icons=true&theme=radical&hide=stars,prs&include_all_commits=true&custom_title=Crimsonshades+Stats" align="center" />
   </a>
-  
-  <br />
-  <br />
-  
-  ![dev-joke](https://activity-graph.herokuapp.com/graph?username=crimsonshade&theme=dark)
-  
   </div>
   <hr>
   <div align="center">
@@ -78,6 +72,18 @@
 * [watched episode 10](https://anilist.co/activity/396489754) of [Black Clover](https://anilist.co/anime/97940/Black-Clover/)
 * [watched episode 37](https://anilist.co/activity/396490269) of [Fairy Tail](https://anilist.co/anime/6702/Fairy-Tail/)
 * [watched episode 10](https://anilist.co/activity/396490694) of [Jujutsu Kaisen](https://anilist.co/anime/113415/JUJUTSU-KAISEN/)
+
+</details>
+<details>
+<summary>🏫 Some Courses</summary>
+
+| Lang | Course | Completion |
+|:----:|--------|:----------:|
+| DE | [Affinity Designer Meisterkurs: Der Komplette Kurs](./media/Certificates/AffinityDesigner.pdf) | `07.01.2022` |
+| DE | [Die komplette Unity & C# Masterclass - Entwickle 5 Spiele](./media/Certificates/Unity_C%23.pdf) | `15.01.2020` |
+| DE | [Git Komplettkurs: Vom Anfänger zum Profi (inkl. GitHub)](./media/Certificates/Git.pdf) | `16.12.2021` |
+| DE | [Der komplette Blender Kurs - Erstelle hochwertige 3D Modelle](./media/Certificates/Blender.pdf) | `26.11.2019` |
+| EN | [Learn Unity 2D. Make Your First Mobile Game.](./media/Certificates/Unity_Flappy.pdf) | `17.07.2020` |
 
 </details>
 
