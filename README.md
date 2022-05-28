@@ -87,6 +87,7 @@
 | 6 | [Spirited Away](https://anilist.co/anime/199/Spirited-Away/) | `11.03.2016` | ⭐⭐⭐⭐⭐ | 0 |
 | 7 | [The Testament of Sister New Devil](https://anilist.co/anime/20678/The-Testament-of-Sister-New-Devil/) | `unknown` | ⭐⭐⭐⭐ | 0 |
 | 8 | [Naruto](https://anilist.co/anime/20/Naruto/) | `unknown` | ⭐⭐⭐⭐ | 0 |
+| 9 | [The Rising of the Shield Hero (Season 1)](https://anilist.co/anime/99263/The-Rising-of-the-Shield-Hero/) | `28.05.2022`| ⭐⭐⭐⭐ | 0 |
 
 </details>
 
@@ -97,8 +98,7 @@
 <details>
 <summary>📊 Currently watching</summary>
 
-* [watched episode 6 and 7](https://anilist.co/activity/396523295) of [Spy x Family](https://anilist.co/anime/140960/SPY-x-FAMILY/)
-* [watched episode 16](https://anilist.co/activity/395994105) of [The Rising of the Shield Hero](https://anilist.co/anime/99263/The-Rising-of-the-Shield-Hero/)
+* [watched episode 8](https://anilist.co/activity/398741857) of [Spy x Family](https://anilist.co/anime/140960/SPY-x-FAMILY/)
 * [watched episode 10](https://anilist.co/activity/396489754) of [Black Clover](https://anilist.co/anime/97940/Black-Clover/)
 * [watched episode 37](https://anilist.co/activity/396490269) of [Fairy Tail](https://anilist.co/anime/6702/Fairy-Tail/)
 * [watched episode 10](https://anilist.co/activity/396490694) of [Jujutsu Kaisen](https://anilist.co/anime/113415/JUJUTSU-KAISEN/)
