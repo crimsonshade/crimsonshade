@@ -138,7 +138,6 @@
   [![LinkedIn][SI-li]][SL-li]
   [![AniList][SI-al]][SL-al]
   [![Discord][SI-dc]][SL-dc]
-  [![KoFi][SI-kf]][SL-kf]
   [![Patreon][SI-pa]][SL-pa]
 
   <!-- SOCIALS [END] -->
@@ -190,7 +189,6 @@
 [SI-li]: https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white
 [SI-al]: https://img.shields.io/badge/-AniList-%2302A9FF?style=for-the-badge&logo=anilist&logoColor=white
 [SI-dc]: https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
-[SI-kf]: https://img.shields.io/badge/Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black
 [SI-pa]: https://img.shields.io/badge/-Patreon-%23FF424D?style=for-the-badge&logo=patreon&logoColor=white
 
 <!-- SOCIALS BADGE [END] -->
@@ -223,7 +221,6 @@
 [SL-li]: https://www.linkedin.com/in/erik-huebl/
 [SL-al]: https://anilist.co/user/CrimsonshadeTV/
 [SL-dc]: http://bots-entertainment.com/discord
-[SL-kf]: https://www.buymeacoffee.com/crimsonshade
 [SL-pa]: https://www.patreon.com/crimsonshade
 
 <!-- SOCIALS LINKS [END] -->
