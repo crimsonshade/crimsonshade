@@ -201,15 +201,15 @@
 
 [1]:     https://crimsonshade.github.io/
 [pj_01]: https://github.com/crimsonshade/magic-rush
-[pj_02]:    https://github.com/crimsonshade/run-fast
-[pj_03]:    https://github.com/crimsonshade/crimsonshade.github.io
+[pj_02]: https://github.com/crimsonshade/run-fast
+[pj_03]: https://github.com/crimsonshade/crimsonshade.github.io
 [pj_04]:  https://github.com/crimsonshade/minijam-96
 
 <!-- TO PROJECT LINKS [END] -->
 
 <!-- PROJECT DOWNLOAD [START] -->
 
-[pj_01_l]: https://drive.google.com/file/d/1h9U0aOT1zBLbaSAovF2wM4QC8lAxJ1xj/view?usp=sharing
+[pj_01_l]: https://drive.google.com/file/d/1TxdT9vS6st8jYW2a8Fle6qQqDLwFVJd0/view?usp=sharing
 [pj_02_l]: https://crimsonshade.itch.io/ldjam-50
 [pj_03_l]: https://crimsonshade.github.io/
 [pj_04_l]: https://crimsonshade.itch.io/devils-fate
