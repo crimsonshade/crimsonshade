@@ -127,6 +127,14 @@
 
 <!-- COURSES [END] -->
 
+<!-- BLOG [START] -->
+<details>
+<summary>✍ My Blog Posts</summary>
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@crimsonshade/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@crimsonshade/0" alt="Recent Article 0"> 
+
+</details>
+
   </div>
 
   <!-- MORE [END] -->
