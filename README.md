@@ -149,6 +149,7 @@
   [![AniList][SI-al]][SL-al]
   [![Discord][SI-dc]][SL-dc]
   [![Patreon][SI-pa]][SL-pa]
+  [![Medium][SI-me]][SL-me]
 
   <!-- SOCIALS [END] -->
 
@@ -200,6 +201,7 @@
 [SI-al]: https://img.shields.io/badge/-AniList-%2302A9FF?style=for-the-badge&logo=anilist&logoColor=white
 [SI-dc]: https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
 [SI-pa]: https://img.shields.io/badge/-Patreon-%23FF424D?style=for-the-badge&logo=patreon&logoColor=white
+[SI-me]: https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white
 
 <!-- SOCIALS BADGE [END] -->
 
@@ -227,10 +229,11 @@
 <!-- SOCIALS LINKS [START] -->
 
 [SL-it]: https://crimsonshade.itch.io/
-[SL-tt]: https://twitter.com/crimsonshade_
+[SL-tt]: https://twitter.com/crimsonshade_/
 [SL-li]: https://www.linkedin.com/in/erik-huebl/
 [SL-al]: https://anilist.co/user/CrimsonshadeTV/
 [SL-dc]: http://bots-entertainment.com/discord
-[SL-pa]: https://www.patreon.com/crimsonshade
+[SL-pa]: https://www.patreon.com/crimsonshade/
+[SL-me]: https://medium.com/@crimsonshade/
 
 <!-- SOCIALS LINKS [END] -->
