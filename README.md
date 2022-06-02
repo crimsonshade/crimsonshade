@@ -10,7 +10,7 @@
 <!-- ABOUT ME [START] -->
 
 <div align="center">
-  <h1>~ <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> About me <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ~</h1>
+  <h1>~ <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"> About me <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"> ~</h1>
   <p>
     Hello there! My name is Crimsonshade, but feel free to call me Erik ^^ I'm 22 years old I'm a self taught game developer! I love to play and create videogames, watch anime, and food is also very good! Thanks for reading this stuff and have a great day!
   </p>
