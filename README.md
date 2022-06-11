@@ -224,7 +224,7 @@ You are intersted to read more about me and what I am doing?
 
 <div align="center">
 
-If you are interessted in me and wanne see more, just checkout some of my social media stuff down here!
+👇 If you are interessted in me and wanne see more, just checkout some of my social media stuff down here! 👇
   
 [![Itch][SI-it]][SL-it]
 [![Patreon][SI-pa]][SL-pa]
