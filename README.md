@@ -24,8 +24,6 @@
 <!-- KNOWLEDGE [START] -->
 
   <div align="center">
-
-  <br/>
   
   # ~ 📚 Knowledge 📚 ~
   
@@ -46,7 +44,6 @@
   <!-- PROJECTS [START] -->
 
   <div align="center">  
-  <br/>
 
   # ~ 💻 Projects 💻 ~
   | Project | Status | Description |
@@ -62,7 +59,6 @@
 <!-- MORE [START] -->
 
 <div align="center">
-<br/>
 
   # ~ 🥰 Here is more stuff 🥰 ~
 
