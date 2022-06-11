@@ -1,7 +1,7 @@
 <!-- BANNER [START] -->
 
 <div align="center">
-  <img src="https://github.com/crimsonshade/crimsonshade/blob/main/media/banner.gif" alt="Crimsonshade. Developer, Gamer, Musician, and more" style="width:200px;">
+  <img width="100%" src="media/banner_pyro.gif" alt="Crimsonshade. Developer, Gamer, Musician, and more" />
   <br/>
 </div>
 
@@ -10,7 +10,7 @@
 <!-- ABOUT ME [START] -->
 
 <div align="center">
-  <h1>~ 👋 About me 👋 ~</h1>
+  <h1>~ <img width="30" src="media/hi.gif" /> About me <img width="30" src="media/hi.gif" /> ~</h1>
   <p>
     Hello there! My name is Crimsonshade, but feel free to call me Erik ^^ I'm 22 years old I'm a self taught game developer! I love to play and create videogames, watch anime, and food is also very good! Thanks for reading this stuff and have a great day!
   </p>
