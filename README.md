@@ -10,7 +10,7 @@
 <!-- ABOUT ME [START] -->
 
 <div align="center">
-  <h1>~ <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="width:30px;"> About me <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="width:30px;"> ~</h1>
+  <h1>~ 👋 About me 👋 ~</h1>
   <p>
     Hello there! My name is Crimsonshade, but feel free to call me Erik ^^ I'm 22 years old I'm a self taught game developer! I love to play and create videogames, watch anime, and food is also very good! Thanks for reading this stuff and have a great day!
   </p>
@@ -23,8 +23,9 @@
 
 <!-- KNOWLEDGE [START] -->
 
-  <hr>
   <div align="center">
+
+  <br/>
   
   # ~ 📚 Knowledge 📚 ~
   
@@ -44,17 +45,15 @@
 
   <!-- PROJECTS [START] -->
 
-  <div align="center">
-  
-  ---
-  
+  <div align="center">  
+  <br/>
+
   # ~ 💻 Projects 💻 ~
   | Project | Status | Description |
   |:--------|:------:|:------------|
   | magic-rush | [![ca][WO-pj_01]][pj_01_l] | My first own mobile app, I am creating by my self. |
   | [ludum-dare-50][pj_02] | [![ca][WO-pj_02]][pj_02_l] | A small discord bot, just for having one.|
-  | [ANTgame][pj_03] | [![ca][WO-pj_03]][pj_03_l]   | The Weekly Game Jam number 255 game! |
-  | [minijam-96][pj_04] | [![ca][WO-pj_04]][pj_04_l] | This is a game, I made for a GameJam. |
+  | [minijam-96][pj_03] | [![ca][WO-pj_03]][pj_03_l] | This is a game, I made for a GameJam. |
   
   </div>
 
@@ -62,14 +61,12 @@
 
 <!-- MORE [START] -->
 
-  <hr>
-  <div align="center">
-
-  ---
+<div align="center">
+<br/>
 
   # ~ 🥰 Here is more stuff 🥰 ~
 
-  <div align="left">
+<div align="left">
 
   <!-- WATCHED ANIME [START] -->
 
@@ -125,22 +122,13 @@
 
 
 </details>
-
-<!-- COURSES [END] -->
-
-<!-- BLOG [START] -->
-<details>
-<summary>✍ My Blog Posts</summary>
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@crimsonshade/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@crimsonshade/0" alt="Recent Article 0"> 
-
-</details>
-
-  </div>
+</div>
 
   <!-- MORE [END] -->
 
   <!-- SOCIALS [START] -->
+
+<br/>
 
   # ~ 🤜 Social Media 🤛 ~
   
@@ -183,8 +171,7 @@
 
 [WO-pj_01]: https://img.shields.io/badge/Status-wip-orange?style=flat-square&logo=google-drive&logoColor=white
 [WO-pj_02]: https://img.shields.io/badge/Status-done-brightgreen?style=flat-square&logo=itch.io&logoColor=white
-[WO-pj_03]: https://img.shields.io/badge/Status-wip-orange?style=flat-square&logo=itch.io&logoColor=white
-[WO-pj_04]: https://img.shields.io/badge/Status-done-brightgreen?style=flat-square&logo=itch.io&logoColor=white
+[WO-pj_03]: https://img.shields.io/badge/Status-done-brightgreen?style=flat-square&logo=itch.io&logoColor=white
 
 <!-- PROJECT STATUS BADGE [END] -->
 
@@ -213,8 +200,7 @@
 [1]:     https://crimsonshade.github.io/
 [pj_01]: https://github.com/crimsonshade/magic-rush
 [pj_02]: https://github.com/crimsonshade/ANTgame
-[pj_03]: https://github.com/crimsonshade/crimsonshade.github.io
-[pj_04]:  https://github.com/crimsonshade/minijam-96
+[pj_03]:  https://github.com/crimsonshade/minijam-96
 
 <!-- TO PROJECT LINKS [END] -->
 
@@ -222,8 +208,7 @@
 
 [pj_01_l]: https://drive.google.com/file/d/1TxdT9vS6st8jYW2a8Fle6qQqDLwFVJd0/view?usp=sharing
 [pj_02_l]: https://crimsonshade.itch.io/ldjam-50
-[pj_03_l]: https://crimsonshade.itch.io/ANTgame
-[pj_04_l]: https://crimsonshade.itch.io/devils-fate
+[pj_03_l]: https://crimsonshade.itch.io/devils-fate
 
 <!-- PROJECT DONWLOAD [END] -->
 
