@@ -1,7 +1,7 @@
 <!-- BANNER [START] -->
 
 <div align="center">
-  <img src="https://github.com/crimsonshade/crimsonshade/blob/main/media/banner.gif" alt="Crimsonshade. Developer, Gamer, Musician, and more" style="width:200px">
+  <img src="https://github.com/crimsonshade/crimsonshade/blob/main/media/banner.gif" alt="Crimsonshade. Developer, Gamer, Musician, and more" style="width:200px;">
   <br/>
 </div>
 
