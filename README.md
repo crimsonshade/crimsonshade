@@ -124,8 +124,6 @@
 
   <!-- SOCIALS [START] -->
 
-<br/>
-
   # ~ 🤜 Social Media 🤛 ~
   
   [![Itch][SI-it]][SL-it]
