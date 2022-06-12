@@ -40,20 +40,21 @@ You are intersted to read more about me and what I am doing?
     <a href="https://github.com/crimsonshade/crimsonshade.github.io">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=crimsonshade&repo=crimsonshade.github.io&theme=github_dark" />
     </a>
-  </div>
-
-<details>
-  <summary>Finished</summary>
-  <div align="center">
-    <a href="https://github.com/crimsonshade/minijam-96">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=crimsonshade&repo=minijam-96&theme=github_dark" />
-    </a>
-    <a href="https://github.com/crimsonshade/run-fast">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=crimsonshade&repo=run-fast&theme=github_dark" />
+    <a href="https://github.com/crmsn-xyz/magic-rush-infos">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=crmsn-xyz&repo=magic-rush-infos&theme=github_dark" />
     </a>
   </div>
-</details>
-
+  <details>
+    <summary>Finished</summary>
+    <div align="center">
+      <a href="https://github.com/crimsonshade/minijam-96">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=crimsonshade&repo=minijam-96&theme=github_dark" />
+      </a>
+      <a href="https://github.com/crimsonshade/run-fast">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=crimsonshade&repo=run-fast&theme=github_dark" />
+      </a>
+    </div>
+  </details>
 </details>
 
 <details>
