@@ -101,7 +101,7 @@ You are intersted to read more about me and what I am doing?
     <td><a href="https://anilist.co/anime/21519/Your-Name/">Your Name.</a></td>
     <td><code>03.04.2022</code></td>
     <td>⭐⭐⭐⭐⭐</td>
-    <td>1</td>
+    <td>4</td>
   </tr>
   <tr>
     <td>5</td>
@@ -138,6 +138,13 @@ You are intersted to read more about me and what I am doing?
     <td>⭐⭐⭐⭐</td>
     <td>0</td>
   </tr>
+  <tr>
+    <td>10</td>
+    <td><a href="https://anilist.co/anime/140960/SPY-x-FAMILY/">SPY x FAMILY</a></td>
+    <td><code>26.06.2022</code></td>
+    <td>⭐⭐⭐⭐⭐</td>
+    <td>0</td>
+  </tr>
 </table>
 
 </details>
@@ -150,7 +157,6 @@ You are intersted to read more about me and what I am doing?
   <summary>📊 Currently watching</summary>
   <h4>Here is a list of Animes, or Series I'm currently watching with a link to there <a href="https://anilist.co/">anilist.co</a> page</h4>
   <ul>
-    <li><code>watched episoide 8</code> of <a href="https://anilist.co/anime/140960/SPY-x-FAMILY/">Spy x Family</a> on <a href="https://beta.crunchyroll.com/de">Crunchyroll</a></li>
     <li><code>watched episoide 10</code> of <a href="https://anilist.co/anime/97940/Black-Clover/">Black Clover</a> on <a href="https://beta.crunchyroll.com/de">Crunchyroll</a></li>
     <li><code>watched episoide 37</code> of <a href="https://anilist.co/anime/6702/Fairy-Tail/">Fairy Tail</a> on <a href="https://beta.crunchyroll.com/de">Crunchyroll</a></li>
     <li><code>watched episoide 10</code> of <a href="https://anilist.co/anime/113415/JUJUTSU-KAISEN/">JUJUTSU Kiasen</a> on <a href="https://beta.crunchyroll.com/de">Crunchyroll</a></li>
