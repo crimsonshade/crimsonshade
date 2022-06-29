@@ -177,7 +177,7 @@ You are intersted to read more about me and what I am doing?
 [![LinkedIn][SI-li]][SL-li]
 [![AniList][SI-al]][SL-al]
 [![Discord][SI-dc]][SL-dc]
-[![Medium][SI-me]][SL-me]
+
   
 </div>
 
