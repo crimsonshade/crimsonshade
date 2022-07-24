@@ -152,6 +152,27 @@ You are intersted to read more about me and what I am doing?
     <td>⭐⭐⭐⭐</td>
     <td>0</td>
   </tr>
+  <tr>
+    <td>11</td>
+    <td><a href="https://anilist.co/anime/21700/Rokudenashi-Majutsu-Koushi-to-Akashic-Records/">Akashic Records of Bastard Magic Instructor</a></td>
+    <td>29.06.2022</td>
+    <td>⭐⭐⭐</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>12</td>
+    <td><a href="https://anilist.co/anime/21827/Violet-Evergarden/">Violet Evergarden</a></td>
+    <td>20.07.2022</td>
+    <td>⭐⭐⭐⭐⭐</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td><a href="https://anilist.co/anime/106286/Weathering-With-You/">Weathering with you</a></td>
+    <td>18.07.2022</td>
+    <td>⭐⭐⭐⭐</td>
+    <td>0</td>
+  </tr>
 </table>
 
 </details>
@@ -164,9 +185,8 @@ You are intersted to read more about me and what I am doing?
   <summary>📊 Currently watching</summary>
   <h4>Here is a list of Animes, or Series I'm currently watching with a link to there <a href="https://anilist.co/">anilist.co</a> page</h4>
   <ul>
-    <li><code>watched episode 10</code> of <a href="https://anilist.co/anime/97940/Black-Clover/">Black Clover</a> on <a href="https://beta.crunchyroll.com/de">Crunchyroll</a></li>
-    <li><code>watched episode 37</code> of <a href="https://anilist.co/anime/6702/Fairy-Tail/">Fairy Tail</a> on <a href="https://beta.crunchyroll.com/de">Crunchyroll</a></li>
-    <li><code>watched episode 10</code> of <a href="https://anilist.co/anime/113415/JUJUTSU-KAISEN/">JUJUTSU Kiasen</a> on <a href="https://beta.crunchyroll.com/de">Crunchyroll</a></li>
+    <li><code>watched episode 1</code> of <a href="https://anilist.co/anime/143270/Lycoris-Recoil/">Lycoris Recoil</a> on <a href="https://beta.crunchyroll.com/de">Crunchyroll</a></li>
+    <li><code>watched episode 5</code> of <a href="https://anilist.co/anime/116006/The-God-of-High-School/">The God of Highschool</a> on <a href="https://beta.crunchyroll.com/de">Crunchyroll</a></li>
   </ul>
 </details>
 </div>
