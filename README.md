@@ -187,6 +187,7 @@ You are intersted to read more about me and what I am doing?
   <ul>
     <li><code>watched episode 1</code> of <a href="https://anilist.co/anime/143270/Lycoris-Recoil/">Lycoris Recoil</a> on <a href="https://beta.crunchyroll.com/de">Crunchyroll</a></li>
     <li><code>watched episode 7</code> of <a href="https://anilist.co/anime/116006/The-God-of-High-School/">The God of Highschool</a> on <a href="https://beta.crunchyroll.com/de">Crunchyroll</a></li>
+    <li><code>watched episode 6</code> of <a href="https://anilist.co/anime/99423/DARLING-in-the-FRANXX/">DARLING in the FRANXX</a> on <a href="https://beta.crunchyroll.com/de">Crunchyroll</a></li>
   </ul>
 </details>
 </div>
