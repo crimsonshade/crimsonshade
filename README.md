@@ -147,13 +147,6 @@ You are intersted to read more about me and what I am doing?
   </tr>
   <tr>
     <td>11</td>
-    <td><a href="https://anilist.co/anime/21700/Rokudenashi-Majutsu-Koushi-to-Akashic-Records/">Rokudenashi-Majutsu-Koushi-to-Akashic-Records</a></td>
-    <td><code>29.07.2022</code></td>
-    <td>⭐⭐⭐⭐</td>
-    <td>0</td>
-  </tr>
-  <tr>
-    <td>11</td>
     <td><a href="https://anilist.co/anime/21700/Rokudenashi-Majutsu-Koushi-to-Akashic-Records/">Akashic Records of Bastard Magic Instructor</a></td>
     <td>29.06.2022</td>
     <td>⭐⭐⭐</td>
@@ -173,6 +166,13 @@ You are intersted to read more about me and what I am doing?
     <td>⭐⭐⭐⭐</td>
     <td>0</td>
   </tr>
+  <tr>
+    <td>14</td>
+    <td><a href="https://anilist.co/anime/21459/My-Hero-Academia/">My Hero Academia</a></td>
+    <td>02.08.2022</td>
+    <td>⭐⭐⭐⭐</td>
+    <td>0</td>
+  </tr>
 </table>
 
 </details>
@@ -187,7 +187,7 @@ You are intersted to read more about me and what I am doing?
   <ul>
     <li><code>watched episode 1</code> of <a href="https://anilist.co/anime/143270/Lycoris-Recoil/">Lycoris Recoil</a> on <a href="https://beta.crunchyroll.com/de">Crunchyroll</a></li>
     <li><code>watched episode 7</code> of <a href="https://anilist.co/anime/116006/The-God-of-High-School/">The God of Highschool</a> on <a href="https://beta.crunchyroll.com/de">Crunchyroll</a></li>
-    <li><code>watched episode 6</code> of <a href="https://anilist.co/anime/99423/DARLING-in-the-FRANXX/">DARLING in the FRANXX</a> on <a href="https://beta.crunchyroll.com/de">Crunchyroll</a></li>
+    <li><code>watched episode 8</code> of <a href="https://anilist.co/anime/99423/DARLING-in-the-FRANXX/">DARLING in the FRANXX</a> on <a href="https://beta.crunchyroll.com/de">Crunchyroll</a></li>
   </ul>
 </details>
 </div>
