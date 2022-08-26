@@ -25,12 +25,6 @@ Currently I'm studying **Applied Computer Science** at my local university! My p
 
 ---
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=crimsonshade&layout=compact&theme=github_dark&hide=contribs&count_private=true&show_owner=true&show_icons=true&custom_title=My GitHub Stats" />&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crimsonshade&hide=ShaderLab,HLSL&layout=compact&theme=github_dark&custom_title=My Used Languages" />
-</div>
-
----
-
 You are intersted to read more about me and what I am doing?
 
 <details>
