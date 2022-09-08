@@ -1,4 +1,5 @@
 <!-- BANNER [START] -->
+<!-- TEST KOMMENTAR -->
 <img width="100%" src="media/banner_pyro.gif" alt="Crimsonshade. Developer, Gamer, Musician, and more" />
 
 ---
