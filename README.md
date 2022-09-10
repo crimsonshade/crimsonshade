@@ -180,9 +180,7 @@ You are intersted to read more about me and what I am doing?
   <summary>📊 Currently watching</summary>
   <h4>Here is a list of Animes, or Series I'm currently watching with a link to there <a href="https://anilist.co/">anilist.co</a> page</h4>
   <ul>
-    <li><code>watched episode 1</code> of <a href="https://anilist.co/anime/143270/Lycoris-Recoil/">Lycoris Recoil</a> on <a href="https://beta.crunchyroll.com/de">Crunchyroll</a></li>
-    <li><code>watched episode 7</code> of <a href="https://anilist.co/anime/116006/The-God-of-High-School/">The God of Highschool</a> on <a href="https://beta.crunchyroll.com/de">Crunchyroll</a></li>
-    <li><code>watched episode 8</code> of <a href="https://anilist.co/anime/99423/DARLING-in-the-FRANXX/">DARLING in the FRANXX</a> on <a href="https://beta.crunchyroll.com/de">Crunchyroll</a></li>
+    <li><code>episode 0</code> of <a href="#">nothing</a> on <a href="https://beta.crunchyroll.com/de">Crunchyroll</a></li>
   </ul>
 </details>
 </div>
