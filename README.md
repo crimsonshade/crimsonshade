@@ -171,6 +171,13 @@ You are intersted to read more about me and what I am doing?
     <td>⭐⭐⭐⭐</td>
     <td>0</td>
   </tr>
+  <tr>
+    <td>15</td>
+    <td><a href="https://anilist.co/anime/120377/CYBERPUNK-EDGERUNNERS/">CYBERPUNK: EDGERUNNERS</a></td>
+    <td>25.09.2022</td>
+    <td>⭐⭐⭐⭐⭐</td>
+    <td>0</td>
+  </tr>
 </table>
 
 </details>
