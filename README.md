@@ -1,6 +1,6 @@
 <!-- BANNER [START] -->
 <!-- TEST KOMMENTAR -->
-<img width="100%" src="media/banner_pyro.gif" alt="Crimsonshade. Developer, Gamer, Musician, and more" />
+<img width="100%" src="media/banner.gif" alt="Crimsonshade. Developer, Gamer, Musician, and more" />
 
 ---
 
@@ -21,7 +21,7 @@ Currently I'm studying **Applied Computer Science** at my local university! My p
 <a href="https://affinity.serif.com/de/photo/"><img src="https://img.shields.io/badge/-Affinity%20Photo-%237E4DD2?style=for-the-badge&logo=affinity-photo&logoColor=white" /></a>&nbsp;&nbsp;
 <a href="https://git-scm.com"><img src="https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=white" /></a>&nbsp;&nbsp;
 <a href="https://cli.github.com"><img src="https://img.shields.io/badge/-GitHub%20Cli-%23181717?style=for-the-badge&logo=github&logoColor%20=%20white" /></a>&nbsp;&nbsp;
-<h6>This badges are created by <a href="https://shields.io">shields.io</a>.</h6>
+<h6>This badges were created with <a href="https://shields.io">shields.io</a>.</h6>
 </div>
 
 ---
@@ -32,9 +32,6 @@ You are intersted to read more about me and what I am doing?
   <summary>👇 Check my projects!</summary>
 
   <div align="center">
-    <a href="https://github.com/crimsonshade/crimsonshade.github.io">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=crimsonshade&repo=crimsonshade.github.io&theme=github_dark" />
-    </a>
     <a href="https://github.com/crimsonshade/serversocials">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=crimsonshade&repo=serversocials&theme=github_dark" />
     </a>
@@ -44,9 +41,6 @@ You are intersted to read more about me and what I am doing?
     <div align="center">
       <a href="https://github.com/crmsn-xyz/magic-rush-infos">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=crmsn-xyz&repo=magic-rush-infos&theme=github_dark" />
-      </a>
-      <a href="https://github.com/crimsonshade/minijam-96">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=crimsonshade&repo=minijam-96&theme=github_dark" />
       </a>
       <a href="https://github.com/crimsonshade/run-fast">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=crimsonshade&repo=run-fast&theme=github_dark" />
@@ -190,7 +184,7 @@ You are intersted to read more about me and what I am doing?
   <summary>📊 Currently watching</summary>
   <h4>Here is a list of Animes, or Series I'm currently watching with a link to there <a href="https://anilist.co/">anilist.co</a> page</h4>
   <ul>
-    <li><code>episode 0</code> of <a href="#">nothing</a> on <a href="https://beta.crunchyroll.com/de">Crunchyroll</a></li>
+    <li><code>episode 8</code> of <a href="https://anilist.co/anime/127230/Chainsaw-Man/">Chainsaw Man</a> on <a href="https://www.crunchyroll.com/de/series/GVDHX8QNW/chainsaw-man">Crunchyroll</a>.</li>
   </ul>
 </details>
 </div>
