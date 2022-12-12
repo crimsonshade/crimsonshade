@@ -35,6 +35,9 @@ You are intersted to read more about me and what I am doing?
     <a href="https://github.com/crimsonshade/serversocials">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=crimsonshade&repo=serversocials&theme=github_dark" />
     </a>
+    <a href="https://github.com/crimsonshade/haruka">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=crimsonshade&repo=haruka&theme=github_dark" />
+    </a>
   </div>
   <details>
     <summary>Finished</summary>
