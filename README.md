@@ -192,6 +192,14 @@ You are intersted to read more about me and what I am doing?
 </details>
 </div>
 
+<details>
+  <summary>📰 Profile Information</summary>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=crimsonshade&show_icons=true&theme=dark"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crimsonshade&layout=compact&theme=dark"/>
+  </div>
+</details>
+
 ---
 
 <div align="center">
