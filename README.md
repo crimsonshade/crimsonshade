@@ -33,10 +33,10 @@ You are intersted to read more about me and what I am doing?
 
   <div align="center">
     <a href="https://github.com/crimsonshade/serversocials">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=crimsonshade&repo=serversocials&theme=github_dark" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=crimsonshade&repo=serversocials&theme=dark" />
     </a>
     <a href="https://github.com/crimsonshade/haruka">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=crimsonshade&repo=haruka&theme=github_dark" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=crimsonshade&repo=haruka&theme=dark" />
     </a>
   </div>
   <details>
