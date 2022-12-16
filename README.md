@@ -143,36 +143,43 @@ You are intersted to read more about me and what I am doing?
   <tr>
     <td>11</td>
     <td><a href="https://anilist.co/anime/21700/Rokudenashi-Majutsu-Koushi-to-Akashic-Records/">Akashic Records of Bastard Magic Instructor</a></td>
-    <td>29.06.2022</td>
+    <td><code>29.06.2022</code></td>
     <td>⭐⭐⭐</td>
     <td>0</td>
   </tr>
   <tr>
     <td>12</td>
     <td><a href="https://anilist.co/anime/21827/Violet-Evergarden/">Violet Evergarden</a></td>
-    <td>20.07.2022</td>
+    <td><code>20.07.2022</code></td>
     <td>⭐⭐⭐⭐⭐</td>
     <td>1</td>
   </tr>
   <tr>
     <td>13</td>
     <td><a href="https://anilist.co/anime/106286/Weathering-With-You/">Weathering with you</a></td>
-    <td>18.07.2022</td>
+    <td><code>18.07.2022</code></td>
     <td>⭐⭐⭐⭐</td>
     <td>0</td>
   </tr>
   <tr>
     <td>14</td>
     <td><a href="https://anilist.co/anime/21459/My-Hero-Academia/">My Hero Academia</a></td>
-    <td>02.08.2022</td>
+    <td><code>02.08.2022</code></td>
     <td>⭐⭐⭐⭐</td>
     <td>0</td>
   </tr>
   <tr>
     <td>15</td>
     <td><a href="https://anilist.co/anime/120377/CYBERPUNK-EDGERUNNERS/">CYBERPUNK: EDGERUNNERS</a></td>
-    <td>25.09.2022</td>
+    <td><code>25.09.2022</code></td>
     <td>⭐⭐⭐⭐⭐</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>16</td>
+    <td><a href="https://anilist.co/anime/20923/Food-Wars-Shokugeki-no-Soma/">Food Wars! Shokugeki no Soma</a></td>
+    <td><code>16.12.2022</code></td>
+    <td>⭐⭐⭐⭐</td>
     <td>0</td>
   </tr>
 </table>
@@ -187,7 +194,6 @@ You are intersted to read more about me and what I am doing?
   <summary>📊 Currently watching</summary>
   <h4>Here is a list of Animes, or Series I'm currently watching with a link to there <a href="https://anilist.co/">anilist.co</a> page</h4>
   <ul>
-    <li><code>episode 20</code> of <a href="https://anilist.co/anime/20923/Food-Wars-Shokugeki-no-Soma/">Food Wars</a> on <a href="https://www.crunchyroll.com/de/series/GR0XP5V9Y/food-wars-shokugeki-no-soma-dubs">Crunchyroll</a>.</li>
     <li><code>episode 10</code> of <a href="https://anilist.co/anime/127230/Chainsaw-Man/">Chainsaw Man</a> on <a href="https://www.crunchyroll.com/de/series/GVDHX8QNW/chainsaw-man">Crunchyroll</a>.</li>
   </ul>
 </details>
