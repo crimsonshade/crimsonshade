@@ -223,7 +223,7 @@ You are intersted to read more about me and what I am doing?
 [![Patreon][SI-pa]][SL-pa]
 [![LinkedIn][SI-li]][SL-li]
 [![Twitter][SI-tt]][SL-tt]
-[![AniList][SI-al]][SL-al]
+[![MyAnimeList][SI-al]][SL-al]
 [![Discord][SI-dc]][SL-dc]
 
   
@@ -235,7 +235,7 @@ You are intersted to read more about me and what I am doing?
 [SI-it]: https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white
 [SI-tt]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
 [SI-li]: https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white
-[SI-al]: https://img.shields.io/badge/-AniList-%2302A9FF?style=for-the-badge&logo=anilist&logoColor=white
+[SI-al]: https://img.shields.io/badge/MyAnimeList-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white
 [SI-dc]: https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
 [SI-pa]: https://img.shields.io/badge/-Patreon-%23FF424D?style=for-the-badge&logo=patreon&logoColor=white
 [SI-kf]: https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white
@@ -244,7 +244,7 @@ You are intersted to read more about me and what I am doing?
 [SL-it]: https://crimsonshade.itch.io/
 [SL-tt]: https://twitter.com/crimsonshade_/
 [SL-li]: https://www.linkedin.com/in/erik-huebl/
-[SL-al]: https://anilist.co/user/CrimsonshadeTV/
+[SL-al]: https://myanimelist.net/profile/Crimsonshade_
 [SL-dc]: http://bots-entertainment.com/discord
 [SL-pa]: https://www.patreon.com/crimsonshade/
 [SL-kf]: https://www.ko-fi.com/crmsn
