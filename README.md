@@ -194,6 +194,10 @@ You are intersted to read more about me and what I am doing?
   <summary>📊 Currently watching</summary>
   <h4>Here is a list of Animes, or Series I'm currently watching with a link to there <a href="https://anilist.co/">anilist.co</a> page</h4>
   <ul>
+<<<<<<< HEAD
+=======
+    <li><code>episode 01</code> of <a href="https://anilist.co/anime/153930/Romantic-Killer/">Romantic Killer</a> on <a href="https://www.netflix.com/">Netflix</a>.</li>
+>>>>>>> 01d77fabf692c0560faf3844e60172226bc3bdeb
     <li><code>episode 10</code> of <a href="https://anilist.co/anime/127230/Chainsaw-Man/">Chainsaw Man</a> on <a href="https://www.crunchyroll.com/de/series/GVDHX8QNW/chainsaw-man">Crunchyroll</a>.</li>
   </ul>
 </details>
