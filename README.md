@@ -12,15 +12,15 @@ Currently I'm studying **Applied Computer Science** at my local university! My p
 
 <div align="center">
 <h4>Here is a collection of all my stuff I am currently learning or understand</h4>
-<a href="https://unity.com"><img src="https://img.shields.io/badge/-Unity-%23FFFFFF?style=for-the-badge&logo=Unity&logoColor=black" /></a>&nbsp;&nbsp;
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/-C%23-%23239120?style=for-the-badge&logo=csharp" /></a>&nbsp;&nbsp;
-<a href="https://www.w3schools.com/html/default.asp"><img src="https://img.shields.io/badge/-HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>&nbsp;&nbsp;
-<a href="https://www.w3schools.com/css/default.asp"><img src="https://img.shields.io/badge/-CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>&nbsp;&nbsp;
-<a href="https://www.java.com/de/"><img src="https://img.shields.io/badge/-Java-%23007396?style=for-the-badge&logo=java&logoColor=white" /></a>&nbsp;&nbsp;
-<a href="https://affinity.serif.com/de/designer/"><img src="https://img.shields.io/badge/-Affinity%20Designer-%231B72BE?style=for-the-badge&logo=affinity-designer&logoColor=white" /></a>&nbsp;&nbsp;
-<a href="https://affinity.serif.com/de/photo/"><img src="https://img.shields.io/badge/-Affinity%20Photo-%237E4DD2?style=for-the-badge&logo=affinity-photo&logoColor=white" /></a>&nbsp;&nbsp;
-<a href="https://git-scm.com"><img src="https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=white" /></a>&nbsp;&nbsp;
-<a href="https://cli.github.com"><img src="https://img.shields.io/badge/-GitHub%20Cli-%23181717?style=for-the-badge&logo=github&logoColor%20=%20white" /></a>&nbsp;&nbsp;
+<a href="https://unity.com"><img src="https://img.shields.io/badge/-Unity-%23FFFFFF?style=for-the-badge&logo=Unity&logoColor=black" /></a>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/-C%23-%23239120?style=for-the-badge&logo=csharp" /></a>
+<a href="https://www.w3schools.com/html/default.asp"><img src="https://img.shields.io/badge/-HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
+<a href="https://www.w3schools.com/css/default.asp"><img src="https://img.shields.io/badge/-CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
+<a href="https://www.java.com/de/"><img src="https://img.shields.io/badge/-Java-%23007396?style=for-the-badge&logo=java&logoColor=white" /></a>
+<a href="https://affinity.serif.com/de/designer/"><img src="https://img.shields.io/badge/-Affinity%20Designer-%231B72BE?style=for-the-badge&logo=affinity-designer&logoColor=white" /></a>
+<a href="https://affinity.serif.com/de/photo/"><img src="https://img.shields.io/badge/-Affinity%20Photo-%237E4DD2?style=for-the-badge&logo=affinity-photo&logoColor=white" /></a>
+<a href="https://git-scm.com"><img src="https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
+<a href="https://cli.github.com"><img src="https://img.shields.io/badge/-GitHub%20Cli-%23181717?style=for-the-badge&logo=github&logoColor%20=%20white" /></a>
 <h6>This badges were created with <a href="https://shields.io">shields.io</a>.</h6>
 </div>
 
