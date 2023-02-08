@@ -60,126 +60,147 @@ You are intersted to read more about me and what I am doing?
     <th>NR</th>
     <th>Title</th>
     <th>Last watched</th>
-    <th>Rating</th>
+    <th>Stars</th>
     <th>Rewatches</th>
   </tr>
   <tr>
     <td>0</td>
-    <td><a href="https://anilist.co/anime/101922/Demon-Slayer-Kimetsu-no-Yaiba/">Demon Slayer: Kimitsu no Yaiba</a></td>
+    <td><a href="https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba">Demon Slayer: Kimitsu no Yaiba</a></td>
     <td><code>05.04.2022</code></td>
-    <td>⭐⭐⭐⭐⭐</td>
+    <td>10</td>
     <td>2</td>
   </tr>
   <tr>
     <td>1</td>
-    <td><a href="https://anilist.co/anime/2001/Gurren-Lagann/">Gurren Lagann</a></td>
+    <td><a href="https://myanimelist.net/anime/2001/Tengen_Toppa_Gurren_Lagann">Gurren Lagann</a></td>
     <td><code>12.06.2021</code></td>
-    <td>⭐⭐⭐⭐</td>
+    <td>10</td>
     <td>0</td>
   </tr>
   <tr>
     <td>2</td>
-    <td><a href="https://anilist.co/anime/11617/High-School-DxD/">High School DxD</a></td>
+    <td><a href="https://myanimelist.net/anime/11617/High_School_DxD">High School DxD</a></td>
     <td><code>25.08.2018</code></td>
-    <td>⭐⭐⭐⭐⭐</td>
+    <td>10</td>
     <td>0</td>
   </tr>
   <tr>
     <td>3</td>
-    <td><a href="https://anilist.co/anime/18679/Kill-la-Kill/">Kill la Kill</a></td>
+    <td><a href="https://myanimelist.net/anime/18679/Kill_la_Kill">Kill la Kill</a></td>
     <td><code>sadly unknown</code></td>
-    <td>⭐⭐⭐</td>
+    <td>7</td>
     <td>0</td>
   </tr>
   <tr>
     <td>4</td>
-    <td><a href="https://anilist.co/anime/21519/Your-Name/">Your Name.</a></td>
+    <td><a href="https://myanimelist.net/anime/32281/Kimi_no_Na_wa">Your Name.</a></td>
     <td><code>03.04.2022</code></td>
-    <td>⭐⭐⭐⭐⭐</td>
+    <td>10</td>
     <td>4</td>
   </tr>
   <tr>
     <td>5</td>
-    <td><a href="https://anilist.co/anime/20829/Seraph-of-the-End-Vampire-Reign/">Seraph of the End: Vampire Reign</a></td>
+    <td><a href="https://myanimelist.net/anime/26243/Owari_no_Seraph">Seraph of the End: Vampire Reign</a></td>
     <td><code>sadly unknown</code></td>
-    <td>⭐⭐</td>
+    <td>4</td>
     <td>0</td>
   </tr>
   <tr>
     <td>6</td>
-    <td><a href="https://anilist.co/anime/199/Spirited-Away/">Spirited Away</a></td>
+    <td><a href="https://myanimelist.net/anime/199/Sen_to_Chihiro_no_Kamikakushi?q=Spirited%20Awa&cat=anime">Spirited Away</a></td>
     <td><code>11.03.2016</code></td>
-    <td>⭐⭐⭐⭐⭐</td>
+    <td>10</td>
     <td>0</td>
   </tr>
   <tr>
     <td>7</td>
-    <td><a href="https://anilist.co/anime/20678/The-Testament-of-Sister-New-Devil/">The Testerment of Sister New Devil</a></td>
+    <td><a href="https://myanimelist.net/anime/23233/Shinmai_Maou_no_Testament">The Testerment of Sister New Devil</a></td>
     <td><code>sadly unknown</code></td>
-    <td>⭐⭐⭐⭐</td>
+    <td>9</td>
     <td>0</td>
   </tr>
   <tr>
     <td>8</td>
-    <td><a href="https://anilist.co/anime/20/Naruto/">Naruto</a></td>
+    <td><a href="https://myanimelist.net/anime/20/Naruto?q=Naruto&cat=anime">Naruto</a></td>
     <td><code>sadly unknown</code></td>
-    <td>⭐⭐⭐⭐</td>
+    <td>5</td>
     <td>0</td>
   </tr>
   <tr>
     <td>9</td>
-    <td><a href="https://anilist.co/anime/99263/The-Rising-of-the-Shield-Hero/">The Rising of the Shield Hero (Season 1)</a></td>
+    <td><a href="https://myanimelist.net/anime/35790/Tate_no_Yuusha_no_Nariagari">The Rising of the Shield Hero (Season 1)</a></td>
     <td><code>28.05.2022</code></td>
-    <td>⭐⭐⭐⭐</td>
+    <td>7</td>
     <td>0</td>
   </tr>
   <tr>
     <td>10</td>
-    <td><a href="https://anilist.co/anime/140960/SPY-x-FAMILY/">SPY x FAMILY</a></td>
+    <td><a href="https://myanimelist.net/anime/50265/Spy_x_Family">SPY x FAMILY</a></td>
     <td><code>26.06.2022</code></td>
-    <td>⭐⭐⭐⭐⭐</td>
+    <td>8</td>
     <td>0</td>
   </tr>
   <tr>
     <td>11</td>
-    <td><a href="https://anilist.co/anime/21700/Rokudenashi-Majutsu-Koushi-to-Akashic-Records/">Akashic Records of Bastard Magic Instructor</a></td>
+    <td><a href="https://myanimelist.net/anime/32951/Rokudenashi_Majutsu_Koushi_to_Akashic_Records">Akashic Records of Bastard Magic Instructor</a></td>
     <td><code>29.06.2022</code></td>
-    <td>⭐⭐⭐</td>
+    <td>7</td>
     <td>0</td>
   </tr>
   <tr>
     <td>12</td>
-    <td><a href="https://anilist.co/anime/21827/Violet-Evergarden/">Violet Evergarden</a></td>
+    <td><a href="https://myanimelist.net/anime/33352/Violet_Evergarden">Violet Evergarden</a></td>
     <td><code>20.07.2022</code></td>
-    <td>⭐⭐⭐⭐⭐</td>
+    <td>10</td>
     <td>1</td>
   </tr>
   <tr>
     <td>13</td>
-    <td><a href="https://anilist.co/anime/106286/Weathering-With-You/">Weathering with you</a></td>
+    <td><a href="https://myanimelist.net/anime/38826/Tenki_no_Ko">Weathering with you</a></td>
     <td><code>18.07.2022</code></td>
-    <td>⭐⭐⭐⭐</td>
+    <td>7</td>
     <td>0</td>
   </tr>
   <tr>
     <td>14</td>
-    <td><a href="https://anilist.co/anime/21459/My-Hero-Academia/">My Hero Academia</a></td>
+    <td><a href="https://myanimelist.net/anime/31964/Boku_no_Hero_Academia">My Hero Academia</a></td>
     <td><code>02.08.2022</code></td>
-    <td>⭐⭐⭐⭐</td>
+    <td>10</td>
     <td>0</td>
   </tr>
   <tr>
     <td>15</td>
-    <td><a href="https://anilist.co/anime/120377/CYBERPUNK-EDGERUNNERS/">CYBERPUNK: EDGERUNNERS</a></td>
+    <td><a href="https://myanimelist.net/anime/42310/Cyberpunk__Edgerunners">CYBERPUNK: EDGERUNNERS</a></td>
     <td><code>25.09.2022</code></td>
-    <td>⭐⭐⭐⭐⭐</td>
+    <td>7</td>
     <td>0</td>
   </tr>
   <tr>
     <td>16</td>
-    <td><a href="https://anilist.co/anime/20923/Food-Wars-Shokugeki-no-Soma/">Food Wars! Shokugeki no Soma</a></td>
+    <td><a href="https://myanimelist.net/anime/28171/Shokugeki_no_Souma">Food Wars! Shokugeki no Soma</a></td>
     <td><code>16.12.2022</code></td>
-    <td>⭐⭐⭐⭐</td>
+    <td>9</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>17</td>
+    <td><a href="https://myanimelist.net/anime/40496/Maou_Gakuin_no_Futekigousha__Shijou_Saikyou_no_Maou_no_Shiso_Tensei_shite_Shison-tachi_no_Gakkou_e_Kayou">The Misfit of Demon King Academy</a></td>
+    <td><code>07.02.2023</code></td>
+    <td>9</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>18</td>
+    <td><a href="https://myanimelist.net/anime/50709/Lycoris_Recoil">Lycoris Recoil</a></td>
+    <td><code>25.01.2023</code></td>
+    <td>8</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>19</td>
+    <td><a href="https://myanimelist.net/anime/40748/Jujutsu_Kaisen">Jujutsu Kaisen</a></td>
+    <td><code>30.11.2022</code></td>
+    <td>10</td>
     <td>0</td>
   </tr>
 </table>
@@ -192,9 +213,12 @@ You are intersted to read more about me and what I am doing?
 
 <details>
   <summary>📊 Currently watching</summary>
-  <h4>Here is a list of Animes, or Series I'm currently watching with a link to there <a href="https://anilist.co/">anilist.co</a> page</h4>
+  <h4>Here is a list of Animes, or Series I'm currently watching with a link to there <a href="https://myanimelist.net/">MAL (MyAnimeList)</a> page</h4>
   <ul>
-    <li><code>episode 10</code> of <a href="https://anilist.co/anime/127230/Chainsaw-Man/">Chainsaw Man</a> on <a href="https://www.crunchyroll.com/de/series/GVDHX8QNW/chainsaw-man">Crunchyroll</a>.</li>
+    <li><code>episode 20</code> of <a href="https://myanimelist.net/anime/269/Bleach">Bleach</a> on <a href="#">Pirate</a>.</li>
+  </ul>
+  <ul>
+    <li><code>episode 1</code> of <a href="https://myanimelist.net/anime/48417/Maou_Gakuin_no_Futekigousha__Shijou_Saikyou_no_Maou_no_Shiso_Tensei_shite_Shison-tachi_no_Gakkou_e_Kayou_II">The Misfit of Demon King Academy II</a> on <a href="https://www.crunchyroll.com/series/GY243NN0R/the-misfit-of-demon-king-academy">Crunchyroll</a>.</li>
   </ul>
 </details>
 </div>
