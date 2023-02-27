@@ -138,7 +138,7 @@ You are intersted to read more about me and what I am doing?
     <td><a href="https://myanimelist.net/anime/50265/Spy_x_Family">SPY x FAMILY</a></td>
     <td><code>26.06.2022</code></td>
     <td>8</td>
-    <td>0</td>
+    <td>1</td>
   </tr>
   <tr>
     <td>11</td>
@@ -203,6 +203,13 @@ You are intersted to read more about me and what I am doing?
     <td>10</td>
     <td>0</td>
   </tr>
+  <tr>
+    <td>20</td>
+    <td><a href="https://myanimelist.net/anime/44511/Chainsaw_Man?q=Chainsaw%20Man&cat=anime">Chainsaw Man</a></td>
+    <td><code>23.02.2023</code></td>
+    <td>9</td>
+    <td>0</td>
+  </tr>
 </table>
 
 </details>
@@ -215,12 +222,10 @@ You are intersted to read more about me and what I am doing?
   <summary>📊 Currently watching</summary>
   <h4>Here is a list of Animes, or Series I'm currently watching with a link to there <a href="https://myanimelist.net/">MAL (MyAnimeList)</a> page</h4>
   <ul>
-    <li><code>episode 20</code> of <a href="https://myanimelist.net/anime/269/Bleach">Bleach</a> on <a href="#">Pirate</a>.</li>
+    <li><code>episode 9</code> of <a href="https://myanimelist.net/anime/50197/Ijiranaide_Nagatoro-san_2nd_Attack?q=Don%27t%20Toy&cat=anime">Don't Toy with me Miss Nagatoro (Season 2)</a> on <a href="https://www.crunchyroll.com/series/GQWH0M455/dont-toy-with-me-miss-nagatoro">Chrunchyroll</a>.</li>
+    <li><code>episode 5</code> of <a https://myanimelist.net/anime/51064/Kuro_no_Shoukanshi?q=Black%20Summ&cat=anime">Black Summoner</a> on <a href="https://www.crunchyroll.com/series/GVDHX8JJE/black-summoner">Chrunchyroll</a>.</li>
   </ul>
-  <ul>
-    <li><code>episode 1</code> of <a href="https://myanimelist.net/anime/48417/Maou_Gakuin_no_Futekigousha__Shijou_Saikyou_no_Maou_no_Shiso_Tensei_shite_Shison-tachi_no_Gakkou_e_Kayou_II">The Misfit of Demon King Academy II</a> on <a href="https://www.crunchyroll.com/series/GY243NN0R/the-misfit-of-demon-king-academy">Crunchyroll</a>.</li>
-  </ul>
-</details>
+/details>
 </div>
 
 <details>
