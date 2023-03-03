@@ -237,7 +237,9 @@ You are intersted to read more about me and what I am doing?
   <h4>Here is a list of Animes, or Series I'm currently watching with a link to there <a href="https://myanimelist.net/">MAL (MyAnimeList)</a> page</h4>
   <ul>
     <li><code>episode 9</code> of <a href="https://myanimelist.net/anime/50197/Ijiranaide_Nagatoro-san_2nd_Attack?q=Don%27t%20Toy&cat=anime">Don't Toy with me Miss Nagatoro (Season 2)</a> on <a href="https://www.crunchyroll.com/series/GQWH0M455/dont-toy-with-me-miss-nagatoro">Chrunchyroll</a>.</li>
-    
+    <li>
+      <code>episode 6</code> of <a href="https://myanimelist.net/anime/30296/Rakudai_Kishi_no_Cavalry">A Chivalry of the Failed Knight</a> on <a href="#">Website</a>.
+    </li>
   </ul>
 /details>
 </div>
