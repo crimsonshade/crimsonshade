@@ -217,6 +217,13 @@ You are intersted to read more about me and what I am doing?
     <td>7</td>
     <td>0</td>
 </tr>
+<tr>
+    <td>22</td>
+    <td><a href="https://myanimelist.net/anime/48316/Kage_no_Jitsuryokusha_ni_Naritakute">The Eminence in Shadow</a></td>
+    <td><code>03.03.2023</code></td>
+    <td>8</td>
+    <td>0</td>
+</tr>
 </table>
 
 </details>
@@ -230,7 +237,7 @@ You are intersted to read more about me and what I am doing?
   <h4>Here is a list of Animes, or Series I'm currently watching with a link to there <a href="https://myanimelist.net/">MAL (MyAnimeList)</a> page</h4>
   <ul>
     <li><code>episode 9</code> of <a href="https://myanimelist.net/anime/50197/Ijiranaide_Nagatoro-san_2nd_Attack?q=Don%27t%20Toy&cat=anime">Don't Toy with me Miss Nagatoro (Season 2)</a> on <a href="https://www.crunchyroll.com/series/GQWH0M455/dont-toy-with-me-miss-nagatoro">Chrunchyroll</a>.</li>
-    <li><code>episode 3</code> of <a href="https://myanimelist.net/anime/48316/Kage_no_Jitsuryokusha_ni_Naritakute?q=The%20Emin&cat=anime">The Eminence in Shadow</a> on <a href="https://9anime.to/watch/the-eminence-in-shadow.4ylx/ep-3">9anime.to</a>.</li>
+    
   </ul>
 /details>
 </div>
