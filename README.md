@@ -218,11 +218,25 @@ You are intersted to read more about me and what I am doing?
     <td>0</td>
 </tr>
 <tr>
-    <td>22</td>
-    <td><a href="https://myanimelist.net/anime/48316/Kage_no_Jitsuryokusha_ni_Naritakute">The Eminence in Shadow</a></td>
-    <td><code>03.03.2023</code></td>
-    <td>8</td>
-    <td>0</td>
+  <td>22</td>
+  <td><a href="https://myanimelist.net/anime/48316/Kage_no_Jitsuryokusha_ni_Naritakute">The Eminence in Shadow</a></td>
+  <td><code>03.03.2023</code></td>
+  <td>8</td>
+  <td>0</td>
+</tr>
+<tr>
+  <td>23</td>
+  <td><a href="https://myanimelist.net/anime/48926/Komi-san_wa_Comyushou_desu">Komi cann't Communicate</a></td>
+  <td><code>04.03.2023</code></td>
+  <td>7</td>
+  <td>0</td>
+</tr>
+<tr>
+  <td>24</td>
+  <td><a href="https://myanimelist.net/anime/48736/Sono_Bisque_Doll_wa_Koi_wo_Suru?q=My%20Dressup&cat=anime">My Dress-Up Darling</a></td>
+  <td><code>unknown</code></td>
+  <td>8</td>
+  <td>0</td>
 </tr>
 </table>
 
