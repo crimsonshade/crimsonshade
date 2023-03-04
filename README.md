@@ -255,7 +255,7 @@ You are intersted to read more about me and what I am doing?
       <code>episode 6</code> of <a href="https://myanimelist.net/anime/30296/Rakudai_Kishi_no_Cavalry">A Chivalry of the Failed Knight</a> on <a href="#">Website</a>.
     </li>
   </ul>
-/details>
+</details>
 </div>
 
 <details>
