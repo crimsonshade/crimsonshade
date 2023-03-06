@@ -28,30 +28,6 @@ Currently I'm studying **Applied Computer Science** at my local university! My p
 
 You are intersted to read more about me and what I am doing?
 
-<!-- <details>
-  <summary>👇 Check my projects!</summary>
-
-  <div align="center">
-    <a href="https://github.com/crimsonshade/serversocials">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=crimsonshade&repo=serversocials&theme=dark" />
-    </a>
-    <a href="https://github.com/crimsonshade/haruka">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=crimsonshade&repo=haruka&theme=dark" />
-    </a>
-  </div>
-  <details>
-    <summary>Finished</summary>
-    <div align="center">
-      <a href="https://github.com/crmsn-xyz/magic-rush-infos">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=crmsn-xyz&repo=magic-rush-infos&theme=github_dark" />
-      </a>
-      <a href="https://github.com/crimsonshade/run-fast">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=crimsonshade&repo=run-fast&theme=github_dark" />
-      </a>
-    </div>
-  </details>
-</details> -->
-
 <details>
 <summary>📺 My Watched Anime</summary>
 <h4>This list represents some of the animes I have completly watched. Some others, I cann't remember, but that's because I have to rewatch them anyway.</h4>
