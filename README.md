@@ -19,24 +19,27 @@ You are intersted to read more about me and what I am doing?
 <details>
   <summary>💽 Apps I use</summary>
   <h4>Here is a list of Apps I am using, and how I am using them</h4>
-  <h4><b>Note taking</b></h4>
-  <p><a href="https://www.google.com/keep/">Google Keep</a>: for quick thoughts in my mind. </br>
-  <a href="https://obsidian.md/">Obsidian</a>: for documenting and writing.</p>
+  <h4><b>CLI</b></h4>
+  <p><a href="https://git-scm.com/">Git</a>: The classic one</br>
+  <a href="https://cli.github.com/">github CLI</a>: for doing GitHub stuff in console. (Creating Repos, Creating/Editing/Closing Issues, Making Pull Request etc.)</p>
   <h4><b>Developing</b></h4>
   <p><a href="https://code.visualstudio.com/">Visual Studio Code</a>: for fast editing and other languages then my used one. </br>
   <a href="https://unity.com/">Unity Engine</a>: for developing games. </br>
   <a href="https://www.jetbrains.com/rider/">JetBrains Rider</a>: for developing in Unity and writing C# applications.</p>
-  <h4><b>Web</b></h4>
-  <p><a href="https://www.mozilla.org/en-US/firefox/new/">Mozilla Firefox</a>: because of the Privacy Settings and the integraded screenshot tool. </br>
-  <a href="https://duckduckgo.com">DuckDuckGo</a>: my good to go search Engine, because of privacy. </br>
-  <a href="https://cheat.sh">cheat.sh</a>: as a cheat sheet for some programming languages I am learning for uni, or I am using because I wanne learn them.</p>
   <h4><b>Image and Graphics</b></h4>
   <p><a href="https://affinity.serif.com/en-us/photo/">Affinity Photo</a>: for image manipulation. </br>
   <a href="https://affinity.serif.com/en-us/designer/">Affinity Designer</a>: for creating vector graphics. </br>
   <a href="https://www.aseprite.org/">Aseprite</a>: for creating pixel graphics and animations for my games.</p>
-  <h4><b>CLI</b></h4>
-  <p><a href="https://git-scm.com/">Git</a>: The classic one</br>
-  <a href="https://cli.github.com/">github CLI</a>: for doing GitHub stuff in console. (Creating Repos, Creating/Editing/Closing Issues, Making Pull Request etc.)</p>
+  <h4><b>Messages</b></h4>
+  <p><a href="https://discord.com/">Discord</a>: writing with friends, uni collects and making social networking </br>
+  <a href="https://mail.google.com/">Gmail</a>: for writing mails.</p>
+  <h4><b>Note taking</b></h4>
+  <p><a href="https://www.google.com/keep/">Google Keep</a>: for quick thoughts in my mind. </br>
+  <a href="https://obsidian.md/">Obsidian</a>: for documenting and writing.</p>
+  <h4><b>Web</b></h4>
+  <p><a href="https://www.mozilla.org/en-US/firefox/new/">Mozilla Firefox</a>: because of the Privacy Settings and the integraded screenshot tool. </br>
+  <a href="https://duckduckgo.com">DuckDuckGo</a>: my good to go search Engine, because of privacy. </br>
+  <a href="https://cheat.sh">cheat.sh</a>: as a cheat sheet for some programming languages I am learning for uni, or I am using because I wanne learn them.</p>
 </details>
 
 <!-- USED APPS [END] -->
