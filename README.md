@@ -47,8 +47,11 @@ You are intersted to read more about me and what I am doing?
 <!-- WATCHED ANIME [START] -->
 
 <details>
-  <summary>📺 My Watched Anime</summary>
+  <summary>📺 Anime & Manga List</summary>
   <h4>This list represents some of the animes I have completly watched. Some others, I cann't remember, but that's because I have to rewatch them anyway.</h4>
+
+Anime List:
+
   <table>
     <tr>
       <th>NR</th>
@@ -233,6 +236,15 @@ You are intersted to read more about me and what I am doing?
     <td>0</td>
   </tr>
   </table>
+
+Manga List:
+
+| NR | Title | Last Read | Volume | Chapter | Stars |
+|----|-------|-----------|--------|---------|-------|
+| 0 | [Kaguya-Sama: Love is War](https://myanimelist.net/manga/90125/Kaguya-sama_wa_Kokurasetai__Tensai-tachi_no_Renai_Zunousen) | `12.03.2023` | 3 / 28 | 30 / 281 | 8 |
+| 1 | [One Piece](https://myanimelist.net/manga/13/One_Piece) | `28.01.2023` | 12 / - | 108 / - | 9 |
+| 2 | [One-Punch Man](https://myanimelist.net/manga/44347/One_Punch-Man) | `15.02.2023` | 3 / - | 20 / - | 7 |
+
 </details>
 
 <!-- WATCHED ANIME [END] -->
