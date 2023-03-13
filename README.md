@@ -22,7 +22,7 @@ You are intersted to read more about me and what I am doing?
   <h4><b>CLI</b></h4>
   <p><a href="https://git-scm.com/">Git</a>: The classic one</br>
   <a href="https://cli.github.com/">github CLI</a>: for doing GitHub stuff in console. (Creating Repos, Creating/Editing/Closing Issues, Making Pull Request etc.)</p>
-  <h4><b>Developing</b></h4>
+  <h4><b>IDE</b></h4>
   <p><a href="https://code.visualstudio.com/">Visual Studio Code</a>: for fast editing and other languages then my used one. </br>
   <a href="https://unity.com/">Unity Engine</a>: for developing games. </br>
   <a href="https://www.jetbrains.com/rider/">JetBrains Rider</a>: for developing in Unity and writing C# applications.</p>
