@@ -14,6 +14,22 @@ Currently I'm studying **Applied Computer Science** at my local university! My p
 
 You are intersted to read more about me and what I am doing?
 
+<!-- PROJECTS [START] -->
+<details>
+  <summary>💻 Projects</summary>
+
+**Here is a list of projects I finished/dropped**
+
+| NR | Project | Status | Description |
+|----|---------|--------|-------------|
+| 01 | [devils date](https://github.com/crimsonshade/devils-fate-old) | `finished` | [![Download](https://img.shields.io/badge/itch.io-download-FA5C5C?logo=itchdotio&logoColor=white)](https://crimsonshade.itch.io/devils-fate) <br/> This is my first, selfmade gamejam game! Kinda proud, but it's very shitty |
+| 02 | [run fast](https://github.com/crimsonshade/run-fast) | `finished` | [![Download](https://img.shields.io/badge/ludumdare-download-EE5533)](https://ldjam.com/events/ludum-dare/50/run-fast) <br/> My second gamejam game. Tried to do some more for the movement, not only buttons |
+| 03 | [magic rush](https://github.com/crmsn-xyz/magic-rush) | `dropped` | ![Download](https://img.shields.io/badge/NaN-download-181717) <br/> My first game, I tried creating by myself. The game art is made by an artist from fiverr. |
+| 04 | [project game](#) | `wip` | Currently I am working on this game |
+
+</details>
+<!-- PROJECTS [END] -->
+
 <!-- USED APPS [START] -->
 
 <details>
@@ -114,20 +130,6 @@ Manga List:
 </div>
 
 <!-- CURRENTLY WATCHING [END] -->
-
-<!-- PROFILE INFO [START] -->
-
-<details>
-  <summary>📰 Profile Information</summary>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=crimsonshade&show_icons=true&theme=dark"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crimsonshade&layout=compact&theme=dark"/>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@736d4439-774c-479b-8418-bd8275c984a4&theme=dark" />
-  </div>
-</details>
-
-<!-- PROFILE INFO [END] -->
----
 
 <div align="center">
 
