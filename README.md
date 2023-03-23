@@ -4,7 +4,7 @@
 
 ---
 
-Hello there! <img width="15" src="media/hi.gif" /> My name is Crimsonshade, but feel free to call me Erik ^^ I'm 22 years old I'm a self taught game developer from Austria!
+Hello there! <img width="15" src="media/hi.gif" /> My name is Crimsonshade, but feel free to call me Erik ^^ I'm 22 years old I'm a self taught game developer from Austria!t
 
 Currently I'm studying **Applied Computer Science** at my local university! My plan is to learn *Software engineering* and learn *game development* by my self, by creating some GameJam games, or smaller projects on my own!
 
@@ -112,6 +112,7 @@ Manga List:
 | 0 | [Kaguya-Sama: Love is War](https://myanimelist.net/manga/90125/Kaguya-sama_wa_Kokurasetai__Tensai-tachi_no_Renai_Zunousen) | `12.03.2023` | 3 / 28 | 30 / 281 | 8 |
 | 1 | [One Piece](https://myanimelist.net/manga/13/One_Piece) | `28.01.2023` | 12 / - | 108 / - | 9 |
 | 2 | [One-Punch Man](https://myanimelist.net/manga/44347/One_Punch-Man) | `15.02.2023` | 3 / - | 20 / - | 7 |
+| 3 | [MoMo: The blood taker](https://myanimelist.net/manga/118494/MoMo__The_Blood_Taker?q=Momo%20the%20blood&cat=manga) | `22.03.2023` | 1 / 9 | 8 / 96 | 5 |
 
 </details>
 
