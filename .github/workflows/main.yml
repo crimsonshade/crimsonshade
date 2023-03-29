@@ -12,6 +12,6 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: crimsonshade/crimsonshade@main
+      - uses: crimsonshade/metrics@main
         with:
           token: ${{ secrets.METRICS_TOKEN }}
