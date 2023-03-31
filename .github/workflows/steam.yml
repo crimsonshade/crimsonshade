@@ -1,5 +1,5 @@
 # Visit https://github.com/lowlighter/metrics#-documentation for full reference
-name: Metrics
+name: Steam
 on:
   # Schedule updates (each hour)
   schedule: [{cron: "0 2 * * *"}]
@@ -28,7 +28,7 @@ jobs:
           user: crimsonshade
           template: classic
 
-          filename: metrics-steam.svg
+          filename: media/metrics-steam.svg
 
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Berlin
