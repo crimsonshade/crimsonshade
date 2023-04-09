@@ -57,3 +57,10 @@ jobs:
           plugin_achievements_only: >-
             polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
             scripter, packager, explorer, infographile, manager
+      - name: Compact display in base plugin
+        uses: lowlighter/metrics@latest
+        with:
+          filename: media/metrics-habbits.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: repositories
+          plugin_lines: yes

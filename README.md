@@ -71,6 +71,7 @@ You are intersted to read more about me and what I am doing?
 <summary>👉 Other stuff</summary>
 <div align="center">
 
+![codinghabbits](./media/metrics-habbits.svg)
 ![steam-activity](./media/metrics-steam.svg)
 ![wakatime](./media/metrics-wakatime.svg)
 
