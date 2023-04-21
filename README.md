@@ -51,10 +51,15 @@ You are intersted to read more about me and what I am doing?
 - **[Obsidian](https://obsidian.md)**: for documenting an writing.
 
 #### Web
-- **[ChatGPT](https://chat.openai.com/)**: One of the best Tools I use every day, to help me understand new stuff. (One of the best)
-- **[Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/)**: because of the Privacy Settings.
-- **[DuckDuckGo](https://duckduckgo.com)**: my alltime favorite search Engine, because of privacy.
+- **[12ft](https://12ft.io)**: A good tool for fast reading articles that used to have a paywal.
+- **[CanYouRunIt](https://www.systemrequirementslab.com/cyri)**: A website for checking if my components are good enough to run any game.
 - **[cheat.sh](https://cheat.sh)**: as a cheat sheet for some programming languages I'm learning for uni, or because I'm interested.
+- **[ChatGPT](https://chat.openai.com/)**: One of the best Tools I use every day, to help me understand new stuff. (One of the best)
+- **[DuckDuckGo](https://duckduckgo.com)**: my alltime favorite search Engine, because of privacy.
+- **[Medium](https://medium.com)**: A website for reading good articles about every topic.
+- **[Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/)**: because of the Privacy Settings.
+
+
 
 </details>
 
