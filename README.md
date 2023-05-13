@@ -33,13 +33,14 @@ You are intersted to read more about me and what I am doing?
 - **[Unity Engine](https://unity.com/)**: for developing my games.
 
 #### IDEs
+- **[JetBrains InteliJ](https://www.jetbrains.com/idea/)**: for developing in stuff in Java (mostly for uni).
+- **[JetBrains Rider](https://www.jetbrains.com/rider)**: for developing in Unity and writing C# applications.
 - **[VIM](https://www.vim.org/)**: for fast and small changes in files.
 - **[Visual Studio Code](https://code.visualstudio.com)**: for writing code in other lanugages then the one I'm used to.
-- **[JetBrains Rider](https://www.jetbrains.com/rider)**: for developing in Unity and writing C# applications.
 
 #### Image and Graphics
-- **[Affinity Photo](https://affinity.serif.com/en-us/photo)**: for image manipulation.
 - **[Affinity Designer](https://affinity.serif.com/en-us/designer)**: for creating vector graphics.
+- **[Affinity Photo](https://affinity.serif.com/en-us/photo)**: for image manipulation.
 - **[Aseprite](https://www.aseprite.org)**: for creating pixel graphics and animations for my game.
 
 #### Messages
@@ -48,7 +49,7 @@ You are intersted to read more about me and what I am doing?
 
 #### Note taking
 - **[Google Keep](https://www.google.com/keep)**: for quick thoughts in my mind.
-- **[Obsidian](https://obsidian.md)**: for documenting an writing.
+- **[Zettlr](https://www.zettlr.com/)**: for documenting an writing.
 
 #### Web
 - **[12ft](https://12ft.io)**: A good tool for fast reading articles that used to have a paywal.
@@ -58,8 +59,6 @@ You are intersted to read more about me and what I am doing?
 - **[DuckDuckGo](https://duckduckgo.com)**: my alltime favorite search Engine, because of privacy.
 - **[Medium](https://medium.com)**: A website for reading good articles about every topic.
 - **[Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/)**: because of the Privacy Settings.
-
-
 
 </details>
 
