@@ -35,7 +35,7 @@ You are intersted to read more about me and what I am doing?
 #### IDEs
 - **[JetBrains InteliJ](https://www.jetbrains.com/idea/)**: for developing in stuff in Java (mostly for uni).
 - **[JetBrains Rider](https://www.jetbrains.com/rider)**: for developing in Unity and writing C# applications.
-- **[VIM](https://www.vim.org/)**: for fast and small changes in files.
+- **[NeoVim](https://neovim.io/)**: for fast and small changes in files.
 - **[Visual Studio Code](https://code.visualstudio.com)**: for writing code in other lanugages then the one I'm used to.
 
 #### Image and Graphics
@@ -46,6 +46,7 @@ You are intersted to read more about me and what I am doing?
 #### Messages
 - **[Discord](https://discord.com)**: writing with friends, uni mates, and making social interactions.
 - **[GMail](https://mail.google.com)**: for writing mails.
+- **[Telegram](https://telegram.org/)**: also for writing with friends.
 
 #### Note taking
 - **[Google Keep](https://www.google.com/keep)**: for quick thoughts in my mind.
