@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="148" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="151" class="">
     <defs>
         <style/>
     </defs>
@@ -22,14 +22,15 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,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" alt="" />
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGwABAAIDAQEAAAAAAAAAAAAABwUGAAQIAQP/xAAxEAABAgUDAwIEBQUAAAAAAAABAgMABAUGEQchQRIxUWFxFCIyUggTFUJiIyWhscH/xAAaAQADAAMBAAAAAAAAAAAAAAADBAUAAQIG/8QAKREAAQMEAQEHBQAAAAAAAAAAAQACAwQFERIhMRQiNFFxgfAkMkJhkf/aAAwDAQACEQMRAD8A5VhJ083pKh/IwbGEjTxJ/SlH+RgM/wBirWXxPsVZ1oPUCeO8fBIznOxB29I23RkJIO4/zEhaNDeuK5ZSmtD+m6vDyvtTCjeV6iYBmXHoOSoRQBwM5X5jZbX9IP0/9ib1EtldoXN8CvJlCkFtzyTEAhQCt+Y24EcFcQSteN2ngqKvc/2J72gnEKt6qBobw9IKhDNPw1efvpBqBjyXsJumiUqpK8/cYMjCfpsM0deO/UYypOGLVhGasehVoeKUoURsIf8AQ+1kUCguVqpgImJgblY+lHBgn03tpy57oZZKSqVlyFvHjEK2utzooVsJodPWBMTCA0oJ7oRjYwGFoA3Kq3aYyvbSR9T1/QUnq3bUtedouTdPKXZuVBWypP7j4jlptakqLbuy0qLa08gjvDr+HW7ctuW5UXepafnaUs56ieIp2ulnqt66E1KUbKZCcVjPAX3MdvAcNwkaRzqaU0zvZEl3jNFe8Ygz4hPvBPTQ3vUQYcQSA91KXgETDPksMJ2m5UKOspH7j/uDHiF3SlrrormRyYHWHWPKJYT9WPQrrHRelSFNtND8q82884SXXRx6H2gn1mRQXq69NMzqp2pKHThCz0ox5ERDM1O0+WelpebcZaeTjCVEA+0Vwya1FbiwouZ3UrcmExVNcwNAVlluc2odO5+c/OVPaYtUE1+VeqU0uQnGV9TbqlkJUfGI6H1EpshWbLmW551sJ/Ky28rsD5EcrMSC3XglKfl755EWp6cqBpSKc7NuqlkbgKUSY32tsY1I6odRbzNK2UPxg/MI6vqXDVvzCEkKSglIV5A5gjhov9ARbD3sYFx2hmidszKlXzxA9F732ENWjjSV26tR2V1qECohCse9ZS3aIZZ2XW471E7HzGV0bpItWDJS9qnbBPu84GEyONpOAobiNN5OAUgpHvBbUdU5x1R+DZDY46gDFZn7yq84sqcfCc/aMROjt8v5cK6+907R3ckp5bclJZoiZdQ0fJMQ9SuujSoKVTjasesA8xUZyYPU9NOq9OsxqKKlH5iT7mGW20Zy5ynPvjs5Y3+pKvK8ZCpUlyUlkkk53zBpGERmNofihbC3VqlVNU+pdvJ1X//Z" alt="" />
                             <div class="about">
-                                <div class="name">NEEDY STREAMER OVERLOAD</div>
+                                <div class="name">Apex Legends</div>
                                 <div class="infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                         </svg>
+                                        Action, Adventure, Free to Play
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -45,7 +46,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 21 Jun 2023
+                                        Last played on 28 Jun 2023
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -54,7 +55,7 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            8 / 33 achievements unlocked
+                                            3 / 12 achievements unlocked
                                         </div>
                                     </div>
                                 </div>
