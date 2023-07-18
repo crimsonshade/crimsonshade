@@ -22,15 +22,15 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAAAAgMBAQEBAAAAAAAAAAAABQYCAwQHAAEI/8QALRAAAQMDAgUEAgEFAAAAAAAAAgEDBAAFEQYhEhMxQVEHIjJhFEIjFRZSkcH/xAAZAQEBAQEBAQAAAAAAAAAAAAADBQQAAQL/xAAlEQACAgEDAwUBAQAAAAAAAAABAgADEQQSISIxURMUQXHhYZH/2gAMAwEAAhEDEQA/APzPeLm9c5XOdwiomOlD+NcV5z5V88bbV06T9yhnGU81pgxJU93lQ2SecT9R611vR9v0a9oCW/cEJu4GKiLBH7zVO41zSx3QbLqVmcyBcqO5lG87kidlrDXrGu9Ra1OV89jGNQXaxPeWai0vdbCoJNjmLZAhoaptv2oImVySIuyU8+o2v3daMxkdZ5BNLvjZFTtTN6R2/SMuxzSv5cmQ8Ctjxns5jsPhaD312m0gu1SdXyF5iClbLNtZ4nHeJUXpvWq3TXYcsJDWOMV6qlW39IgXWSEBo2mQNRFDXOURaHp8k8VUVtyhu2ZmIwcQjGt7j8Y5KYIB+Qp1p+tWnrDcNMlznOTIaTjA1L5qv60rafNxYxI0Cul/gPejtxVbUDQTmyZB5Oi/r907aeuxQC2D9ybbqbq3IUZ5gByx5A1izkdVpckIqvtSpybNBatiy+fhSTA5XqXerIoQ7UEiQUwXycT2CP8A2sj8th7Tgtm4KPI6RIFelVX4hh7nIwxxkc4i6vVakLrgoiCZIiLlERelQr1B3lWdU9G9NWPUj0orw/ynY48eTLYqTdZwYdv1DJjW4sxxJcLnOd6ExXZSfxxnHAJdsNqqKtbrtZ7lC4HZzDgoQovEfip6UtVqmsezIYcL4js4asALyPmX6WluRrggt4QnNt6P3aazdGjkyj5rcfq2nXak+2yRhz23jRSQV3rqkHR8ePo569PzWSZcVSNU6Y8VTN9VSr6nnxJV1Ds5ZPA/YlxosK7i2+yyYEBe4VXtWiTY2EubToNryMJkc96wLfY7LrbURlQjCS8RdySrIeomwflI6JKyY4BFXdFptyEc95jevUgkoDjxma3LBEfaBxEUGwNVcPO2PFZH7fbHxbSIy6hcXCpKWy1YWomA5QAKqyRfyD9URj3m0sMIDajjPFjvRnbDJ1KDJBPj9me3Wj+namaeaaX8ZkRPiPdFXvTJrXVP90WYUeRhthpVBFEMKuPupaUhSdVzJIWqQ04AtplnHuD7VfFKepI8ezwnLUUkH5IOkRKGyJntU5/aXagA4Ni/6Jqr96FG4kA4+j9xPLrhFoit9uCxij88vxyHh5efb/qs9wgvwpHLkNqK4zWVBVE6delayAe4lSdBsPpxJuunJN2bkArIBxJj9V+6QpDXJeJviQ1FeHajdv1TdYFsK3RnyCGvyDzmqtMXAIF+YkyAbNnjy4hjlFSgUXJuLnPifXBxBkyI7DdRuSCgSihoip1RafNB+m8jVVqmzI8htOUGQTwv3UvU/Vtv1EEZbZGaZEfYY8KcW3fPiluw6tu9hjci2PcoFVcp5rLa2rv02auh/wCxV9NLOrkSspc7TUyREgzEA8qBm1lFX6zQqZKdmSee+vE4uyr5qEl1yQ+465u6ZKRL9rUokV2VIFpgFIi2rclYXqIG75MJmzwO0//Z" alt="" />
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAAAAgMBAQEBAAAAAAAAAAAABgcCAwUBBAAI/8QALRAAAQMDBAEDAwMFAAAAAAAAAQIDBAAFEQYHEiFBEzFRIjJxI2GBFSSRocH/xAAaAQACAwEBAAAAAAAAAAAAAAAEBQADBgEC/8QAIhEAAgICAgICAwAAAAAAAAAAAQIAAwQREiEFMRNhIjKx/9oADAMBAAIRAxEAPwD8yFOK4Bk13OasZZKjVztxEJRBewCiaFktUm6z2IUZpS5ThwgCmHI2a1SzG5ogOSMjISjAOa9uyNvTGnSrs/jjDb9Q8h3WBO1jeo94kyYs+Wk+spSUl0lOM9dUC9omgqwCibnsgbPaolNErtjzJ9vqxQXqnT8/T1xXb7m2UPoHIAj5ouu24mpbyW1Pz1t+ljpklOfzRLuvHRedO2q9oSouuIS0pR7JIFRLRPTYJdTEesVwJq+QyUE1T4o2tuQmfur+BvyEmyOS8n6Uq6yfamxtXpW2SoEm+6hV/Ywxz4A4KsUp0KPMEkY8fFNnZ+7XCC6uCi3rnQn+ltYzkH80PkNqMvFoh/XsRtaU19pO4MvWiTCRbo7o4BSgAVp8dir5WzOmLqQ9a7ggNuHkSV5rNuW0sO4IEm2rMCQs8+DyuWCfGKwndvNRQ3FJZvmVpHSULUP9Zpdsn3HooqJ3TbxP33C1jZDT0Fal3C4ILIGTheKnqLWOktMWpuz29hu5IQccBhRH+aDRoLUkpSBIvZQtRxxWsn/tbdt2dZbJevMoS3MZ4sq4mpvXqRqK97vt5fQGoB7jabs1x08nU2m0FtKyUusKOeBHvSYeQQsKH1J8kU7d3LlNbt6LPGtbkG3MnoYAKv3JHvSTdVkkJ+5PZ+KYY7biTyaJrv1KwSUpWcckntNN3Z7XydNvKhy2G1w3xxLhSOSf5pR8hkrVjkesV77M+mPLbUv6m+QJTVmTXsdQXAYI4U+o99VNXK1T2L1FnSJNudXzQtCzxTnwaz92o9yD0a8w3pYhusow424QkKx37UW3/UIa2yiydMR0OwFJ4Oh1IXxUB3+O6X+h9a3SC7/T3GE3GK8okxlp5EZ+M+1KygUzWC43Vhtd/wBlm00W6XTULUx1+Y5Ei/qOuKcPHH81vxUXXUupZEliZIYhsuFLj3M8EpB+KyNea2uXpKtUOEm0MKGVoCAlagf3FGG1t/ed0jPXe2G0WZls8loSEqV89+a5wDGcFppQvruCW7+4DU6Cix25ttxhkcXJBTlSj57pHKPJS1jrrAHzW5q+WxLu8lUMcIxWeAPxmsLkCkHICk+PmmuLXoTLeQcO/EepFVSQvFQ96+Iq4qWgCkjqNHarVyLLLEO5n1LPL/TdCvtH4+DRlF0y9pfX0CTGbDtulueo0vGQQe8UgmHCjI7KPB8A00tEbsXOwwWockNSGWTyaU8jmQf2JoG2nRmgw88a7hnrewS9YbhIjMs+mwlCS4oJxwHyaGd1NURkMN6csKvTt8QYdUk/cr2OfkVLVu8tzukORHiNsMrfRxccbbCVY/IpRynlPOFXIqPu4vPv+a810kmTKzwFGutSh1YKj3moHuuKHfXtXfFMFUqJn2Ymf//Z" alt="" />
                             <div class="about">
-                                <div class="name">Not Tonight</div>
+                                <div class="name">Shadows of Doubt</div>
                                 <div class="infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                         </svg>
-                                        Adventure, RPG, Simulation
+                                        Action, Indie, RPG, Early Access
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -38,7 +38,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        7 hours played
+                                        22 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -46,7 +46,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 16 Jul 2023
+                                        Last played on 17 Jul 2023
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -55,7 +55,7 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            6 / 15 achievements unlocked
+                                            0 / 0 achievements unlocked
                                         </div>
                                     </div>
                                 </div>
