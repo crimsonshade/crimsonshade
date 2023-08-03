@@ -4,7 +4,7 @@
 
 Hello there! <img width="15" src="media/hi.gif" /> My name is Crimsonshade, but feel free to call me Erik ^^ I'm 23 years old I'm a self taught game developer from Austria!
 
-Currently I'm studying **Applied Computer Science** at my local university! My plan is to learn *Software engineering* and learn *game development* by my self, by creating some GameJam games, or smaller projects on my own!
+Currently I'm studying **Applied Computer Science** at my local university! My plan is to learn *Software engineering* at uni and *game development* by my self, by participating on GameJam, or some small projects on my own!
 
 ---
 
