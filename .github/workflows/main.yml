@@ -46,17 +46,6 @@ jobs:
           plugin_wakatime: yes
           plugin_wakatime_sections: time, projects, projects-graphs, editors
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
-      - name: Compact display
-        uses: lowlighter/metrics@latest
-        with:
-          filename: media/metrics-achievments.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_only: >-
-            polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
-            scripter, packager, explorer, infographile, manager
       - name: Compact display in base plugin
         uses: lowlighter/metrics@latest
         with:
