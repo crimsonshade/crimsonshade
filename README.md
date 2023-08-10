@@ -62,16 +62,6 @@ You are intersted to read more about me and what I am doing?
 - **[Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/)**: because of the Privacy Settings.
 
 </details>
-
-<details>
-<summary>🏆 Achievements</summary>
-<div align="center">
-
-![achievements](./media/metrics-achievments.svg)
-
-</div>
-</details>
-
 <details>
 <summary>👉 Other stuff</summary>
 <div align="center">
