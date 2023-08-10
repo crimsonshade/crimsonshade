@@ -1,6 +1,7 @@
 <img width="100%" src="media/banner.gif" alt="Crimsonshade. Developer, Gamer, Musician, and more" />
 
 ---
+### About me
 
 Hello there! <img width="15" src="media/hi.gif" /> My name is Crimsonshade, but feel free to call me Erik ^^ I'm 23 years old I'm a self taught game developer from Austria!
 
@@ -8,7 +9,7 @@ Currently I'm studying **Applied Computer Science** at my local university! My p
 
 ---
 
-You are intersted to read more about me and what I am doing?
+### Stuff I use
 
 <div align="center">
     <img src="media/metrics-languages.svg">
