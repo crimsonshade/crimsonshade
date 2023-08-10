@@ -13,14 +13,6 @@ You are intersted to read more about me and what I am doing?
 <div align="center">
     <img src="media/metrics-languages.svg">
 </div>
-
-<details>
-    <summary>💻 Projects</summary>
-    <div align="center">
-        <img src="media/metrics-repos.svg">
-    </div>
-</details>
-
 <details>
   <summary>💽 Apps I use</summary>
 

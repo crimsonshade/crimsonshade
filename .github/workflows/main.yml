@@ -29,14 +29,6 @@ jobs:
           plugin_steam_user: "76561198116350170"
           plugin_steam_sections: recently-played
           plugin_steam_achievements_limit: 0
-      - name: Featured repositories
-        uses: lowlighter/metrics@latest
-        with:
-          filename: media/metrics-repos.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_repositories: yes
-          plugin_repositories_featured: crimsonshade/run-fast, crimsonshade/devils-fate-old
       - name: WakaTime
         uses: lowlighter/metrics@latest
         with:
