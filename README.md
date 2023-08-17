@@ -54,7 +54,7 @@ Currently I'm studying **Applied Computer Science** at my local university! My p
 - **[DuckDuckGo](https://duckduckgo.com)**: my alltime favorite search Engine, because of privacy.
 - **[Medium](https://medium.com)**: A website for reading good articles about every topic.
 - **[Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/)**: because of the Privacy Settings.
-- **[TinyWow](https://tinywow.com/)**: Handy little tool for literaly EVERYTHIGN!
+- **[TinyWow](https://tinywow.com/)**: Handy little tool for literally EVERYTHING!
 
 </details>
 <details>
