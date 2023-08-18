@@ -52,7 +52,7 @@ Currently I'm studying **Applied Computer Science** at my local university! My p
 - **[ChatGPT](https://chat.openai.com/)**: One of the best Tools I use every day, to help me understand new stuff. (One of the best)
 - **[Convertio.co](https://convertio.co/)**: Converting literally every file from A to B.
 - **[DuckDuckGo](https://duckduckgo.com)**: my alltime favorite search Engine, because of privacy.
-- **[Medium](https://medium.com)**: A website for reading good articles about every topic.
+- **[MorningBrew](https://www.morningbrew.com/daily)**: Best News newsletter I every subscribed to. Usefull, for a lot of information around the world
 - **[Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/)**: because of the Privacy Settings.
 - **[TinyWow](https://tinywow.com/)**: Handy little tool for literally EVERYTHING!
 
