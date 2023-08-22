@@ -9,11 +9,28 @@ Currently I'm studying **Applied Computer Science** at my local university! My p
 
 ---
 
-### Stuff I use
+### More about me
 
 <div align="center">
     <img src="media/metrics-languages.svg">
 </div>
+
+#### Projects
+I love to develop my own games. For this reason I started to put most of my projects into repos. The most of them are private, because they are only for testing or playing around. But still, here are some public projects I worked on, that you can play!
+
+<details>
+    <summary>👨‍💻 Projects</summary>
+
+| Projects | Status | Description |
+|----------|:------:|-------------|
+| [devils-fate](https://github.com/crmsn-xyz/devils-fate-old) | `finished` | [![itch-download](https://img.shields.io/badge/itch.io-FA5C5C?logo=itchdotio&logoColor=white&style=flat-square)](https://crimsonshade.itch.io/devils-fate) <br> This is my first, selfmade gamejam game! The gamejam was the [Mini Jam 96](https://crimsonshade.itch.io/run-fast) Jam. Kinda proud, but it's still very shitty ngl xD |
+| [run-fast](https://github.com/crmsn-xyz/run-fast) | `finished` | [![itch-download](https://img.shields.io/badge/itch.io-FA5C5C?logo=itchdotio&logoColor=white&style=flat-square)](https://crimsonshade.itch.io/run-fast) <br> My second gamejam game. The gamejam was the [ludum dare 50](https://ldjam.com/events/ludum-dare/50/) jam. This time, I tried to do better movement too and not only some buttons |
+| [flappy-clone](https://github.com/crmsn-xyz/flappy-clone) | `kinda finished` | [![itch-download](https://img.shields.io/badge/itch.io-FA5C5C?logo=itchdotio&logoColor=white&style=flat-square)](https://crimsonshade.itch.io/flappy-clone) <br> This is one of the first games I made, without following a gamejam. I just tried to clone a well known and often played game. The game I copied was flappy bird. |
+
+</details>
+
+
+
 <details>
   <summary>💽 Apps I use</summary>
 
