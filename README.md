@@ -15,11 +15,11 @@ Currently I'm studying **Applied Computer Science** at my local university! My p
     <img src="media/metrics-languages.svg">
 </div>
 
-#### Projects
+#### 👨<200d>💻 Projects
 I love to develop my own games. For this reason I started to put most of my projects into repos. The most of them are private, because they are only for testing or playing around. But still, here are some public projects I worked on, that you can play!
 
 <details>
-    <summary>👨‍💻 Projects</summary>
+    <summarys>projects list</summary>
 
 | Projects | Status | Description |
 |----------|:------:|-------------|
@@ -29,12 +29,14 @@ I love to develop my own games. For this reason I started to put most of my proj
 
 </details>
 
+---
 
+#### 💽 Intersting Apps I useS
+I use a lot of different apps and webpages for my everyday things. Down here is the list of everything I love to use and recommend to everyone interested in it!
 
 <details>
   <summary>💽 Apps I use</summary>
 
-#### Here is a list of Apps I am using, and how I am using them
 #### CLI
 - **[Git](https://git-scm.com)**: The classic one
 - **[GitHub CLI](https://cli.github.com)**: for doing GitHub stuff in console. (Creating Repos, Creating/Editing/Closing Issues, Making Pull Requests etc.)
