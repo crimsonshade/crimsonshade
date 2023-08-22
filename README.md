@@ -15,11 +15,11 @@ Currently I'm studying **Applied Computer Science** at my local university! My p
     <img src="media/metrics-languages.svg">
 </div>
 
-#### 👨<200d>💻 Projects
+#### 💻 Projects
 I love to develop my own games. For this reason I started to put most of my projects into repos. The most of them are private, because they are only for testing or playing around. But still, here are some public projects I worked on, that you can play!
 
 <details>
-    <summarys>projects list</summary>
+    <summary>projects list</summary>
 
 | Projects | Status | Description |
 |----------|:------:|-------------|
@@ -31,11 +31,11 @@ I love to develop my own games. For this reason I started to put most of my proj
 
 ---
 
-#### 💽 Intersting Apps I useS
+#### 💽 Intersting Apps I use
 I use a lot of different apps and webpages for my everyday things. Down here is the list of everything I love to use and recommend to everyone interested in it!
 
 <details>
-  <summary>💽 Apps I use</summary>
+  <summary>app list</summary>
 
 #### CLI
 - **[Git](https://git-scm.com)**: The classic one
@@ -76,8 +76,14 @@ I use a lot of different apps and webpages for my everyday things. Down here is 
 - **[TinyWow](https://tinywow.com/)**: Handy little tool for literally EVERYTHING!
 
 </details>
+
+---
+
+#### 👉 other information
+More information about me. Some of my habbits, my last game played on [steam](https://store.steampowered.com/) and my [wakatime](https://wakatime.com/) stats. 
+
 <details>
-<summary>👉 Other stuff</summary>
+<summary>more information</summary>
 <div align="center">
 
 ![codinghabbits](./media/metrics-habbits.svg)
@@ -86,6 +92,8 @@ I use a lot of different apps and webpages for my everyday things. Down here is 
 
 </div>
 </details>
+
+---
 
 <div align="center">
 
