@@ -31,7 +31,7 @@ I love to develop my own games. For this reason I started to put most of my proj
 
 ---
 
-#### 💽 Intersting Apps I use
+#### 💽 Apps I use
 I use a lot of different apps and webpages for my everyday things. Down here is the list of everything I love to use and recommend to everyone interested in it!
 
 <details>
@@ -79,7 +79,7 @@ I use a lot of different apps and webpages for my everyday things. Down here is 
 
 ---
 
-#### 👉 other information
+#### 👉 Other information
 More information about me. Some of my habbits, my last game played on [steam](https://store.steampowered.com/) and my [wakatime](https://wakatime.com/) stats. 
 
 <details>
