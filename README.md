@@ -101,7 +101,6 @@ More information about me. Some of my habbits, my last game played on [steam](ht
 👇 If you are interessted in me and wanne see more, just checkout some of my social media stuff down here! 👇
   
 [![Itch][SI-it]][SL-it]
-[![ko-fi][SI-kf]][SL-kf]
 [![Patreon][SI-pa]][SL-pa]
 [![LinkedIn][SI-li]][SL-li]
 [![Twitter][SI-tt]][SL-tt]
@@ -116,7 +115,6 @@ More information about me. Some of my habbits, my last game played on [steam](ht
 [SI-al]: https://img.shields.io/badge/MyAnimeList-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white
 [SI-dc]: https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
 [SI-pa]: https://img.shields.io/badge/-Patreon-%23FF424D?style=for-the-badge&logo=patreon&logoColor=white
-[SI-kf]: https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white
 [SI-me]: https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white
 
 [SL-it]: https://crimsonshade.itch.io/
@@ -125,5 +123,4 @@ More information about me. Some of my habbits, my last game played on [steam](ht
 [SL-al]: https://myanimelist.net/profile/Crimsonshade_
 [SL-dc]: http://bots-entertainment.com/discord
 [SL-pa]: https://www.patreon.com/crimsonshade/
-[SL-kf]: https://www.ko-fi.com/crmsn
 [SL-me]: https://medium.com/@crimsonshade/
