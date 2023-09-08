@@ -17,7 +17,8 @@ jobs:
           base: ""
           plugin_languages: yes
           plugin_languages_ignored: shaderLab, HLSL
-          plugin_languages_details: bytes-size, percentage
+          plugin_languages_details: percentage
+          
       - name: Recently played games
         uses: lowlighter/metrics@latest
         with:
@@ -29,6 +30,7 @@ jobs:
           plugin_steam_user: "76561198116350170"
           plugin_steam_sections: recently-played
           plugin_steam_achievements_limit: 0
+          
       - name: WakaTime
         uses: lowlighter/metrics@latest
         with:
@@ -38,6 +40,7 @@ jobs:
           plugin_wakatime: yes
           plugin_wakatime_sections: time, projects, projects-graphs, editors
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          
       - name: Compact display in base plugin
         uses: lowlighter/metrics@latest
         with:
