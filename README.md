@@ -58,7 +58,7 @@ I use a lot of different apps and webpages for my everyday things. Down here is 
 
 #### Messages
 - **[Discord](https://discord.com)**: writing with friends, uni mates, and making social interactions.
-- **[GMail](https://mail.google.com)**: for writing mails.
+- **[Thunderbird](https://www.thunderbird.net/en-US/)**: free email application for writing/reading mails.
 - **[Telegram](https://telegram.org/)**: also for writing with friends.
 
 #### Note taking
@@ -72,7 +72,7 @@ I use a lot of different apps and webpages for my everyday things. Down here is 
 - **[ChatGPT](https://chat.openai.com/)**: One of the best Tools I use every day, to help me understand new stuff. (One of the best)
 - **[Convertio.co](https://convertio.co/)**: Converting literally every file from A to B.
 - **[DuckDuckGo](https://duckduckgo.com)**: my alltime favorite search Engine, because of privacy.
-- **[MorningBrew](https://www.morningbrew.com/daily)**: Best News newsletter I every subscribed to. Usefull, for a lot of information around the world
+- **[MorningBrew](https://www.morningbrew.com/daily)**: Best News newsletter I every subscribed to. Usefull, for a lot of information around the world.
 - **[Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/)**: because of the Privacy Settings.
 - **[TinyWow](https://tinywow.com/)**: Handy little tool for literally EVERYTHING!
 
