@@ -40,7 +40,7 @@ I use a lot of different apps and webpages for my everyday things. Down here is 
 #### CLI
 - **[Git](https://git-scm.com)**: The classic one
 - **[GitHub CLI](https://cli.github.com)**: for doing GitHub stuff in console. (Creating Repos, Creating/Editing/Closing Issues, Making Pull Requests etc.)
-- **[oh-my-posh](https://ohmyposh.dev/)**: a better cmd engine
+- **[oh-my-posh](https://ohmyposh.dev/)**: a better cmd engine.
 
 #### Engines
 - **[Unity Engine](https://unity.com/)**: for developing my games.
