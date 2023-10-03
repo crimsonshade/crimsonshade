@@ -5,7 +5,7 @@
 
 Hello there! <img width="15" src="media/hi.gif" /> My name is Crimsonshade, but feel free to call me Erik ^^ I'm 23 years old I'm a self taught game developer from Austria!
 
-Currently I'm studying **Applied Computer Science** at my local university! My plan is to learn *Software engineering* at uni and *game development* by my self, by participating on GameJam, or some small projects on my own!
+Currently I'm studying **Applied Computer Science** at my local university! My plan is to learn *Software engineering* at uni and *game development* by my self, by participating on GameJams, or some small projects on my own!
 
 ---
 
@@ -44,17 +44,18 @@ I use a lot of different apps and webpages for my everyday things. Down here is 
 
 #### Engines
 - **[Unity Engine](https://unity.com/)**: for developing my games.
+- **[Godot Engine](https://godotengine.org/)**: currently learning, because of the situation with Unity.
 
 #### IDEs
-- **[JetBrains InteliJ](https://www.jetbrains.com/idea/)**: for developing in stuff in Java (mostly for uni).
-- **[JetBrains Rider](https://www.jetbrains.com/rider)**: for developing in Unity and writing C# applications.
+- **[JetBrains InteliJ](https://www.jetbrains.com/idea/)**: for developing stuff in Java `(mostly for uni)`.
+- **[JetBrains Rider](https://www.jetbrains.com/rider)**: for developing in Unity and writing C# applications. `(currently canceld subscription)`
 - **[NeoVim](https://neovim.io/)**: for fast and small changes in files.
 - **[Visual Studio Code](https://code.visualstudio.com)**: for writing code in other lanugages then the one I'm used to.
 
 #### Image and Graphics
 - **[Affinity Designer](https://affinity.serif.com/en-us/designer)**: for creating vector graphics.
 - **[Affinity Photo](https://affinity.serif.com/en-us/photo)**: for image manipulation.
-- **[Aseprite](https://www.aseprite.org)**: for creating pixel graphics and animations for my game.
+- **[Aseprite](https://www.aseprite.org)**: for creating pixel graphics and animations for my games. `(still practicing my pixelart)`
 
 #### Messages
 - **[Discord](https://discord.com)**: writing with friends, uni mates, and making social interactions.
@@ -73,7 +74,7 @@ I use a lot of different apps and webpages for my everyday things. Down here is 
 - **[Convertio.co](https://convertio.co/)**: Converting literally every file from A to B.
 - **[DuckDuckGo](https://duckduckgo.com)**: my alltime favorite search Engine, because of privacy.
 - **[MorningBrew](https://www.morningbrew.com/daily)**: Best News newsletter I every subscribed to. Usefull, for a lot of information around the world.
-- **[Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/)**: because of the Privacy Settings.
+- **[Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/)**: best browser. Change my mind.
 - **[TinyWow](https://tinywow.com/)**: Handy little tool for literally EVERYTHING!
 
 </details>
