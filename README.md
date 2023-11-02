@@ -121,5 +121,5 @@ More information about me. Some of my habbits, my last game played on [steam](ht
 [SL-tt]: https://twitter.com/crimsonshade_/
 [SL-li]: https://www.linkedin.com/in/erik-huebl/
 [SL-al]: https://myanimelist.net/profile/Crimsonshade_
-[SL-dc]: http://bots-entertainment.com/discord
+[SL-dc]: https://discord.gg/NAYNT2c77G
 [SL-me]: https://medium.com/@crimsonshade/
