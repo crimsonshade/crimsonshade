@@ -74,6 +74,7 @@ I use a lot of different apps and webpages for my everyday things. Down here is 
 - **[ChatGPT](https://chat.openai.com/)**: One of the best Tools I use every day, to help me understand new stuff. (One of the best)
 - **[Convertio.co](https://convertio.co/)**: Converting literally every file from A to B.
 - **[DuckDuckGo](https://duckduckgo.com)**: my alltime favorite search Engine, because of privacy.
+- **[gitignore.io](https://www.toptal.com/developers/gitignore/)**: Perfect to find every fitting gitignore
 - **[MorningBrew](https://www.morningbrew.com/daily)**: Best News newsletter I every subscribed to. Usefull, for a lot of information around the world.
 - **[Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/)**: best browser. Change my mind.
 - **[TinyWow](https://tinywow.com/)**: Handy little tool for literally EVERYTHING!
