@@ -15,7 +15,7 @@ class Birthday:
             list: A list of all matches, where the pattern fits
         """
         
-        pattern = re.compile(r'(<!--\s*age:(\d{4})-(\d{1,2})-(\d{1,2})\s*-->)')
+        pattern = re.compile(r'(<!--\s*age:(\d{4})-(\d{1,2})-(\d{1,2})\s*-->)(?:\s*(\d+))?')
         matches = pattern.finditer(content)
         
         return matches

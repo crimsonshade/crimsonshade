@@ -6,10 +6,19 @@ def append_age_after_comment(content):
     for match in birthday.get_pattern_matches(content):
         birthdate = birthday.get_birthday(match)
         age = birthday.calculate_age(birthdate)
-
-        age_insertion = f" {age} "
-        content = content[:match.end()] + age_insertion + content[match.end():]
-        break  
+        
+        existing_age = match.group(5)
+        if existing_age:
+            start_index = match.end() - len(existing_age)
+            end_index = match.end()
+            
+            age_insertion = f"{age}"
+            content = content[:start_index] + age_insertion + content[end_index:]
+        else:
+            age_insertion = f" {age}"
+            content = content[:match.end()] + age_insertion + content[match.end():]
+        break
+            
     
     return content
     
