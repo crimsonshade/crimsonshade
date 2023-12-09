@@ -47,3 +47,22 @@ class Birthday:
         today = datetime.now()
         age = today.year - birthdate.year - ((today.month, today.day) < (birthdate.month, birthdate.day))
         return age
+    
+    def append_age_after_comment(self, content):
+        for match in self.get_pattern_matches(content):
+            birthdate = self.get_birthday(match)
+            age = self.calculate_age(birthdate)
+            
+            existing_age = match.group(4)
+            if existing_age:
+                start_index = match.end() - len(existing_age)
+                end_index = match.end()
+                
+                age_insertion = f"{age}"
+                content = content[:start_index] + age_insertion + content[end_index:]
+            else:
+                age_insertion = f" {age}"
+                content = content[:match.end()] + age_insertion + content[match.end():]
+            break
+            
+        return content
