@@ -31,9 +31,11 @@ def insert_projects( projects_content):
 def main():
     """Main function to fetch projects and update the Markdown file."""
     projects_content = ""
+    number = 0
     for project in fetch_projects():
+        number += 1
         # Append each project in HTML format to the projects_content string
-        projects_content += f"<tr><td><a href=\"{project['html_url']}\">{project['name']}</a></td><td>{project.get('description', 'No description')}</td></tr>\n"
+        projects_content += f"<tr><td>{number}<td><a href=\"{project['html_url']}\">{project['name']}</a></td><td>{project.get('description', 'No description')}</td></tr>\n"
     
     # Insert the compiled projects content into the Markdown file
     insert_projects(projects_content)
