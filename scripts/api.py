@@ -38,17 +38,9 @@ def get_topics(project):
 def main():
     """Main function to fetch projects and update the Markdown file."""
     projects_content = ""
-    number = 0
     for project in fetch_projects():
-        number += 1
         # Append each project in HTML format to the projects_content string
-        projects_content += f"""\t<tr>
-    \t<td>{number}</td>
-    \t<td><a href=\"{project.get('html_url')}\">{project.get('name')}</a></td>
-    \t<td>{project.get('description', 'No description')}</td>
-    \t<td>{get_topics(project)}</td>
-\t</tr>
-"""
+        projects_content += f"<tr><td><a href=\"{project['html_url']}\">{project['name']}</a></td><td>{project.get('description', 'No description')}</td></tr>\n"
     
     # Insert the compiled projects content into the Markdown file
     insert_projects(projects_content)

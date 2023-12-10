@@ -24,32 +24,22 @@ I love to develop my own games. For this reason I started to put most of my proj
 
 <table>
     <tr>
-        <th>Nr.</th>
         <th>Project</th>
         <th>Description</th>
         <th>Topics</th>
     </tr>
 <!-- PROJECTS START -->
-	<tr>
-    	<td>1</td>
-    	<td><a href="https://github.com/crmsn-xyz/devils-fate-old">devils-fate-old</a></td>
-    	<td>This is a small game I made for the minijam 96 Game Jam. </td>
-    	<td></td>
-	</tr>
-	<tr>
-    	<td>2</td>
-    	<td><a href="https://github.com/crmsn-xyz/run-fast-old">run-fast-old</a></td>
-    	<td>My Ludum Dare 50 Gamejam game.</td>
-    	<td>game, game-development, gamjam, ludum-dare-50, unity, unity2d, unity2d-game</td>
-	</tr>
-	<tr>
-    	<td>3</td>
-    	<td><a href="https://github.com/crmsn-xyz/flappy-clone">flappy-clone</a></td>
-    	<td>A small flappy bird clone I made in the Unity Engine.</td>
-    	<td>gamedev, unity, unity2d</td>
-	</tr>
+<tr><td><a href="https://github.com/crmsn-xyz/devils-fate-old">devils-fate-old</a></td><td>This is a small game I made for the minijam 96 Game Jam. </td></tr>
+<tr><td><a href="https://github.com/crmsn-xyz/run-fast-old">run-fast-old</a></td><td>My Ludum Dare 50 Gamejam game.</td></tr>
+<tr><td><a href="https://github.com/crmsn-xyz/flappy-clone">flappy-clone</a></td><td>Flappy Bird game clone</td></tr>
 <!-- PROJECTS END -->
 </table>
+
+<!-- | Projects | Status | Description |
+|----------|:------:|-------------|
+| [devils&#x2011;fate](https://github.com/crmsn-xyz/devils-fate-old) | `finished` | This is my first, selfmade gamejam game! The gamejam was the [Mini Jam 96](https://crimsonshade.itch.io/run-fast) Jam. Kinda proud, but it's still very shitty ngl xD |
+| [run&#x2011;fast](https://github.com/crmsn-xyz/run-fast) | `finished` | My second gamejam game. The gamejam was the [ludum dare 50](https://ldjam.com/events/ludum-dare/50/) jam. This time, I tried to do better movement too and not only some buttons |
+| [flappy&#x2011;clone](https://github.com/crmsn-xyz/flappy-clone) | `kinda finished` | This is one of the first games I made, without following a gamejam. I just tried to clone a well known and often played game. The game I copied was flappy bird. | -->
 
 </details>
 
