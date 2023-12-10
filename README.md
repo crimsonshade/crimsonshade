@@ -22,30 +22,11 @@ I love to develop my own games. For this reason I started to put most of my proj
 <details>
     <summary>projects list</summary>
 
-<table>
-    <tr>
-        <th>Nr</th>
-        <th>Project</th>
-        <th>Description</th>
-    </tr>
-<!-- PROJECTS START -->
-	<tr>
-    	<td>1</td>
-    	<td><a href="https://github.com/crmsn-xyz/devils-fate-old">devils-fate-old</a></td>
-    	<td>This is a small game I made for the minijam 96 Game Jam. </td>
-	</tr>
-	<tr>
-    	<td>2</td>
-    	<td><a href="https://github.com/crmsn-xyz/run-fast-old">run-fast-old</a></td>
-    	<td>My Ludum Dare 50 Gamejam game.</td>
-	</tr>
-	<tr>
-    	<td>3</td>
-    	<td><a href="https://github.com/crmsn-xyz/flappy-clone">flappy-clone</a></td>
-    	<td>A small flappy bird clone I made in the Unity Engine.</td>
-	</tr>
-<!-- PROJECTS END -->
-</table>
+| NR | Project | Description |
+|:--:|:--------|:------------|
+| 1  | [devils-fate-old](https://github.com/crmsn-xyz/devils-fate-old) | This is a small game I made for the minijam 96 Game Jam. |
+| 2  | [run-fast-old](https://github.com/crmsn-xyz/run-fast-old) | My Ludum Dare 50 Gamejam game. |
+| 3  | [flappy-clone](https://github.com/crmsn-xyz/flappy-clone) | A small flappy bird clone I made in the Unity Engine. |
 
 </details>
 
@@ -102,17 +83,39 @@ I use a lot of different apps and webpages for my everyday things. Down here is 
 ---
 
 #### 👉 Other information
-More information about me. Some of my habbits, my last game played on [steam](https://store.steampowered.com/) and my [wakatime](https://wakatime.com/) stats. 
+More Informations about me, and the animes I am watching right now. This informations are automatically created using my [anilist.co](https://anilist.co/user/CrimsonshadeTV/animelist) profile.
 
 <details>
-<summary>more information</summary>
-<div align="center">
+<summary>Currently Watching Animes</summary>
 
-![codinghabbits](./media/metrics-habbits.svg)
-![steam-activity](./media/metrics-steam.svg)
-![wakatime](./media/metrics-wakatime.svg)
+#### All Animes I'm Currently Watching
 
-</div>
+<!-- CURRENTLY START -->
+
+<!-- CURRENTLY END -->
+
+</details>
+
+<details>
+<summary>Completed Animes</summary>
+
+#### All Animes I Have Completed
+
+<!-- COMPLETED START -->
+
+<!-- COMPLETED END -->
+
+</details>
+
+<details>
+<summary>Favourite Animes</summary>
+
+#### All My Current Favorite Animes
+
+<!-- FAVOURITES START -->
+
+<!-- FAVOURITES END -->
+
 </details>
 
 ---
@@ -132,13 +135,13 @@ More information about me. Some of my habbits, my last game played on [steam](ht
 [SI-it]: https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white
 [SI-tt]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
 [SI-li]: https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white
-[SI-al]: https://img.shields.io/badge/MyAnimeList-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white
+[SI-al]: https://img.shields.io/badge/AniList.co-02A9FF?style=for-the-badge&logo=anilist&logoColor=white
 [SI-dc]: https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
 [SI-me]: https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white
 
 [SL-it]: https://crimsonshade.itch.io/
 [SL-tt]: https://twitter.com/crimsonshade_/
 [SL-li]: https://www.linkedin.com/in/erik-huebl/
-[SL-al]: https://myanimelist.net/profile/Crimsonshade_
+[SL-al]: https://anilist.co/user/CrimsonshadeTV/animelist
 [SL-dc]: https://discord.gg/NAYNT2c77G
 [SL-me]: https://medium.com/@crimsonshade/
