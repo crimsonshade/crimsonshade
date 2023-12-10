@@ -1,8 +1,8 @@
 ---
-name: Update Anime Lists
+name: Update Birthday
 on: 
   schedule:
-    - cron: "1 0 * * 1"
+    - cron: "1 0 22 3 *"
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -14,12 +14,8 @@ jobs:
         uses: actions/setup-python@v4
         with:
           python-version: 3.x
-      - name: Install python dependencies
-        run: python3 -m pip install --pre -r scripts/requirements.txt
-      - name: Update Favourites
-        run: python3 scripts/favourites.py
       - name: Update Anime List
-        run: python3 scripts/animelist.py
+        run: python3 scripts/birthday.py
       - name: Commit and Push
         uses: actions-js/push@master
         with:
