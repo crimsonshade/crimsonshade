@@ -18,3 +18,8 @@ jobs:
         run: python3 scripts/favourites.py
       - name: Update Anime List
         run: python3 scripts/animelist.py
+      - name: Commit and Push
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          message: "Update README"
