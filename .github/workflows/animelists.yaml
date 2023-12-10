@@ -1,37 +1,20 @@
-name: Update Anime Lists
+name: Python package
 
-on:
-  schedule:
-    - cron: '0 0 1 * *'
-  workflow_dispatch:
+on: workflow_dispatch
 
 jobs:
+  build:
 
-  anime-lists:
-
-    name: Update Anime List
     runs-on: ubuntu-latest
 
     steps:
-      - name: Setup Python
-        uses: actions/setup-python@v2
+      - uses: actions/checkout@v4
+      - name: Set up Python
+        # This is the version of the action for setting up Python, not the Python version.
+        uses: actions/setup-python@v4
         with:
+          # Semantic version range syntax or exact version of a Python version
           python-version: '3.x'
-
-      - name: Check out code
-        uses: actions/checkout@v2
-
-      - name: Install Dependencies
-        run: python3 -m pip install --pre -r scripts/requirements.txt
-
-      - name: Update current Anime Lists in Readme
-        run: python3 scripts/animelist.py
-
-      - name: Update current Favourites in Readme
-        run: python3 scripts/favourites.py
-
-      - name: Commit & Push
-        uses: actions-js/push@main
-        with:
-          message: update latest projects
-          branch: main
+      # You can test your matrix by printing the current Python version
+      - name: Display Python version
+        run: python -c "import sys; print(sys.version)"
