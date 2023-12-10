@@ -16,8 +16,3 @@ jobs:
         run: python3 scripts/favourites.py
       - name: Update Anime List
         run: python3 scripts/animelist.py
-      - name: Test Commit
-        uses: actions-js/push@v1.4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          message: test
