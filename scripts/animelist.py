@@ -72,6 +72,7 @@ def currently_injection(content):
             english_title = entry.get('media').get('title').get('english')
             titles += f'''- **[{english_title}](https://anilist.co/anime/{media_id})** episode **{current_progess}**\n'''
     
+    print(titles)
     return titles
 
 def watched_injection(content):
@@ -83,6 +84,7 @@ def watched_injection(content):
             english_title = entry.get('media').get('title').get('english')
             titles += f'''- **[{english_title}](https://anilist.co/anime/{media_id})**\n'''
     
+    print(titles)
     return titles
 
 if __name__ == '__main__':
