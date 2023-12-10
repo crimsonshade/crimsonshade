@@ -18,3 +18,13 @@ jobs:
       # You can test your matrix by printing the current Python version
       - name: Install python dependencies
         run: python3 -m pip install --pre -r scripts/requirements.txt
+      - name: Update Favourites
+        run: python3 scripts/favourites.py
+      - name: Update Anime List
+        run: python3 scripts/animelist.py
+
+      - name: COMMIT & PUSH
+        uses: actions-js/push@main
+        with: 
+          message: 😼 ~ Arra Arra ~ 😼
+          branch: main
