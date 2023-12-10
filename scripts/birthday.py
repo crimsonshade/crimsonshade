@@ -17,11 +17,12 @@ def calculate_age(birthdate):
     age = today.year - birthdate.year - ((today.month, today.day) < (birthdate.month, birthdate.day))
     return age
 
-def main(content):
+def insert_age(content):
     for match in get_pattern_matches(content):
         birthdate = get_birthday(match)
         age = calculate_age(birthdate)
         
+        # get the current age inside the readme
         existing_age = match.group(4)
         if existing_age:
             start_index = match.end() - len(existing_age)
@@ -36,11 +37,14 @@ def main(content):
         
     return content
 
-if __name__ == '__main__':
+def main():
     with open('README.md', 'r') as file:
         readme_contents = file.read()
     
-    updated_content = main(readme_contents)
+    updated_content = insert_age(readme_contents)
 
     with open('README.md', 'w') as file:
         file.write(updated_content)
+
+if __name__ == '__main__':
+    main()
