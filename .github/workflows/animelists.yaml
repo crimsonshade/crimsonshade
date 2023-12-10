@@ -1,0 +1,28 @@
+name: favourites-automation
+  on:
+    schedule: 
+      - cron: '0 0 1 * *'
+  jobs:
+    add-list-items:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: actions/checkout@v4
+        - name: SETUP PYTHON
+        - uses: actions/setup-python@v3
+          with:
+            python-version: '3.x'
+
+        - name: INSTALL PYTHON DEPENDENCIES
+        - run: python3 -m pip install --pre -r scripts/requirements.txt
+
+        - name: UPDATE FAVOURITES
+        - run: python3 scripts/favourites.py
+
+        - name: UPDATE ANIME LISTS
+        - run: python3 scripts/animelist.py
+
+        - name: COMMIT & PUSH
+        - uses: actions-js/push@main
+          with: 
+            message: 😼 ~ Arra Arra ~ 😼
+            branch: main
