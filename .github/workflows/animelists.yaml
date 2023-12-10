@@ -1,32 +1,37 @@
-name: favourites-automation
+name: Update Anime Lists
 
 on:
-  schedule: 
+  schedule:
     - cron: '0 0 1 * *'
+  workflow_dispatch:
 
 jobs:
-  add-list-items:
+
+  anime-lists:
+
+    name: Update Anime List
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
-
-      - name: SETUP PYTHON
-        uses: actions/setup-python@v3
+      - name: Setup Python
+        uses: actions/setup-python@v2
         with:
           python-version: '3.x'
 
-      - name: INSTALL PYTHON DEPENDENCIES
+      - name: Check out code
+        uses: actions/checkout@v2
+
+      - name: Install Dependencies
         run: python3 -m pip install --pre -r scripts/requirements.txt
 
-      - name: UPDATE FAVOURITES
-        run: python3 scripts/favourites.py
-
-      - name: UPDATE ANIME LISTS
+      - name: Update current Anime Lists in Readme
         run: python3 scripts/animelist.py
 
-      - name: COMMIT & PUSH
+      - name: Update current Favourites in Readme
+        run: python3 scripts/favourites.py
+
+      - name: Commit & Push
         uses: actions-js/push@main
-        with: 
-          message: 😼 ~ Arra Arra ~ 😼
+        with:
+          message: update latest projects
           branch: main
