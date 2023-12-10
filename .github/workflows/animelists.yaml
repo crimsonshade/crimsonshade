@@ -26,5 +26,6 @@ jobs:
       - name: COMMIT & PUSH
         uses: actions-js/push@master
         with: 
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           message: 😼 ~ Arra Arra ~ 😼
           branch: main
