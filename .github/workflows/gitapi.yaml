@@ -12,4 +12,4 @@ jobs:
           python-version: '3.10'
       - name: Install dependencies
         run: pip install requests 
-      - run: python scripts/api.py
+      - run: python python/api.py
