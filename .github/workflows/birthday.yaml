@@ -1,23 +1,23 @@
-name: birthday-automation
-on:
-  schedule:
-    - cron: '0 0 22 3 *'
-jobs:
-  change_age:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
+# name: birthday-automation
+# on:
+#   schedule:
+#     - cron: '0 0 22 3 *'
+# jobs:
+#   change_age:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - uses: actions/checkout@v4
       
-      - name: Setup Python
-      - uses: actions/setup-python@v4
-        with:
-          python-version: '3.x'
+#       - name: Setup Python
+#       - uses: actions/setup-python@v4
+#         with:
+#           python-version: '3.x'
 
-      - name: Update README
-        run: python3 scripts/animelist.py
+#       - name: Update README
+#         run: python3 scripts/animelist.py
 
-      - name: Commit & Push
-        uses: actions-js/push@main
-        with:
-          message: 🎉 ~ IT'S MY BIRTHDAY ~ 🎉
-          branch: main
+#       - name: Commit & Push
+#         uses: actions-js/push@main
+#         with:
+#           message: 🎉 ~ IT'S MY BIRTHDAY ~ 🎉
+#           branch: main
