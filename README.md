@@ -24,14 +24,26 @@ I love to develop my own games. For this reason I started to put most of my proj
 
 <table>
     <tr>
+        <th>Nr</th>
         <th>Project</th>
         <th>Description</th>
-        <th>Topics</th>
     </tr>
 <!-- PROJECTS START -->
-<tr><td><a href="https://github.com/crmsn-xyz/devils-fate-old">devils-fate-old</a></td><td>This is a small game I made for the minijam 96 Game Jam. </td></tr>
-<tr><td><a href="https://github.com/crmsn-xyz/run-fast-old">run-fast-old</a></td><td>My Ludum Dare 50 Gamejam game.</td></tr>
-<tr><td><a href="https://github.com/crmsn-xyz/flappy-clone">flappy-clone</a></td><td>Flappy Bird game clone</td></tr>
+	<tr>
+    	<td>1</td>
+    	<td><a href="https://github.com/crmsn-xyz/devils-fate-old">devils-fate-old</a></td>
+    	<td>This is a small game I made for the minijam 96 Game Jam. </td>
+	</tr>
+	<tr>
+    	<td>2</td>
+    	<td><a href="https://github.com/crmsn-xyz/run-fast-old">run-fast-old</a></td>
+    	<td>My Ludum Dare 50 Gamejam game.</td>
+	</tr>
+	<tr>
+    	<td>3</td>
+    	<td><a href="https://github.com/crmsn-xyz/flappy-clone">flappy-clone</a></td>
+    	<td>A small flappy bird clone I made in the Unity Engine.</td>
+	</tr>
 <!-- PROJECTS END -->
 </table>
 
