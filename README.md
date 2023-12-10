@@ -91,7 +91,8 @@ More Informations about me, and the animes I am watching right now. This informa
 #### All Animes I'm Currently Watching
 
 <!-- CURRENTLY START -->
-
+- **[ONE PIECE](https://anilist.co/anime/21)** episode **57**
+- **[Frieren: Beyond Journey’s End](https://anilist.co/anime/154587)** episode **4**
 <!-- CURRENTLY END -->
 
 </details>
@@ -102,7 +103,54 @@ More Informations about me, and the animes I am watching right now. This informa
 #### All Animes I Have Completed
 
 <!-- COMPLETED START -->
-
+- **[BOCCHI THE ROCK!](https://anilist.co/anime/130003)**
+- **[My Hero Academia](https://anilist.co/anime/21459)**
+- **[My Hero Academia Season 2](https://anilist.co/anime/21856)**
+- **[My Hero Academia Season 3](https://anilist.co/anime/100166)**
+- **[My Hero Academia Season 4](https://anilist.co/anime/104276)**
+- **[My Hero Academia Season 5](https://anilist.co/anime/117193)**
+- **[Chainsaw Man](https://anilist.co/anime/127230)**
+- **[Cyberpunk: Edgerunners](https://anilist.co/anime/120377)**
+- **[Is It Wrong to Try to Pick Up Girls in a Dungeon?](https://anilist.co/anime/20920)**
+- **[High School DxD](https://anilist.co/anime/11617)**
+- **[None](https://anilist.co/anime/20745)**
+- **[None](https://anilist.co/anime/97767)**
+- **[None](https://anilist.co/anime/15451)**
+- **[DON'T TOY WITH ME, MISS NAGATORO](https://anilist.co/anime/120697)**
+- **[JUJUTSU KAISEN](https://anilist.co/anime/113415)**
+- **[The Eminence in Shadow](https://anilist.co/anime/130298)**
+- **[Shikimori's Not Just a Cutie](https://anilist.co/anime/127911)**
+- **[Kill la Kill](https://anilist.co/anime/18679)**
+- **[Demon Slayer: Kimetsu no Yaiba](https://anilist.co/anime/101922)**
+- **[Demon Slayer: Kimetsu no Yaiba Entertainment District Arc](https://anilist.co/anime/142329)**
+- **[Your Name.](https://anilist.co/anime/21519)**
+- **[Komi Can’t Communicate](https://anilist.co/anime/133965)**
+- **[The Garden of Words](https://anilist.co/anime/16782)**
+- **[Black Summoner](https://anilist.co/anime/145260)**
+- **[Lycoris Recoil](https://anilist.co/anime/143270)**
+- **[The Misfit of Demon King Academy: History’s Strongest Demon King Reincarnates and Goes to School with His Descendants](https://anilist.co/anime/112301)**
+- **[The Seven Deadly Sins](https://anilist.co/anime/20789)**
+- **[Naruto](https://anilist.co/anime/20)**
+- **[No Game, No Life](https://anilist.co/anime/19815)**
+- **[Seraph of the End: Vampire Reign](https://anilist.co/anime/20829)**
+- **[Seraph of the End: Battle in Nagoya](https://anilist.co/anime/20993)**
+- **[Akashic Records of Bastard Magic Instructor](https://anilist.co/anime/21700)**
+- **[Spirited Away](https://anilist.co/anime/199)**
+- **[The Testament of Sister New Devil](https://anilist.co/anime/20678)**
+- **[The Testament of Sister New Devil BURST](https://anilist.co/anime/21110)**
+- **[The Testament of Sister New Devil: Tojo Basara's Hard, Sweet Daily Life](https://anilist.co/anime/21247)**
+- **[Shinobi no Ittoki](https://anilist.co/anime/145604)**
+- **[Food Wars!](https://anilist.co/anime/20923)**
+- **[Food Wars! The Second Plate](https://anilist.co/anime/21518)**
+- **[My Dress-Up Darling](https://anilist.co/anime/132405)**
+- **[SPY x FAMILY](https://anilist.co/anime/140960)**
+- **[SPY x FAMILY Cour 2](https://anilist.co/anime/142838)**
+- **[Suzume](https://anilist.co/anime/142770)**
+- **[Gurren Lagann](https://anilist.co/anime/2001)**
+- **[Weathering With You](https://anilist.co/anime/106286)**
+- **[Castle in the Sky](https://anilist.co/anime/513)**
+- **[The Aristocrat’s Otherworldly Adventure: Serving Gods Who Go Too Far](https://anilist.co/anime/153332)**
+- **[Violet Evergarden](https://anilist.co/anime/21827)**
 <!-- COMPLETED END -->
 
 </details>
@@ -113,7 +161,29 @@ More Informations about me, and the animes I am watching right now. This informa
 #### All My Current Favorite Animes
 
 <!-- FAVOURITES START -->
-
+- **[Demon Slayer: Kimetsu no Yaiba](https://anilist.co/anime/101922)**
+- **[High School DxD](https://anilist.co/anime/11617)**
+- **[The Rising of the Shield Hero](https://anilist.co/anime/99263)**
+- **[Seraph of the End: Vampire Reign](https://anilist.co/anime/20829)**
+- **[Kill la Kill](https://anilist.co/anime/18679)**
+- **[The Seven Deadly Sins](https://anilist.co/anime/20789)**
+- **[The Testament of Sister New Devil](https://anilist.co/anime/20678)**
+- **[JUJUTSU KAISEN](https://anilist.co/anime/113415)**
+- **[Spirited Away](https://anilist.co/anime/199)**
+- **[No Game, No Life](https://anilist.co/anime/19815)**
+- **[Naruto](https://anilist.co/anime/20)**
+- **[Weathering With You](https://anilist.co/anime/106286)**
+- **[Your Name.](https://anilist.co/anime/21519)**
+- **[Violet Evergarden](https://anilist.co/anime/21827)**
+- **[SHIMONETA: A Boring World Where the Concept of Dirty Jokes Doesn’t Exist](https://anilist.co/anime/20910)**
+- **[Cyberpunk: Edgerunners](https://anilist.co/anime/120377)**
+- **[Tokyo Ghoul](https://anilist.co/anime/20605)**
+- **[Chainsaw Man](https://anilist.co/anime/127230)**
+- **[My Hero Academia Season 5](https://anilist.co/anime/117193)**
+- **[Gurren Lagann](https://anilist.co/anime/2001)**
+- **[BOCCHI THE ROCK!](https://anilist.co/anime/130003)**
+- **[Castle in the Sky](https://anilist.co/anime/513)**
+- **[Suzume](https://anilist.co/anime/142770)**
 <!-- FAVOURITES END -->
 
 </details>
