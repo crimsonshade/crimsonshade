@@ -40,13 +40,13 @@ I love to develop my own games. For this reason I started to put most of my proj
     	<td>2</td>
     	<td><a href="https://github.com/crmsn-xyz/run-fast-old">run-fast-old</a></td>
     	<td>My Ludum Dare 50 Gamejam game.</td>
-    	<td><span style="display:inline-block;padding:3px 8px;margin:2px;background-color:#A8ABFD;border:1px solid #3439CD;border-radius:16px; color:#black;font-size:12px">#game</span> <span style="display:inline-block;padding:3px 8px;margin:2px;background-color:#A8ABFD;border:1px solid #3439CD;border-radius:16px; color:#black;font-size:12px">#game-development</span> <span style="display:inline-block;padding:3px 8px;margin:2px;background-color:#A8ABFD;border:1px solid #3439CD;border-radius:16px; color:#black;font-size:12px">#gamjam</span> <span style="display:inline-block;padding:3px 8px;margin:2px;background-color:#A8ABFD;border:1px solid #3439CD;border-radius:16px; color:#black;font-size:12px">#ludum-dare-50</span> <span style="display:inline-block;padding:3px 8px;margin:2px;background-color:#A8ABFD;border:1px solid #3439CD;border-radius:16px; color:#black;font-size:12px">#unity</span> <span style="display:inline-block;padding:3px 8px;margin:2px;background-color:#A8ABFD;border:1px solid #3439CD;border-radius:16px; color:#black;font-size:12px">#unity2d</span> <span style="display:inline-block;padding:3px 8px;margin:2px;background-color:#A8ABFD;border:1px solid #3439CD;border-radius:16px; color:#black;font-size:12px">#unity2d-game</span></td>
+    	<td>game, game-development, gamjam, ludum-dare-50, unity, unity2d, unity2d-game</td>
 	</tr>
 	<tr>
     	<td>3</td>
     	<td><a href="https://github.com/crmsn-xyz/flappy-clone">flappy-clone</a></td>
     	<td>A small flappy bird clone I made in the Unity Engine.</td>
-    	<td><span style="display:inline-block;padding:3px 8px;margin:2px;background-color:#A8ABFD;border:1px solid #3439CD;border-radius:16px; color:#black;font-size:12px">#gamedev</span> <span style="display:inline-block;padding:3px 8px;margin:2px;background-color:#A8ABFD;border:1px solid #3439CD;border-radius:16px; color:#black;font-size:12px">#unity</span> <span style="display:inline-block;padding:3px 8px;margin:2px;background-color:#A8ABFD;border:1px solid #3439CD;border-radius:16px; color:#black;font-size:12px">#unity2d</span></td>
+    	<td>gamedev, unity, unity2d</td>
 	</tr>
 <!-- PROJECTS END -->
 </table>

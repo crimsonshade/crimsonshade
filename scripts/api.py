@@ -4,11 +4,6 @@ import requests
 START_MARKER = '<!-- PROJECTS START -->'
 END_MARKER = '<!-- PROJECTS END -->'
 
-BACKGROUND_COLOR = '#A8ABFD'
-BORDER_COLOR = '#3439CD'
-
-INLINE_CSS_TAGS = f'style="display:inline-block;padding:3px 8px;margin:2px;background-color:{BACKGROUND_COLOR};border:1px solid {BORDER_COLOR};border-radius:16px; color:#black;font-size:12px"'
-
 def fetch_projects():
     """Fetch list of projects from the GitHub API."""
     url = "https://api.github.com/orgs/crmsn-xyz/repos"
@@ -38,9 +33,7 @@ def get_topics(project):
     if not topics:
         return ""
     else:
-        # Wrap each topic in a span tag with inline CSS
-        topics_html = [f'<span {INLINE_CSS_TAGS}>#{topic}</span>' for topic in topics]
-        return " ".join(topics_html)
+        return ", ".join(topics)
 
 def main():
     """Main function to fetch projects and update the Markdown file."""
