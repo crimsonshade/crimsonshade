@@ -1,4 +1,4 @@
-name: Python package
+name: Update Anime Lists
 
 on: workflow_dispatch
 
@@ -24,7 +24,7 @@ jobs:
         run: python3 scripts/animelist.py
 
       - name: COMMIT & PUSH
-        uses: actions-js/push@main
+        uses: actions-js/push@master
         with: 
           message: 😼 ~ Arra Arra ~ 😼
           branch: main
