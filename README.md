@@ -83,17 +83,16 @@ I use a lot of different apps and webpages for my everyday things. Down here is 
 ---
 
 #### 👉 Other information
-More information about me. Some of my habbits, my last game played on [steam](https://store.steampowered.com/) and my [wakatime](https://wakatime.com/) stats. 
+More Informations about me, and my 
 
 <details>
-<summary>more information</summary>
-<div align="center">
+<summary>Currently Watching Animes</summary>
 
-![codinghabbits](./media/metrics-habbits.svg)
-![steam-activity](./media/metrics-steam.svg)
-![wakatime](./media/metrics-wakatime.svg)
+<!-- CURRENTLY START -->
+- **[ONE PIECE](https://anilist.co/anime/21)** episode **57**
+- **[Frieren: Beyond Journey�s End](https://anilist.co/anime/154587)** episode **4**
+<!-- CURRENTLY END -->
 
-</div>
 </details>
 
 ---
