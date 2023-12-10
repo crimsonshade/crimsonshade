@@ -68,12 +68,10 @@ I use a lot of different apps and webpages for my everyday things. Down here is 
 
 #### Engines
 - **[Unity Engine](https://unity.com/)**: for developing my games.
-- **[Godot Engine](https://godotengine.org/)**: currently learning, because of the situation with Unity.
-- **[Unreal Engine](https://www.unrealengine.com/en-US)**: currently learning, because of the situation with Unity.
+- **[Godot Engine](https://godotengine.org/)**: currently learning. But I really like it.
 
 #### IDEs
 - **[JetBrains InteliJ](https://www.jetbrains.com/idea/)**: for developing stuff in Java `(mostly for uni)`.
-- **[JetBrains Rider](https://www.jetbrains.com/rider)**: for developing in Unity and writing C# applications. `(currently canceld subscription)`
 - **[NeoVim](https://neovim.io/)**: for fast and small changes in files.
 - **[Visual Studio Code](https://code.visualstudio.com)**: for writing code in other lanugages then the one I'm used to.
 
@@ -89,7 +87,7 @@ I use a lot of different apps and webpages for my everyday things. Down here is 
 
 #### Note taking
 - **[Google Keep](https://www.google.com/keep)**: for quick thoughts in my mind.
-- **[QOwnNotes](https://qownnotes.org/)**: Markdwon editor for writing journals, and collecting all of my thoughts. 
+- **[QOwnNotes](https://qownnotes.org/)**: Markdown editor for writing journals, and collecting all of my thoughts. 
 
 #### Web
 - **[12ft](https://12ft.io)**: A good tool for fast reading articles that used to have a paywal.
