@@ -1,5 +1,6 @@
 from gql import gql, Client
 from gql.transport.aiohttp import AIOHTTPTransport
+import codecs
 
 URL = 'https://graphql.anilist.co'
 START_MARKER = '<!-- FAVOURITES START -->'
@@ -8,7 +9,7 @@ END_MARKER = '<!-- FAVOURITES END -->'
 def main():
     readme = ''
     favorites = fetch_favorites()
-    with open('README.md', 'r') as file:
+    with codecs.open('README.md', 'r', "utf-8") as file:
         readme = file.read()
 
     start_pos = readme.find(START_MARKER) + len(START_MARKER) + 1
@@ -17,7 +18,7 @@ def main():
 
     readme = readme[:start_pos] + injection + readme[end_pos:]
 
-    with open('README.md', 'w') as file:
+    with codecs.open('README.md', 'w', "utf-8") as file:
         file.write(readme)
     
 def parse_injection(favourites):

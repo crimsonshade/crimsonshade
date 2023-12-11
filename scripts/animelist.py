@@ -1,5 +1,6 @@
 from gql import gql, Client
 from gql.transport.aiohttp import AIOHTTPTransport
+import codecs
 
 
 URL = 'https://graphql.anilist.co'
@@ -45,7 +46,7 @@ def fetch_watching(status):
 def main(start_marker, end_marker):
     readme = ''
 
-    with open('README.md', 'r') as file:
+    with codecs.open('README.md', 'r', "utf-8") as file:
         readme = file.read()
 
         injection = ''
@@ -61,7 +62,7 @@ def main(start_marker, end_marker):
         
     readme = readme[:start_pos] + injection + readme[end_pos:]
 
-    with open("README.md", 'w') as file:
+    with codecs.open("README.md", 'w', "utf-8") as file:
         file.write(readme)
 
 def currently_injection(content):

@@ -82,9 +82,8 @@ More Informations about me, and the animes I am watching right now. This informa
 <details>
 <summary>Currently Watching Animes</summary>
 
-<!-- CURRENTLY START -->
-- **[ONE PIECE](https://anilist.co/anime/21)** episode **61**
-- **[Frieren: Beyond Journey�s End](https://anilist.co/anime/154587)** episode **4**
+<!-- CURRENTLY START -->- **[ONE PIECE](https://anilist.co/anime/21)** episode **61**
+- **[Frieren: Beyond Journey’s End](https://anilist.co/anime/154587)** episode **4**
 <!-- CURRENTLY END -->
 
 </details>
@@ -92,8 +91,7 @@ More Informations about me, and the animes I am watching right now. This informa
 <details>
 <summary>Completed Animes</summary>
 
-<!-- COMPLETED START -->
-- **[BOCCHI THE ROCK!](https://anilist.co/anime/130003)**
+<!-- COMPLETED START -->- **[BOCCHI THE ROCK!](https://anilist.co/anime/130003)**
 - **[My Hero Academia](https://anilist.co/anime/21459)**
 - **[My Hero Academia Season 2](https://anilist.co/anime/21856)**
 - **[My Hero Academia Season 3](https://anilist.co/anime/100166)**
@@ -114,11 +112,11 @@ More Informations about me, and the animes I am watching right now. This informa
 - **[Demon Slayer: Kimetsu no Yaiba](https://anilist.co/anime/101922)**
 - **[Demon Slayer: Kimetsu no Yaiba Entertainment District Arc](https://anilist.co/anime/142329)**
 - **[Your Name.](https://anilist.co/anime/21519)**
-- **[Komi Can�t Communicate](https://anilist.co/anime/133965)**
+- **[Komi Can’t Communicate](https://anilist.co/anime/133965)**
 - **[The Garden of Words](https://anilist.co/anime/16782)**
 - **[Black Summoner](https://anilist.co/anime/145260)**
 - **[Lycoris Recoil](https://anilist.co/anime/143270)**
-- **[The Misfit of Demon King Academy: History�s Strongest Demon King Reincarnates and Goes to School with His Descendants](https://anilist.co/anime/112301)**
+- **[The Misfit of Demon King Academy: History’s Strongest Demon King Reincarnates and Goes to School with His Descendants](https://anilist.co/anime/112301)**
 - **[The Seven Deadly Sins](https://anilist.co/anime/20789)**
 - **[Naruto](https://anilist.co/anime/20)**
 - **[No Game, No Life](https://anilist.co/anime/19815)**
@@ -139,7 +137,7 @@ More Informations about me, and the animes I am watching right now. This informa
 - **[Gurren Lagann](https://anilist.co/anime/2001)**
 - **[Weathering With You](https://anilist.co/anime/106286)**
 - **[Castle in the Sky](https://anilist.co/anime/513)**
-- **[The Aristocrat�s Otherworldly Adventure: Serving Gods Who Go Too Far](https://anilist.co/anime/153332)**
+- **[The Aristocrat’s Otherworldly Adventure: Serving Gods Who Go Too Far](https://anilist.co/anime/153332)**
 - **[Violet Evergarden](https://anilist.co/anime/21827)**
 <!-- COMPLETED END -->
 
