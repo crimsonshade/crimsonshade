@@ -8,13 +8,7 @@ Currently I'm studying **Applied Computer Science** at my local university! My p
 
 ---
 
-<!-- README -->
-
 ### More about me
-
-<div align="center">
-    <img src="media/metrics-languages.svg">
-</div>
 
 #### ðŸ’» Projects
 I love to develop my own games. For this reason I started to put most of my projects into repos. The most of them are private, because they are only for testing or playing around. But still, here are some public projects I worked on, that you can play!
@@ -90,7 +84,7 @@ More Informations about me, and the animes I am watching right now. This informa
 
 <!-- CURRENTLY START -->
 - **[ONE PIECE](https://anilist.co/anime/21)** episode **61**
-- **[Frieren: Beyond Journey’s End](https://anilist.co/anime/154587)** episode **4**
+- **[Frieren: Beyond Journeyï¿½s End](https://anilist.co/anime/154587)** episode **4**
 <!-- CURRENTLY END -->
 
 </details>
@@ -120,11 +114,11 @@ More Informations about me, and the animes I am watching right now. This informa
 - **[Demon Slayer: Kimetsu no Yaiba](https://anilist.co/anime/101922)**
 - **[Demon Slayer: Kimetsu no Yaiba Entertainment District Arc](https://anilist.co/anime/142329)**
 - **[Your Name.](https://anilist.co/anime/21519)**
-- **[Komi Can’t Communicate](https://anilist.co/anime/133965)**
+- **[Komi Canï¿½t Communicate](https://anilist.co/anime/133965)**
 - **[The Garden of Words](https://anilist.co/anime/16782)**
 - **[Black Summoner](https://anilist.co/anime/145260)**
 - **[Lycoris Recoil](https://anilist.co/anime/143270)**
-- **[The Misfit of Demon King Academy: History’s Strongest Demon King Reincarnates and Goes to School with His Descendants](https://anilist.co/anime/112301)**
+- **[The Misfit of Demon King Academy: Historyï¿½s Strongest Demon King Reincarnates and Goes to School with His Descendants](https://anilist.co/anime/112301)**
 - **[The Seven Deadly Sins](https://anilist.co/anime/20789)**
 - **[Naruto](https://anilist.co/anime/20)**
 - **[No Game, No Life](https://anilist.co/anime/19815)**
@@ -145,7 +139,7 @@ More Informations about me, and the animes I am watching right now. This informa
 - **[Gurren Lagann](https://anilist.co/anime/2001)**
 - **[Weathering With You](https://anilist.co/anime/106286)**
 - **[Castle in the Sky](https://anilist.co/anime/513)**
-- **[The Aristocrat’s Otherworldly Adventure: Serving Gods Who Go Too Far](https://anilist.co/anime/153332)**
+- **[The Aristocratï¿½s Otherworldly Adventure: Serving Gods Who Go Too Far](https://anilist.co/anime/153332)**
 - **[Violet Evergarden](https://anilist.co/anime/21827)**
 <!-- COMPLETED END -->
 
@@ -169,7 +163,7 @@ More Informations about me, and the animes I am watching right now. This informa
 - **[Weathering With You](https://anilist.co/anime/106286)**
 - **[Your Name.](https://anilist.co/anime/21519)**
 - **[Violet Evergarden](https://anilist.co/anime/21827)**
-- **[SHIMONETA: A Boring World Where the Concept of Dirty Jokes Doesnâ€™t Exist](https://anilist.co/anime/20910)**
+- **[SHIMONETA: A Boring World Where the Concept of Dirty Jokes Doesnï¿½t Exist](https://anilist.co/anime/20910)**
 - **[Cyberpunk: Edgerunners](https://anilist.co/anime/120377)**
 - **[Tokyo Ghoul](https://anilist.co/anime/20605)**
 - **[Chainsaw Man](https://anilist.co/anime/127230)**
