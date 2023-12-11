@@ -88,8 +88,6 @@ More Informations about me, and the animes I am watching right now. This informa
 <details>
 <summary>Currently Watching Animes</summary>
 
-#### All Animes I'm Currently Watching
-
 <!-- CURRENTLY START -->
 - **[ONE PIECE](https://anilist.co/anime/21)** episode **61**
 - **[Frieren: Beyond Journey’s End](https://anilist.co/anime/154587)** episode **4**
@@ -99,8 +97,6 @@ More Informations about me, and the animes I am watching right now. This informa
 
 <details>
 <summary>Completed Animes</summary>
-
-#### All Animes I Have Completed
 
 <!-- COMPLETED START -->
 - **[BOCCHI THE ROCK!](https://anilist.co/anime/130003)**
@@ -157,8 +153,6 @@ More Informations about me, and the animes I am watching right now. This informa
 
 <details>
 <summary>Favourite Animes</summary>
-
-#### All My Current Favorite Animes
 
 <!-- FAVOURITES START -->
 - **[Demon Slayer: Kimetsu no Yaiba](https://anilist.co/anime/101922)**
