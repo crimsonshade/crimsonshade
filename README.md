@@ -91,7 +91,7 @@ More Informations about me, and the animes I am watching right now. This informa
 #### All Animes I'm Currently Watching
 
 <!-- CURRENTLY START -->
-- **[ONE PIECE](https://anilist.co/anime/21)** episode **57**
+- **[ONE PIECE](https://anilist.co/anime/21)** episode **61**
 - **[Frieren: Beyond Journey’s End](https://anilist.co/anime/154587)** episode **4**
 <!-- CURRENTLY END -->
 
