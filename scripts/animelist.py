@@ -23,6 +23,7 @@ def fetch_watching(status):
                     progress
                     media {
                         title {
+                            romaji
                             english
                         }
                     }
@@ -70,7 +71,11 @@ def currently_injection(content):
             media_id = entry.get('mediaId')
             current_progess = entry.get('progress')
             english_title = entry.get('media').get('title').get('english')
-            titles += f'''- **[{english_title}](https://anilist.co/anime/{media_id})** episode **{current_progess}**\n'''
+            romaji_title = entry.get('media').get('title').get('romaji')
+            if english_title is None:
+                titles += f'''- **[{romaji_title}](https://anilist.co/anime/{media_id})** episode **{current_progess}**\n'''
+            else:
+                titles += f'''- **[{english_title}](https://anilist.co/anime/{media_id})** episode **{current_progess}**\n'''
     
     print(titles)
     return titles
@@ -80,9 +85,12 @@ def watched_injection(content):
     for lists in content.get('MediaListCollection').get('lists'):
         for entry in lists.get('entries'):
             media_id = entry.get('mediaId')
-            current_progess = entry.get('progress')
             english_title = entry.get('media').get('title').get('english')
-            titles += f'''- **[{english_title}](https://anilist.co/anime/{media_id})**\n'''
+            romaji_title = entry.get('media').get('title').get('romaji')
+            if english_title is None:
+                titles += f'''- **[{romaji_title}](https://anilist.co/anime/{media_id})**\n'''
+            else:
+                titles += f'''- **[{english_title}](https://anilist.co/anime/{media_id})**\n'''
     
     print(titles)
     return titles

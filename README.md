@@ -90,7 +90,7 @@ More Informations about me, and the animes I am watching right now. This informa
 
 <!-- CURRENTLY START -->
 - **[ONE PIECE](https://anilist.co/anime/21)** episode **61**
-- **[Frieren: Beyond Journeyâ€™s End](https://anilist.co/anime/154587)** episode **4**
+- **[Frieren: Beyond Journey’s End](https://anilist.co/anime/154587)** episode **4**
 <!-- CURRENTLY END -->
 
 </details>
@@ -109,9 +109,9 @@ More Informations about me, and the animes I am watching right now. This informa
 - **[Cyberpunk: Edgerunners](https://anilist.co/anime/120377)**
 - **[Is It Wrong to Try to Pick Up Girls in a Dungeon?](https://anilist.co/anime/20920)**
 - **[High School DxD](https://anilist.co/anime/11617)**
-- **[None](https://anilist.co/anime/20745)**
-- **[None](https://anilist.co/anime/97767)**
-- **[None](https://anilist.co/anime/15451)**
+- **[High School DxD BorN](https://anilist.co/anime/20745)**
+- **[High School DxD HERO](https://anilist.co/anime/97767)**
+- **[High School DxD NEW](https://anilist.co/anime/15451)**
 - **[DON'T TOY WITH ME, MISS NAGATORO](https://anilist.co/anime/120697)**
 - **[JUJUTSU KAISEN](https://anilist.co/anime/113415)**
 - **[The Eminence in Shadow](https://anilist.co/anime/130298)**
@@ -120,11 +120,11 @@ More Informations about me, and the animes I am watching right now. This informa
 - **[Demon Slayer: Kimetsu no Yaiba](https://anilist.co/anime/101922)**
 - **[Demon Slayer: Kimetsu no Yaiba Entertainment District Arc](https://anilist.co/anime/142329)**
 - **[Your Name.](https://anilist.co/anime/21519)**
-- **[Komi Canâ€™t Communicate](https://anilist.co/anime/133965)**
+- **[Komi Can’t Communicate](https://anilist.co/anime/133965)**
 - **[The Garden of Words](https://anilist.co/anime/16782)**
 - **[Black Summoner](https://anilist.co/anime/145260)**
 - **[Lycoris Recoil](https://anilist.co/anime/143270)**
-- **[The Misfit of Demon King Academy: Historyâ€™s Strongest Demon King Reincarnates and Goes to School with His Descendants](https://anilist.co/anime/112301)**
+- **[The Misfit of Demon King Academy: History’s Strongest Demon King Reincarnates and Goes to School with His Descendants](https://anilist.co/anime/112301)**
 - **[The Seven Deadly Sins](https://anilist.co/anime/20789)**
 - **[Naruto](https://anilist.co/anime/20)**
 - **[No Game, No Life](https://anilist.co/anime/19815)**
@@ -145,7 +145,7 @@ More Informations about me, and the animes I am watching right now. This informa
 - **[Gurren Lagann](https://anilist.co/anime/2001)**
 - **[Weathering With You](https://anilist.co/anime/106286)**
 - **[Castle in the Sky](https://anilist.co/anime/513)**
-- **[The Aristocratâ€™s Otherworldly Adventure: Serving Gods Who Go Too Far](https://anilist.co/anime/153332)**
+- **[The Aristocrat’s Otherworldly Adventure: Serving Gods Who Go Too Far](https://anilist.co/anime/153332)**
 - **[Violet Evergarden](https://anilist.co/anime/21827)**
 <!-- COMPLETED END -->
 
