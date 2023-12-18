@@ -81,8 +81,9 @@ More Informations about me, and the animes I am watching right now. This informa
 <details>
 <summary>Currently Watching Animes</summary>
 
-<!-- CURRENTLY START -->- **[ONE PIECE](https://anilist.co/anime/21)** episode **61**
-- **[Frieren: Beyond Journey’s End](https://anilist.co/anime/154587)** episode **4**
+<!-- CURRENTLY START -->- **[JUJUTSU KAISEN Season 2](https://anilist.co/anime/145064)** episode **10**
+- **[ONE PIECE](https://anilist.co/anime/21)** episode **70**
+- **[Frieren: Beyond Journey’s End](https://anilist.co/anime/154587)** episode **5**
 <!-- CURRENTLY END -->
 
 </details>
@@ -145,8 +146,7 @@ More Informations about me, and the animes I am watching right now. This informa
 <details>
 <summary>Favourite Animes</summary>
 
-<!-- FAVOURITES START -->
-- **[Demon Slayer: Kimetsu no Yaiba](https://anilist.co/anime/101922)**
+<!-- FAVOURITES START -->- **[Demon Slayer: Kimetsu no Yaiba](https://anilist.co/anime/101922)**
 - **[High School DxD](https://anilist.co/anime/11617)**
 - **[The Rising of the Shield Hero](https://anilist.co/anime/99263)**
 - **[Seraph of the End: Vampire Reign](https://anilist.co/anime/20829)**
@@ -160,7 +160,7 @@ More Informations about me, and the animes I am watching right now. This informa
 - **[Weathering With You](https://anilist.co/anime/106286)**
 - **[Your Name.](https://anilist.co/anime/21519)**
 - **[Violet Evergarden](https://anilist.co/anime/21827)**
-- **[SHIMONETA: A Boring World Where the Concept of Dirty Jokes Doesn�t Exist](https://anilist.co/anime/20910)**
+- **[SHIMONETA: A Boring World Where the Concept of Dirty Jokes Doesn’t Exist](https://anilist.co/anime/20910)**
 - **[Cyberpunk: Edgerunners](https://anilist.co/anime/120377)**
 - **[Tokyo Ghoul](https://anilist.co/anime/20605)**
 - **[Chainsaw Man](https://anilist.co/anime/127230)**
