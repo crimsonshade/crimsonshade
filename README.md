@@ -81,9 +81,10 @@ More Informations about me, and the animes I am watching right now. This informa
 <details>
 <summary>Currently Watching Animes</summary>
 
-<!-- CURRENTLY START -->- **[JUJUTSU KAISEN Season 2](https://anilist.co/anime/145064)** episode **10**
-- **[ONE PIECE](https://anilist.co/anime/21)** episode **70**
+<!-- CURRENTLY START -->- **[ONE PIECE](https://anilist.co/anime/21)** episode **70**
+- **[Neon Genesis Evangelion](https://anilist.co/anime/30)** episode **6**
 - **[Frieren: Beyond Journey’s End](https://anilist.co/anime/154587)** episode **5**
+- **[Scott Pilgrim Takes Off](https://anilist.co/anime/170206)** episode **2**
 <!-- CURRENTLY END -->
 
 </details>
