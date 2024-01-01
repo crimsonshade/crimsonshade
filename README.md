@@ -82,7 +82,7 @@ More Informations about me, and the animes I am watching right now. This informa
 <summary>Currently Watching Animes</summary>
 
 <!-- CURRENTLY START -->- **[ONE PIECE](https://anilist.co/anime/21)** episode **70**
-- **[Neon Genesis Evangelion](https://anilist.co/anime/30)** episode **6**
+- **[Neon Genesis Evangelion](https://anilist.co/anime/30)** episode **14**
 - **[Frieren: Beyond Journey’s End](https://anilist.co/anime/154587)** episode **5**
 <!-- CURRENTLY END -->
 
@@ -150,26 +150,20 @@ More Informations about me, and the animes I am watching right now. This informa
 <!-- FAVOURITES START -->- **[Demon Slayer: Kimetsu no Yaiba](https://anilist.co/anime/101922)**
 - **[High School DxD](https://anilist.co/anime/11617)**
 - **[The Rising of the Shield Hero](https://anilist.co/anime/99263)**
-- **[Seraph of the End: Vampire Reign](https://anilist.co/anime/20829)**
-- **[Kill la Kill](https://anilist.co/anime/18679)**
 - **[The Seven Deadly Sins](https://anilist.co/anime/20789)**
 - **[The Testament of Sister New Devil](https://anilist.co/anime/20678)**
 - **[JUJUTSU KAISEN](https://anilist.co/anime/113415)**
-- **[Spirited Away](https://anilist.co/anime/199)**
 - **[No Game, No Life](https://anilist.co/anime/19815)**
-- **[Naruto](https://anilist.co/anime/20)**
 - **[Weathering With You](https://anilist.co/anime/106286)**
 - **[Your Name.](https://anilist.co/anime/21519)**
 - **[Violet Evergarden](https://anilist.co/anime/21827)**
-- **[SHIMONETA: A Boring World Where the Concept of Dirty Jokes Doesn’t Exist](https://anilist.co/anime/20910)**
 - **[Cyberpunk: Edgerunners](https://anilist.co/anime/120377)**
-- **[Tokyo Ghoul](https://anilist.co/anime/20605)**
 - **[Chainsaw Man](https://anilist.co/anime/127230)**
-- **[My Hero Academia Season 5](https://anilist.co/anime/117193)**
 - **[Gurren Lagann](https://anilist.co/anime/2001)**
 - **[BOCCHI THE ROCK!](https://anilist.co/anime/130003)**
 - **[Castle in the Sky](https://anilist.co/anime/513)**
 - **[Suzume](https://anilist.co/anime/142770)**
+- **[Scott Pilgrim Takes Off](https://anilist.co/anime/170206)**
 <!-- FAVOURITES END -->
 
 </details>
