@@ -83,7 +83,7 @@ More Informations about me, and the animes I am watching right now. This informa
 
 <!-- CURRENTLY START -->- **[ONE PIECE](https://anilist.co/anime/21)** episode **70**
 - **[Neon Genesis Evangelion](https://anilist.co/anime/30)** episode **14**
-- **[Frieren: Beyond Journey’s End](https://anilist.co/anime/154587)** episode **5**
+- **[ONIMAI: I'm Now Your Sister!](https://anilist.co/anime/147864)** episode **2**
 <!-- CURRENTLY END -->
 
 </details>
