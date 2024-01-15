@@ -83,7 +83,7 @@ More Informations about me, and the animes I am watching right now. This informa
 
 <!-- CURRENTLY START -->- **[ONE PIECE](https://anilist.co/anime/21)** episode **70**
 - **[Neon Genesis Evangelion](https://anilist.co/anime/30)** episode **14**
-- **[ONIMAI: I'm Now Your Sister!](https://anilist.co/anime/147864)** episode **2**
+- **[ONIMAI: I'm Now Your Sister!](https://anilist.co/anime/147864)** episode **3**
 <!-- CURRENTLY END -->
 
 </details>
@@ -140,6 +140,7 @@ More Informations about me, and the animes I am watching right now. This informa
 - **[The Aristocrat’s Otherworldly Adventure: Serving Gods Who Go Too Far](https://anilist.co/anime/153332)**
 - **[Violet Evergarden](https://anilist.co/anime/21827)**
 - **[Scott Pilgrim Takes Off](https://anilist.co/anime/170206)**
+- **[The Cat Returns](https://anilist.co/anime/597)**
 <!-- COMPLETED END -->
 
 </details>
