@@ -184,22 +184,17 @@ More Informations about me, and the animes I am watching right now. This informa
 [![MyAnimeList][SI-al]][SL-al]
 [![Discord][SI-dc]][SL-dc]
 
-<!-- [![LinkedIn][SI-li]][SL-li] -->
 
 </div>
 
 [SI-it]: https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white
 [SI-tw]: https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white
 [SI-tt]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
-[SI-li]: https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white
 [SI-al]: https://img.shields.io/badge/AniList.co-02A9FF?style=for-the-badge&logo=anilist&logoColor=white
 [SI-dc]: https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
-[SI-me]: https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white
 
 [SL-it]: https://crimsonshade.itch.io/
 [SL-Tw]: https://twitch.tv/crimsonshade_/
 [SL-tt]: https://twitter.com/crimsonshade_/
-[SL-li]: https://www.linkedin.com/in/erik-huebl/
 [SL-al]: https://anilist.co/user/CrimsonshadeTV/animelist
 [SL-dc]: https://discord.gg/NAYNT2c77G
-[SL-me]: https://medium.com/@crimsonshade/
