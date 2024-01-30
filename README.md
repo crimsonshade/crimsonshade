@@ -81,7 +81,8 @@ More Informations about me, and the animes I am watching right now. This informa
 <details>
 <summary>Currently Watching Animes</summary>
 
-<!-- CURRENTLY START -->- **[ONE PIECE](https://anilist.co/anime/21)** episode **70**
+<!-- CURRENTLY START -->
+- **[ONE PIECE](https://anilist.co/anime/21)** episode **70**
 - **[Neon Genesis Evangelion](https://anilist.co/anime/30)** episode **14**
 - **[ONIMAI: I'm Now Your Sister!](https://anilist.co/anime/147864)** episode **3**
 <!-- CURRENTLY END -->
@@ -91,7 +92,8 @@ More Informations about me, and the animes I am watching right now. This informa
 <details>
 <summary>Completed Animes</summary>
 
-<!-- COMPLETED START -->- **[BOCCHI THE ROCK!](https://anilist.co/anime/130003)**
+<!-- COMPLETED START -->
+- **[BOCCHI THE ROCK!](https://anilist.co/anime/130003)**
 - **[My Hero Academia](https://anilist.co/anime/21459)**
 - **[My Hero Academia Season 2](https://anilist.co/anime/21856)**
 - **[My Hero Academia Season 3](https://anilist.co/anime/100166)**
@@ -148,7 +150,8 @@ More Informations about me, and the animes I am watching right now. This informa
 <details>
 <summary>Favourite Animes</summary>
 
-<!-- FAVOURITES START -->- **[Demon Slayer: Kimetsu no Yaiba](https://anilist.co/anime/101922)**
+<!-- FAVOURITES START -->
+- **[Demon Slayer: Kimetsu no Yaiba](https://anilist.co/anime/101922)**
 - **[High School DxD](https://anilist.co/anime/11617)**
 - **[The Rising of the Shield Hero](https://anilist.co/anime/99263)**
 - **[The Seven Deadly Sins](https://anilist.co/anime/20789)**
@@ -176,14 +179,17 @@ More Informations about me, and the animes I am watching right now. This informa
 👇 If you are interessted in me and wanne see more, just checkout some of my social media stuff down here! 👇
   
 [![Itch][SI-it]][SL-it]
-[![LinkedIn][SI-li]][SL-li]
+[![Twitch][SI-tw]][SL-tw]
 [![Twitter][SI-tt]][SL-tt]
 [![MyAnimeList][SI-al]][SL-al]
 [![Discord][SI-dc]][SL-dc]
 
+<!-- [![LinkedIn][SI-li]][SL-li] -->
+
 </div>
 
 [SI-it]: https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white
+[SI-tw]: https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white
 [SI-tt]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
 [SI-li]: https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white
 [SI-al]: https://img.shields.io/badge/AniList.co-02A9FF?style=for-the-badge&logo=anilist&logoColor=white
@@ -191,6 +197,7 @@ More Informations about me, and the animes I am watching right now. This informa
 [SI-me]: https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white
 
 [SL-it]: https://crimsonshade.itch.io/
+[SL-Tw]: https://twitch.tv/crimsonshade_/
 [SL-tt]: https://twitter.com/crimsonshade_/
 [SL-li]: https://www.linkedin.com/in/erik-huebl/
 [SL-al]: https://anilist.co/user/CrimsonshadeTV/animelist
