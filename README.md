@@ -57,7 +57,6 @@ I use a lot of different apps and webpages for my everyday things. Down here is 
 
 #### Note taking
 - **[Google Keep](https://www.google.com/keep)**: for quick thoughts in my mind.
-- **[QOwnNotes](https://qownnotes.org/)**: Markdown editor for writing journals, and collecting all of my thoughts. 
 
 #### Web
 - **[12ft](https://12ft.io)**: A good tool for fast reading articles that used to have a paywal.
