@@ -82,7 +82,6 @@ More Informations about me, and the animes I am watching right now. This informa
 
 <!-- CURRENTLY START -->
 - **[ONE PIECE](https://anilist.co/anime/21)** episode **70**
-- **[Lord Marksman and Vanadis](https://anilist.co/anime/20809)** episode **1**
 <!-- CURRENTLY END -->
 
 </details>
