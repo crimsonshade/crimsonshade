@@ -10,11 +10,6 @@ class Injections:
         self.status = status
 
     def fetch_watching(self):
-    '''
-    Read the anilist.co API and returns the results
-
-    return: The values outputted by the anime api 
-    '''
         transport = AIOHTTPTransport(url=URL)
 
         client = Client(transport=transport)
@@ -49,13 +44,6 @@ class Injections:
         return result
 
     def get_animes(self):
-    """
-    extract the data from the JSON file from the api.
-
-    return: an Array filled with dictionarys with all values inside
-
-    values: current_progress, score, media_id, name (in english and romaji)
-    """
         animes = []
 
         for lists in self.fetch_watching().get('MediaListCollection').get('lists'):
@@ -84,11 +72,6 @@ class Injections:
         return animes
 
     def print_string(self):
-    """
-    Creates a string from the given anime values.
-
-    return: Output string with a link to the anime, and the score / current_progrss
-    """
         titles = self.get_animes()
         all_stings = ""
         
