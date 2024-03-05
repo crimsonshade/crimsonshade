@@ -88,7 +88,7 @@ class Injections:
         elif self.status == "COMPLETED":
             for title in range(len(titles)):
                 anime = titles[title]
-                string = f'''- **[{anime["name"]}](https://anilist.co/anime/{anime["media_id"]})** With a score of **{anime["score"]}**\n'''
+                string = f'''- **[{anime["name"]}](https://anilist.co/anime/{anime["media_id"]})** score: **{anime["score"]}**\n'''
                 all_stings += string
 
         return all_stings                
