@@ -10,11 +10,11 @@ class Injections:
         self.status = status
 
     def fetch_watching(self):
-    """
+    '''
     Read the anilist.co API and returns the results
 
     return: The values outputted by the anime api 
-    """
+    '''
         transport = AIOHTTPTransport(url=URL)
 
         client = Client(transport=transport)
