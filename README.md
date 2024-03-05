@@ -81,6 +81,7 @@ More Informations about me, and the animes I am watching right now. This informa
 <summary>Currently Watching Animes</summary>
 
 <!-- CURRENTLY START -->
+- **[Isekai Cheat Magician](https://anilist.co/anime/101547)** episode **1**
 - **[ONE PIECE](https://anilist.co/anime/21)** episode **70**
 <!-- CURRENTLY END -->
 
@@ -90,56 +91,56 @@ More Informations about me, and the animes I am watching right now. This informa
 <summary>Completed Animes</summary>
 
 <!-- COMPLETED START -->
-- **[BOCCHI THE ROCK!](https://anilist.co/anime/130003)**
-- **[My Hero Academia](https://anilist.co/anime/21459)**
-- **[My Hero Academia Season 2](https://anilist.co/anime/21856)**
-- **[My Hero Academia Season 3](https://anilist.co/anime/100166)**
-- **[My Hero Academia Season 4](https://anilist.co/anime/104276)**
-- **[My Hero Academia Season 5](https://anilist.co/anime/117193)**
-- **[Chainsaw Man](https://anilist.co/anime/127230)**
-- **[Cyberpunk: Edgerunners](https://anilist.co/anime/120377)**
-- **[Is It Wrong to Try to Pick Up Girls in a Dungeon?](https://anilist.co/anime/20920)**
-- **[High School DxD](https://anilist.co/anime/11617)**
-- **[High School DxD BorN](https://anilist.co/anime/20745)**
-- **[High School DxD HERO](https://anilist.co/anime/97767)**
-- **[High School DxD NEW](https://anilist.co/anime/15451)**
-- **[DON'T TOY WITH ME, MISS NAGATORO](https://anilist.co/anime/120697)**
-- **[JUJUTSU KAISEN](https://anilist.co/anime/113415)**
-- **[The Eminence in Shadow](https://anilist.co/anime/130298)**
-- **[Shikimori's Not Just a Cutie](https://anilist.co/anime/127911)**
-- **[Kill la Kill](https://anilist.co/anime/18679)**
-- **[Demon Slayer: Kimetsu no Yaiba](https://anilist.co/anime/101922)**
-- **[Demon Slayer: Kimetsu no Yaiba Entertainment District Arc](https://anilist.co/anime/142329)**
-- **[Your Name.](https://anilist.co/anime/21519)**
-- **[Komi Can’t Communicate](https://anilist.co/anime/133965)**
-- **[The Garden of Words](https://anilist.co/anime/16782)**
-- **[Black Summoner](https://anilist.co/anime/145260)**
-- **[Lycoris Recoil](https://anilist.co/anime/143270)**
-- **[The Misfit of Demon King Academy: History’s Strongest Demon King Reincarnates and Goes to School with His Descendants](https://anilist.co/anime/112301)**
-- **[The Seven Deadly Sins](https://anilist.co/anime/20789)**
-- **[Naruto](https://anilist.co/anime/20)**
-- **[No Game, No Life](https://anilist.co/anime/19815)**
-- **[Seraph of the End: Vampire Reign](https://anilist.co/anime/20829)**
-- **[Seraph of the End: Battle in Nagoya](https://anilist.co/anime/20993)**
-- **[Akashic Records of Bastard Magic Instructor](https://anilist.co/anime/21700)**
-- **[Spirited Away](https://anilist.co/anime/199)**
-- **[The Testament of Sister New Devil](https://anilist.co/anime/20678)**
-- **[The Testament of Sister New Devil BURST](https://anilist.co/anime/21110)**
-- **[The Testament of Sister New Devil: Tojo Basara's Hard, Sweet Daily Life](https://anilist.co/anime/21247)**
-- **[Shinobi no Ittoki](https://anilist.co/anime/145604)**
-- **[Food Wars!](https://anilist.co/anime/20923)**
-- **[Food Wars! The Second Plate](https://anilist.co/anime/21518)**
-- **[My Dress-Up Darling](https://anilist.co/anime/132405)**
-- **[SPY x FAMILY](https://anilist.co/anime/140960)**
-- **[SPY x FAMILY Cour 2](https://anilist.co/anime/142838)**
-- **[Suzume](https://anilist.co/anime/142770)**
-- **[Gurren Lagann](https://anilist.co/anime/2001)**
-- **[Weathering With You](https://anilist.co/anime/106286)**
-- **[Castle in the Sky](https://anilist.co/anime/513)**
-- **[The Aristocrat’s Otherworldly Adventure: Serving Gods Who Go Too Far](https://anilist.co/anime/153332)**
-- **[Violet Evergarden](https://anilist.co/anime/21827)**
-- **[Scott Pilgrim Takes Off](https://anilist.co/anime/170206)**
-- **[The Cat Returns](https://anilist.co/anime/597)**
+- **[BOCCHI THE ROCK!](https://anilist.co/anime/130003)** With a score of **5**
+- **[My Hero Academia](https://anilist.co/anime/21459)** With a score of **5**
+- **[My Hero Academia Season 2](https://anilist.co/anime/21856)** With a score of **4**
+- **[My Hero Academia Season 3](https://anilist.co/anime/100166)** With a score of **5**
+- **[My Hero Academia Season 4](https://anilist.co/anime/104276)** With a score of **4**
+- **[My Hero Academia Season 5](https://anilist.co/anime/117193)** With a score of **4**
+- **[Chainsaw Man](https://anilist.co/anime/127230)** With a score of **5**
+- **[Cyberpunk: Edgerunners](https://anilist.co/anime/120377)** With a score of **4**
+- **[Is It Wrong to Try to Pick Up Girls in a Dungeon?](https://anilist.co/anime/20920)** With a score of **4**
+- **[High School DxD](https://anilist.co/anime/11617)** With a score of **5**
+- **[High School DxD BorN](https://anilist.co/anime/20745)** With a score of **4**
+- **[High School DxD HERO](https://anilist.co/anime/97767)** With a score of **3**
+- **[High School DxD NEW](https://anilist.co/anime/15451)** With a score of **5**
+- **[DON'T TOY WITH ME, MISS NAGATORO](https://anilist.co/anime/120697)** With a score of **4**
+- **[JUJUTSU KAISEN](https://anilist.co/anime/113415)** With a score of **5**
+- **[The Eminence in Shadow](https://anilist.co/anime/130298)** With a score of **4**
+- **[Shikimori's Not Just a Cutie](https://anilist.co/anime/127911)** With a score of **0**
+- **[Kill la Kill](https://anilist.co/anime/18679)** With a score of **4**
+- **[Demon Slayer: Kimetsu no Yaiba](https://anilist.co/anime/101922)** With a score of **5**
+- **[Demon Slayer: Kimetsu no Yaiba Entertainment District Arc](https://anilist.co/anime/142329)** With a score of **5**
+- **[Your Name.](https://anilist.co/anime/21519)** With a score of **5**
+- **[Komi Can’t Communicate](https://anilist.co/anime/133965)** With a score of **4**
+- **[The Garden of Words](https://anilist.co/anime/16782)** With a score of **0**
+- **[Black Summoner](https://anilist.co/anime/145260)** With a score of **4**
+- **[Lycoris Recoil](https://anilist.co/anime/143270)** With a score of **4**
+- **[The Misfit of Demon King Academy: History’s Strongest Demon King Reincarnates and Goes to School with His Descendants](https://anilist.co/anime/112301)** With a score of **5**
+- **[The Seven Deadly Sins](https://anilist.co/anime/20789)** With a score of **5**
+- **[Naruto](https://anilist.co/anime/20)** With a score of **3**
+- **[No Game, No Life](https://anilist.co/anime/19815)** With a score of **4**
+- **[Seraph of the End: Vampire Reign](https://anilist.co/anime/20829)** With a score of **2**
+- **[Seraph of the End: Battle in Nagoya](https://anilist.co/anime/20993)** With a score of **2**
+- **[Akashic Records of Bastard Magic Instructor](https://anilist.co/anime/21700)** With a score of **4**
+- **[Spirited Away](https://anilist.co/anime/199)** With a score of **5**
+- **[The Testament of Sister New Devil](https://anilist.co/anime/20678)** With a score of **5**
+- **[The Testament of Sister New Devil BURST](https://anilist.co/anime/21110)** With a score of **5**
+- **[The Testament of Sister New Devil: Tojo Basara's Hard, Sweet Daily Life](https://anilist.co/anime/21247)** With a score of **4**
+- **[Shinobi no Ittoki](https://anilist.co/anime/145604)** With a score of **4**
+- **[Food Wars!](https://anilist.co/anime/20923)** With a score of **5**
+- **[Food Wars! The Second Plate](https://anilist.co/anime/21518)** With a score of **4**
+- **[My Dress-Up Darling](https://anilist.co/anime/132405)** With a score of **4**
+- **[SPY x FAMILY](https://anilist.co/anime/140960)** With a score of **5**
+- **[SPY x FAMILY Cour 2](https://anilist.co/anime/142838)** With a score of **4**
+- **[Suzume](https://anilist.co/anime/142770)** With a score of **5**
+- **[Gurren Lagann](https://anilist.co/anime/2001)** With a score of **5**
+- **[Weathering With You](https://anilist.co/anime/106286)** With a score of **4**
+- **[Castle in the Sky](https://anilist.co/anime/513)** With a score of **5**
+- **[The Aristocrat’s Otherworldly Adventure: Serving Gods Who Go Too Far](https://anilist.co/anime/153332)** With a score of **4**
+- **[Violet Evergarden](https://anilist.co/anime/21827)** With a score of **5**
+- **[Scott Pilgrim Takes Off](https://anilist.co/anime/170206)** With a score of **5**
+- **[The Cat Returns](https://anilist.co/anime/597)** With a score of **0**
 <!-- COMPLETED END -->
 
 </details>
