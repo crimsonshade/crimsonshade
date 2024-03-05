@@ -75,7 +75,7 @@ I use a lot of different apps and webpages for my everyday things. Down here is 
 ---
 
 #### 👉 Other information
-More Informations about me, and the animes I am watching right now. This informations are automatically created using my [anilist.co](https://anilist.co/user/CrimsonshadeTV/animelist) profile.
+This section is **fully automated**! GitHub checks my [anilist.co](https://anilist.co/user/CrimsonshadeTV/animelist) profile, and prints all the output in here! If you are interested, in how I did that, I will write a blog post about it!
 
 <details>
 <summary>Currently Watching Animes</summary>

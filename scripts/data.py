@@ -73,22 +73,25 @@ class Injections:
 
     def print_string(self):
         titles = self.get_animes()
+        top_string = ""
         all_stings = ""
         
         # ✅ TODO: Check for the status
         if self.status == "CURRENT":
+            top_string = "| Anime Title | Current Episode |\n|:-------|:--------|\n"
         # ✅ TODO: if status = CURRENT -> print short titles
             for title in range(len(titles)):
                 anime = titles[title]
-                string = f'''- **[{anime["name"]}](https://anilist.co/anime/{anime["media_id"]})** episode **{anime["current_progress"]}**\n'''
+                string = f'''| **[{anime["name"]}](https://anilist.co/anime/{anime["media_id"]})** | **{anime["current_progress"]}** |\n'''
                 all_stings += string
         
         # ✅ TODO: if status = COMPLETED -> print titles
         # TODO: Try to sort these strings, by the score
         elif self.status == "COMPLETED":
+            top_string = "| Anime Title | Score |\n|:-------|:--------|\n"
             for title in range(len(titles)):
                 anime = titles[title]
-                string = f'''- **[{anime["name"]}](https://anilist.co/anime/{anime["media_id"]})** score: **{anime["score"]}**\n'''
+                string = f'''| **[{anime["name"]}](https://anilist.co/anime/{anime["media_id"]})** | **{anime["score"]}** |\n'''
                 all_stings += string
 
-        return all_stings                
+        return top_string + all_stings                
