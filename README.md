@@ -116,7 +116,7 @@ This section is **fully automated**! GitHub checks my [anilist.co](https://anili
 | **[Demon Slayer: Kimetsu no Yaiba Entertainment District Arc](https://anilist.co/anime/142329)** | **5** |
 | **[Your Name.](https://anilist.co/anime/21519)** | **5** |
 | **[Komi Can’t Communicate](https://anilist.co/anime/133965)** | **4** |
-| **[The Garden of Words](https://anilist.co/anime/16782)** | **0** |
+| **[The Garden of Words](https://anilist.co/anime/16782)** | **3** |
 | **[Black Summoner](https://anilist.co/anime/145260)** | **4** |
 | **[Lycoris Recoil](https://anilist.co/anime/143270)** | **4** |
 | **[The Misfit of Demon King Academy: History’s Strongest Demon King Reincarnates and Goes to School with His Descendants](https://anilist.co/anime/112301)** | **5** |
