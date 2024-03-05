@@ -1,85 +1,17 @@
-from gql import gql, Client
-from gql.transport.aiohttp import AIOHTTPTransport
+from query import AnilistQuery
 
-URL = 'https://graphql.anilist.co'
-
-class Injections:
+class AnimeList:
 
     def __init__(self, status):
         self.status = status
-
-    def fetch_favourites(self):
-        transport = AIOHTTPTransport(url=URL)
-
-        client = Client(transport=transport)
-        
-        query = gql(
-            '''query Favourites ($name: String) {
-            User (name: $name) {
-                favourites {
-                    anime {
-                        nodes {
-                            id
-                            title {
-                                english
-                                romaji
-                            }
-                        }
-                    }
-                }
-            }
-        }
-        '''
-        )
-
-        variables = {
-            'name': "CrimsonshadeTV",
-            'status': self.status
-        }
-    
-        result = client.execute(query, variables)
-        return result
-
-    def fetch_watching(self):
-        transport = AIOHTTPTransport(url=URL)
-
-        client = Client(transport=transport)
-        
-        query = gql(
-            '''query CurrentlyWatching ($name: String, $status: MediaListStatus) {
-            MediaListCollection (userName: $name, type:ANIME, status: $status){
-                lists {
-                    entries {
-                        mediaId
-                        progress
-                        score
-                        media {
-                            title {
-                                romaji
-                                english
-                            }
-                        }
-                    }
-                }
-            }
-        }
-        '''
-        )
-
-        variables = {
-            'name': "CrimsonshadeTV",
-            'status': self.status
-        }
-    
-        result = client.execute(query, variables)
-        return result
+        self.query = AnilistQuery(status)
     
     def get_animes(self):
         animes = []
 
         print(f"============ [{self.status}] ============")
         if self.status == "COMPLETED" or self.status == "CURRENT":
-            for lists in self.fetch_watching().get('MediaListCollection').get('lists'):
+            for lists in self.query.fetch_watching().get('MediaListCollection').get('lists'):
                 for entry in lists.get('entries'):
                     dictionary = {}
 
@@ -97,7 +29,7 @@ class Injections:
                     print(f"{dictionary["name"]}")
                     animes.append(dictionary)
         else:
-            for node in self.fetch_favourites().get('User').get('favourites').get('anime').get('nodes'):
+            for node in self.query.fetch_favourites().get('User').get('favourites').get('anime').get('nodes'):
                 dictionary = {}
 
                 dictionary["media_id"] = node.get('id')

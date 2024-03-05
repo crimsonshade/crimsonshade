@@ -1,5 +1,5 @@
 import codecs
-from data import Injections
+from anime_list import AnimeList
 
 
 CURRENTLY_START_MARKER = '<!-- CURRENTLY START -->'
@@ -11,9 +11,9 @@ COMPLETED_END_MARKER = '<!-- COMPLETED END -->'
 FAVOURITE_START_MARKER = '<!-- FAVOURITES START -->'
 FAVOURITE_END_MARKER = '<!-- FAVOURITES END -->'
 
-current = Injections("CURRENT")
-completed = Injections("COMPLETED")
-favourite = Injections("FAVOURITES")
+current = AnimeList("CURRENT")
+completed = AnimeList("COMPLETED")
+favourite = AnimeList("FAVOURITES")
 
 def main(start_marker, end_marker):
     readme = ''
