@@ -1,9 +1,7 @@
 import codecs
-
 from data import Injections
 
 
-URL = 'https://graphql.anilist.co'
 CURRENTLY_START_MARKER = '<!-- CURRENTLY START -->'
 CURRENTLY_END_MARKER = '<!-- CURRENTLY END -->'
 
@@ -15,7 +13,6 @@ completed = Injections("COMPLETED")
 
 def main(start_marker, end_marker):
     readme = ''
-    anime_list = current.get_animes()
 
     with codecs.open('README.md', 'r', "utf-8") as file:
         readme = file.read()
@@ -33,9 +30,6 @@ def main(start_marker, end_marker):
 
     with codecs.open("README.md", 'w', "utf-8") as file:
         file.write(readme)
-
-def add_injection():
-    pass
 
 if __name__ == '__main__':
     main(CURRENTLY_START_MARKER, CURRENTLY_END_MARKER)
