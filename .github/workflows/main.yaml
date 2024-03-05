@@ -17,10 +17,8 @@ jobs:
           python-version: 3.x
       - name: Install python dependencies
         run: python3 -m pip install --pre -r scripts/requirements.txt
-      - name: Update Favourites
-        run: python3 scripts/favourites.py
       - name: Update Anime List
-        run: python3 scripts/animelist.py
+        run: python3 scripts/main.py
       - name: Commit and Push
         uses: actions-js/push@master
         with:
