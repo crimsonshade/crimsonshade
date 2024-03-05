@@ -8,8 +8,12 @@ CURRENTLY_END_MARKER = '<!-- CURRENTLY END -->'
 COMPLETED_START_MARKER = '<!-- COMPLETED START -->'
 COMPLETED_END_MARKER = '<!-- COMPLETED END -->'
 
+FAVOURITE_START_MARKER = '<!-- FAVOURITES START -->'
+FAVOURITE_END_MARKER = '<!-- FAVOURITES END -->'
+
 current = Injections("CURRENT")
 completed = Injections("COMPLETED")
+favourite = Injections("FAVOURITES")
 
 def main(start_marker, end_marker):
     readme = ''
@@ -22,6 +26,8 @@ def main(start_marker, end_marker):
         injection = current.print_string()
     elif (start_marker == COMPLETED_START_MARKER):
         injection = completed.print_string()
+    elif (start_marker == FAVOURITE_START_MARKER):
+        injection = favourite.print_string()
 
     start_pos = readme.find(start_marker) + len(start_marker) + 1
     end_pos = readme.find(end_marker)
@@ -34,3 +40,4 @@ def main(start_marker, end_marker):
 if __name__ == '__main__':
     main(CURRENTLY_START_MARKER, CURRENTLY_END_MARKER)
     main(COMPLETED_START_MARKER, COMPLETED_END_MARKER)
+    main(FAVOURITE_START_MARKER, FAVOURITE_END_MARKER)
