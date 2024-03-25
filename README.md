@@ -85,6 +85,7 @@ This section is **fully automated**! GitHub checks my [anilist.co](https://anili
 |:-------|:--------|
 | **[Isekai Cheat Magician](https://anilist.co/anime/101547)** | **3** |
 | **[ONE PIECE](https://anilist.co/anime/21)** | **70** |
+| **[Pokémon Horizons: The Series](https://anilist.co/anime/158871)** | **5** |
 <!-- CURRENTLY END -->
 
 </details>
@@ -144,6 +145,7 @@ This section is **fully automated**! GitHub checks my [anilist.co](https://anili
 | **[Violet Evergarden](https://anilist.co/anime/21827)** | **5** |
 | **[Scott Pilgrim Takes Off](https://anilist.co/anime/170206)** | **5** |
 | **[The Cat Returns](https://anilist.co/anime/597)** | **3** |
+| **[Biri-Biri](https://anilist.co/anime/170983)** | **0** |
 <!-- COMPLETED END -->
 
 </details>
