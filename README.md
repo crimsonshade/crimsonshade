@@ -83,9 +83,9 @@ This section is **fully automated**! GitHub checks my [anilist.co](https://anili
 <!-- CURRENTLY START -->
 | Anime Title | Current Episode |
 |:-------|:--------|
-| **[Isekai Cheat Magician](https://anilist.co/anime/101547)** | **3** |
 | **[ONE PIECE](https://anilist.co/anime/21)** | **70** |
 | **[Pokémon Horizons: The Series](https://anilist.co/anime/158871)** | **5** |
+| **[Delicious in Dungeon](https://anilist.co/anime/153518)** | **3** |
 <!-- CURRENTLY END -->
 
 </details>
