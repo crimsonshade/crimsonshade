@@ -84,8 +84,6 @@ This section is **fully automated**! GitHub checks my [anilist.co](https://anili
 | Anime Title | Current Episode |
 |:-------|:--------|
 | **[ONE PIECE](https://anilist.co/anime/21)** | **70** |
-| **[Pokémon Horizons: The Series](https://anilist.co/anime/158871)** | **5** |
-| **[Delicious in Dungeon](https://anilist.co/anime/153518)** | **3** |
 <!-- CURRENTLY END -->
 
 </details>
