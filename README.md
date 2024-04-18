@@ -83,7 +83,7 @@ This section is **fully automated**! GitHub checks my [anilist.co](https://anili
 <!-- CURRENTLY START -->
 | Anime Title | Current Episode |
 |:-------|:--------|
-| **[ONE PIECE](https://anilist.co/anime/21)** | **70** |
+| **[ONE PIECE](https://anilist.co/anime/21)** | **78** |
 <!-- CURRENTLY END -->
 
 </details>
