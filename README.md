@@ -26,6 +26,17 @@ I love to develop my own games. For this reason I started to put most of my proj
 
 ---
 
+#### 📚 Learning
+Here is a list of things I am learning right now, to actually know what I'm doing. This list (hopefully) changes from time to time, because I like what I'm doing, and I don't really wanna stop there.
+
+| Thing I learn | status | Planing to do with that |
+|---------------|--------|-------------------------|
+| [python](https://www.python.org/) | `learning` | Actually, I love this language. But the main focus, I started to learn it, was because I wanted to try out a bit of webdevelopment with it using [flask](https://flask.palletsprojects.com/en/3.0.x/) and [django](https://www.djangoproject.com/). But I also started learning it, to understand the syntax of gdscript, which is one of the main programming language from the [Godot](https://godotengine.org/) game engine. |
+| [javascript](https://de.wikipedia.org/wiki/JavaScript) | `planning` | To be honest, you can do more stuff with it when it comes to web development (I don't know what I wanna do with my web projects to be honest...). I also love the documentation of [discord.js](https://discord.js.org/), because I want to create my own discord bot and I don't like the [discord.py](https://discordpy.readthedocs.io/en/stable/) because either it is to outdated, or I am just to dumb to use it right... |
+| c++ | `planning` | I don't know... I think I wanna torcher my self... (Yes. bit kinky 😏) |
+
+---
+
 #### 💽 Apps I use
 I use a lot of different apps and webpages for my everyday things. Down here is the list of everything I love to use and recommend to everyone interested in it!
 
@@ -41,14 +52,12 @@ I use a lot of different apps and webpages for my everyday things. Down here is 
 - **[Godot Engine](https://godotengine.org/)**: currently learning. But I really like it.
 
 #### IDEs
-- **[JetBrains InteliJ](https://www.jetbrains.com/idea/)**: for developing stuff in Java `(mostly for uni)`.
-- **[NeoVim](https://neovim.io/)**: for fast and small changes in files.
+- **[NeoVim](https://neovim.io/)**: for fast and small changes in files. `Planing to use it as my main IDE`
 - **[Visual Studio Code](https://code.visualstudio.com)**: for writing code in other lanugages then the one I'm used to.
 
 #### Image and Graphics
 - **[Affinity Designer](https://affinity.serif.com/en-us/designer)**: for creating vector graphics.
 - **[Affinity Photo](https://affinity.serif.com/en-us/photo)**: for image manipulation.
-- **[Aseprite](https://www.aseprite.org)**: for creating pixel graphics and animations for my games. `(still practicing my pixelart)`
 
 #### Messages
 - **[Discord](https://discord.com)**: writing with friends, uni mates, and making social interactions.
@@ -66,7 +75,6 @@ I use a lot of different apps and webpages for my everyday things. Down here is 
 - **[Convertio.co](https://convertio.co/)**: Converting literally every file from A to B.
 - **[DuckDuckGo](https://duckduckgo.com)**: my alltime favorite search Engine, because of privacy.
 - **[gitignore.io](https://www.toptal.com/developers/gitignore/)**: Perfect to find every fitting gitignore
-- **[MorningBrew](https://www.morningbrew.com/daily)**: Best News newsletter I every subscribed to. Usefull, for a lot of information around the world.
 - **[Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/)**: best browser. Change my mind.
 - **[TinyWow](https://tinywow.com/)**: Handy little tool for literally EVERYTHING!
 
