@@ -77,6 +77,7 @@ I use a lot of different apps and webpages for my everyday things. Down here is 
 - **[gitignore.io](https://www.toptal.com/developers/gitignore/)**: Perfect to find every fitting gitignore
 - **[Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/)**: best browser. Change my mind.
 - **[TinyWow](https://tinywow.com/)**: Handy little tool for literally EVERYTHING!
+- **[easings.net](https://easings.net/)**: Website for calculating easings
 
 </details>
 
