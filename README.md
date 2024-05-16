@@ -93,6 +93,7 @@ This section is **fully automated**! GitHub checks my [anilist.co](https://anili
 | Anime Title | Current Episode |
 |:-------|:--------|
 | **[ONE PIECE](https://anilist.co/anime/21)** | **97** |
+| **[MASHLE: MAGIC AND MUSCLES](https://anilist.co/anime/151801)** | **3** |
 <!-- CURRENTLY END -->
 
 </details>
