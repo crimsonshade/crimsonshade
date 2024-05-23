@@ -119,7 +119,7 @@ This section is **fully automated**! GitHub checks my [anilist.co](https://anili
 | **[DON'T TOY WITH ME, MISS NAGATORO](https://anilist.co/anime/120697)** | **4** |
 | **[JUJUTSU KAISEN](https://anilist.co/anime/113415)** | **5** |
 | **[The Eminence in Shadow](https://anilist.co/anime/130298)** | **4** |
-| **[Shikimori's Not Just a Cutie](https://anilist.co/anime/127911)** | **0** |
+| **[Shikimori's Not Just a Cutie](https://anilist.co/anime/127911)** | **5** |
 | **[Kill la Kill](https://anilist.co/anime/18679)** | **4** |
 | **[Demon Slayer: Kimetsu no Yaiba](https://anilist.co/anime/101922)** | **5** |
 | **[Demon Slayer: Kimetsu no Yaiba Entertainment District Arc](https://anilist.co/anime/142329)** | **5** |
@@ -179,6 +179,7 @@ This section is **fully automated**! GitHub checks my [anilist.co](https://anili
 - **[Castle in the Sky](https://anilist.co/anime/513)**
 - **[Suzume](https://anilist.co/anime/142770)**
 - **[Scott Pilgrim Takes Off](https://anilist.co/anime/170206)**
+- **[Shikimori's Not Just a Cutie](https://anilist.co/anime/127911)**
 <!-- FAVOURITES END -->
 
 </details>
