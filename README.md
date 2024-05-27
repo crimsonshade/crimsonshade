@@ -26,17 +26,6 @@ I love to develop my own games. For this reason I started to put most of my proj
 
 ---
 
-#### 📚 Learning
-Here is a list of things I am learning right now, to actually know what I'm doing. This list (hopefully) changes from time to time, because I like what I'm doing, and I don't really wanna stop there.
-
-| Thing I learn | status | Planing to do with that |
-|---------------|--------|-------------------------|
-| [python](https://www.python.org/) | `learning` | Actually, I love this language. But the main focus, I started to learn it, was because I wanted to try out a bit of webdevelopment with it using [flask](https://flask.palletsprojects.com/en/3.0.x/) and [django](https://www.djangoproject.com/). But I also started learning it, to understand the syntax of gdscript, which is one of the main programming language from the [Godot](https://godotengine.org/) game engine. |
-| [javascript](https://de.wikipedia.org/wiki/JavaScript) | `planning` | To be honest, you can do more stuff with it when it comes to web development (I don't know what I wanna do with my web projects to be honest...). I also love the documentation of [discord.js](https://discord.js.org/), because I want to create my own discord bot and I don't like the [discord.py](https://discordpy.readthedocs.io/en/stable/) because either it is to outdated, or I am just to dumb to use it right... |
-| c++ | `planning` | I don't know... I think I wanna torcher my self... (Yes. bit kinky 😏) |
-
----
-
 #### 💽 Apps I use
 I use a lot of different apps and webpages for my everyday things. Down here is the list of everything I love to use and recommend to everyone interested in it!
 
