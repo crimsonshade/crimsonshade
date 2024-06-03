@@ -83,7 +83,7 @@ This section is **fully automated**! GitHub checks my [anilist.co](https://anili
 |:-------|:--------|
 | **[ONE PIECE](https://anilist.co/anime/21)** | **97** |
 | **[MASHLE: MAGIC AND MUSCLES](https://anilist.co/anime/151801)** | **3** |
-| **[Gods' Games We Play](https://anilist.co/anime/144176)** | **3** |
+| **[Gods' Games We Play](https://anilist.co/anime/144176)** | **9** |
 <!-- CURRENTLY END -->
 
 </details>
