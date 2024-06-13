@@ -83,7 +83,6 @@ This section is **fully automated**! GitHub checks my [anilist.co](https://anili
 |:-------|:--------|
 | **[BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense.](https://anilist.co/anime/106479)** | **2** |
 | **[ONE PIECE](https://anilist.co/anime/21)** | **97** |
-| **[MASHLE: MAGIC AND MUSCLES](https://anilist.co/anime/151801)** | **3** |
 | **[Gods' Games We Play](https://anilist.co/anime/144176)** | **10** |
 <!-- CURRENTLY END -->
 
