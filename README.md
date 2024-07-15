@@ -81,9 +81,6 @@ This section is **fully automated**! GitHub checks my [anilist.co](https://anili
 <!-- CURRENTLY START -->
 | Anime Title | Current Episode |
 |:-------|:--------|
-| **[BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense.](https://anilist.co/anime/106479)** | **2** |
-| **[ONE PIECE](https://anilist.co/anime/21)** | **97** |
-| **[Gods' Games We Play](https://anilist.co/anime/144176)** | **10** |
 <!-- CURRENTLY END -->
 
 </details>
@@ -143,7 +140,6 @@ This section is **fully automated**! GitHub checks my [anilist.co](https://anili
 | **[Violet Evergarden](https://anilist.co/anime/21827)** | **5** |
 | **[Scott Pilgrim Takes Off](https://anilist.co/anime/170206)** | **5** |
 | **[The Cat Returns](https://anilist.co/anime/597)** | **3** |
-| **[Biri-Biri](https://anilist.co/anime/170983)** | **0** |
 <!-- COMPLETED END -->
 
 </details>
