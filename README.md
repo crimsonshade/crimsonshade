@@ -80,8 +80,7 @@ This section is **fully automated**! GitHub checks my [anilist.co](https://anili
 <!-- CURRENTLY START -->
 | Anime Title | Current Episode |
 |:-------|:--------|
-| **[ONE PIECE](https://anilist.co/anime/21)** | **97** |
-| **[MASHLE: MAGIC AND MUSCLES](https://anilist.co/anime/151801)** | **3** |
+| **[The Apothecary Diaries](https://anilist.co/anime/161645)** | **13** |
 <!-- CURRENTLY END -->
 
 </details>
@@ -141,7 +140,6 @@ This section is **fully automated**! GitHub checks my [anilist.co](https://anili
 | **[Violet Evergarden](https://anilist.co/anime/21827)** | **5** |
 | **[Scott Pilgrim Takes Off](https://anilist.co/anime/170206)** | **5** |
 | **[The Cat Returns](https://anilist.co/anime/597)** | **3** |
-| **[Biri-Biri](https://anilist.co/anime/170983)** | **0** |
 <!-- COMPLETED END -->
 
 </details>
@@ -150,20 +148,12 @@ This section is **fully automated**! GitHub checks my [anilist.co](https://anili
 <summary>Favourite Animes</summary>
 
 <!-- FAVOURITES START -->
-- **[Demon Slayer: Kimetsu no Yaiba](https://anilist.co/anime/101922)**
 - **[High School DxD](https://anilist.co/anime/11617)**
-- **[The Rising of the Shield Hero](https://anilist.co/anime/99263)**
-- **[The Seven Deadly Sins](https://anilist.co/anime/20789)**
-- **[The Testament of Sister New Devil](https://anilist.co/anime/20678)**
-- **[JUJUTSU KAISEN](https://anilist.co/anime/113415)**
 - **[No Game, No Life](https://anilist.co/anime/19815)**
-- **[Weathering With You](https://anilist.co/anime/106286)**
 - **[Your Name.](https://anilist.co/anime/21519)**
 - **[Violet Evergarden](https://anilist.co/anime/21827)**
 - **[Cyberpunk: Edgerunners](https://anilist.co/anime/120377)**
-- **[Chainsaw Man](https://anilist.co/anime/127230)**
 - **[Gurren Lagann](https://anilist.co/anime/2001)**
-- **[BOCCHI THE ROCK!](https://anilist.co/anime/130003)**
 - **[Castle in the Sky](https://anilist.co/anime/513)**
 - **[Suzume](https://anilist.co/anime/142770)**
 - **[Scott Pilgrim Takes Off](https://anilist.co/anime/170206)**
