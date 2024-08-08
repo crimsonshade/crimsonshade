@@ -37,8 +37,7 @@ I use a lot of different apps and webpages for my everyday things. Down here is 
 - **[GitHub CLI](https://cli.github.com)**: for doing GitHub stuff in console. (Creating Repos, Creating/Editing/Closing Issues, Making Pull Requests etc.)
 
 #### Engines
-- **[Unity Engine](https://unity.com/)**: for developing my games.
-- **[Godot Engine](https://godotengine.org/)**: currently learning. But I really like it.
+- **[Godot Engine](https://godotengine.org/)**: Creating games with it.
 
 #### IDEs
 - **[NeoVim](https://neovim.io/)**: for fast and small changes in files. `Planing to use it as my main IDE`
