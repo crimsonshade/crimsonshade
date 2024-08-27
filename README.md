@@ -39,9 +39,13 @@ I use a lot of different apps and webpages for my everyday things. Down here is 
 #### Engines
 - **[Godot Engine](https://godotengine.org/)**: Creating games with it.
 
-#### IDEs
-- **[NeoVim](https://neovim.io/)**: for fast and small changes in files. `Planing to use it as my main IDE`
-- **[Visual Studio Code](https://code.visualstudio.com)**: for writing code in other lanugages then the one I'm used to.
+#### IDE
+- **[VSCodium](https://vscodium.com/)**: Main IDE for **everything**. 
+
+#### IDE Extensions
+- **[GlassIt-VSC](https://marketplace.visualstudio.com/items?itemName=s-nlf-fh.glassit)**: for making the ide a bit transparent.
+- **[TokyoNight](https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night)**: best Color theme for every ide. Change my mind.
+- **[VSCodeVim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim)**: for using Vim motions inside vs codium
 
 #### Image and Graphics
 - **[Affinity Designer](https://affinity.serif.com/en-us/designer)**: for creating vector graphics.
