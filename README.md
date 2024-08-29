@@ -84,7 +84,8 @@ This section is **fully automated**! GitHub checks my [anilist.co](https://anili
 <!-- CURRENTLY START -->
 | Anime Title | Current Episode |
 |:-------|:--------|
-| **[The Apothecary Diaries](https://anilist.co/anime/161645)** | **13** |
+| **[Black Clover](https://anilist.co/anime/97940)** | **9** |
+| **[Hell’s Paradise](https://anilist.co/anime/128893)** | **8** |
 <!-- CURRENTLY END -->
 
 </details>
