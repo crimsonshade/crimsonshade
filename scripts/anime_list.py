@@ -49,11 +49,13 @@ class AnimeList:
         
         # ✅ TODO: Check for the status
         if self.status == "CURRENT":
-            top_string = "| Anime Title | Current Episode |\n|:-------|:--------|\n"
+            top_string = ""
+            # top_string = "| Anime Title | Current Episode |\n|:-------|:--------|\n"
         # ✅ TODO: if status = CURRENT -> print short titles
             for title in range(len(titles)):
                 anime = titles[title]
-                string = f'''| **[{anime["name"]}](https://anilist.co/anime/{anime["media_id"]})** | **{anime["current_progress"]}** |\n'''
+                string = f'''- Lately watched `episode {anime["current_progress"]}` of **[{anime["name"]}](https://anilist.co/anime/{anime["media_id"]})**\n'''
+                # string = f'''| **[{anime["name"]}](https://anilist.co/anime/{anime["media_id"]})** | **{anime["current_progress"]}** |\n'''
                 all_stings += string
         
         # ✅ TODO: if status = COMPLETED -> print titles
@@ -62,6 +64,7 @@ class AnimeList:
             top_string = "| Anime Title | Score |\n|:-------|:--------|\n"
             for title in range(len(titles)):
                 anime = titles[title]
+
                 string = f'''| **[{anime["name"]}](https://anilist.co/anime/{anime["media_id"]})** | **{anime["score"]}** |\n'''
                 all_stings += string
 
