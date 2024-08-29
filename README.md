@@ -82,10 +82,8 @@ This section is **fully automated**! GitHub checks my [anilist.co](https://anili
 <summary>Currently Watching Animes</summary>
 
 <!-- CURRENTLY START -->
-| Anime Title | Current Episode |
-|:-------|:--------|
-| **[Black Clover](https://anilist.co/anime/97940)** | **9** |
-| **[Hell’s Paradise](https://anilist.co/anime/128893)** | **8** |
+- Lately watched `episode 9` of **[Black Clover](https://anilist.co/anime/97940)**
+- Lately watched `episode 8` of **[Hell’s Paradise](https://anilist.co/anime/128893)**
 <!-- CURRENTLY END -->
 
 </details>
