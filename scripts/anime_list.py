@@ -61,17 +61,21 @@ class AnimeList:
         # ✅ TODO: if status = COMPLETED -> print titles
         # TODO: Try to sort these strings, by the score
         elif self.status == "COMPLETED":
-            top_string = "| Anime Title | Score |\n|:-------|:--------|\n"
+            counter = 1
+            top_string = "| ID | Anime Title | Score |\n|:-------|:-------|:--------|\n"
             for title in range(len(titles)):
                 anime = titles[title]
 
-                string = f'''| **[{anime["name"]}](https://anilist.co/anime/{anime["media_id"]})** | **{anime["score"]}** |\n'''
+                string = f'''| {counter} | **[{anime["name"]}](https://anilist.co/anime/{anime["media_id"]})** | **{anime["score"]}** |\n'''
+                counter += 1
                 all_stings += string
 
         else:
+            counter = 1
             for title in range(len(titles)):
                 anime = titles[title]
-                string = f'''- **[{anime["name"]}](https://anilist.co/anime/{anime["media_id"]})**\n'''
+                string = f'''{counter}. **[{anime["name"]}](https://anilist.co/anime/{anime["media_id"]})**\n'''
+                counter += 1
                 all_stings += string
 
         return top_string + all_stings                
