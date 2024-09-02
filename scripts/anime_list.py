@@ -1,11 +1,12 @@
 from query import AnilistQuery
 
+
 class AnimeList:
 
     def __init__(self, status):
         self.status = status
         self.query = AnilistQuery(status)
-    
+
     def get_animes(self):
         animes = []
 
@@ -22,8 +23,9 @@ class AnimeList:
                         dictionary["current_progress"] = entry.get('progress')
                     elif self.status == "COMPLETED":
                         dictionary["score"] = entry.get("score")
+                        dictionary["repeat"] = entry.get("repeat")
 
-                    if dictionary["name"] == None:
+                    if dictionary["name"] is None:
                         dictionary["name"] = entry.get('media').get('title').get('romaji')
 
                     print(f"{dictionary["name"]}")
@@ -35,7 +37,7 @@ class AnimeList:
                 dictionary["media_id"] = node.get('id')
                 dictionary["name"] = node.get('title').get('english')
 
-                if dictionary["name"] == None:
+                if dictionary["name"] is None:
                     dictionary["name"] = node.get('title').get('romaji')
 
                 print(f"{dictionary["name"]}")
@@ -46,27 +48,27 @@ class AnimeList:
         titles = self.get_animes()
         top_string = ""
         all_stings = ""
-        
+
         # ✅ TODO: Check for the status
         if self.status == "CURRENT":
             top_string = ""
             # top_string = "| Anime Title | Current Episode |\n|:-------|:--------|\n"
-        # ✅ TODO: if status = CURRENT -> print short titles
+            # ✅ TODO: if status = CURRENT -> print short titles
             for title in range(len(titles)):
                 anime = titles[title]
                 string = f'''- Lately watched `episode {anime["current_progress"]}` of **[{anime["name"]}](https://anilist.co/anime/{anime["media_id"]})**\n'''
                 # string = f'''| **[{anime["name"]}](https://anilist.co/anime/{anime["media_id"]})** | **{anime["current_progress"]}** |\n'''
                 all_stings += string
-        
+
         # ✅ TODO: if status = COMPLETED -> print titles
         # TODO: Try to sort these strings, by the score
         elif self.status == "COMPLETED":
             counter = 1
-            top_string = "| ID | Anime Title | Score |\n|:-------|:-------|:--------|\n"
+            top_string = "| ID | Anime Title | Score | Rewatched |\n|:-------|:-------|:--------|:---------|\n"
             for title in range(len(titles)):
                 anime = titles[title]
 
-                string = f'''| {counter} | **[{anime["name"]}](https://anilist.co/anime/{anime["media_id"]})** | **{anime["score"]}** |\n'''
+                string = f'''| {counter} | **[{anime["name"]}](https://anilist.co/anime/{anime["media_id"]})** | **{anime["score"]}** | **{anime["repeat"]}**\n'''
                 counter += 1
                 all_stings += string
 
@@ -78,4 +80,4 @@ class AnimeList:
                 counter += 1
                 all_stings += string
 
-        return top_string + all_stings                
+        return top_string + all_stings

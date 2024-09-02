@@ -52,6 +52,7 @@ class AnilistQuery:
                         mediaId
                         progress
                         score
+                        repeat
                         media {
                             title {
                                 romaji
