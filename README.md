@@ -82,7 +82,7 @@ This section is **fully automated**! GitHub checks my [anilist.co](https://anili
 <summary>Currently Watching Animes</summary>
 
 <!-- CURRENTLY START -->
-- Lately watched `episode 9` of **[Black Clover](https://anilist.co/anime/97940)**
+- Lately watched `episode 12` of **[Black Clover](https://anilist.co/anime/97940)**
 - Lately watched `episode 8` of **[Hell’s Paradise](https://anilist.co/anime/128893)**
 <!-- CURRENTLY END -->
 
@@ -92,57 +92,57 @@ This section is **fully automated**! GitHub checks my [anilist.co](https://anili
 <summary>Completed Animes</summary>
 
 <!-- COMPLETED START -->
-| Anime Title | Score |
-|:-------|:--------|
-| **[BOCCHI THE ROCK!](https://anilist.co/anime/130003)** | **5** |
-| **[My Hero Academia](https://anilist.co/anime/21459)** | **5** |
-| **[My Hero Academia Season 2](https://anilist.co/anime/21856)** | **4** |
-| **[My Hero Academia Season 3](https://anilist.co/anime/100166)** | **5** |
-| **[My Hero Academia Season 4](https://anilist.co/anime/104276)** | **4** |
-| **[My Hero Academia Season 5](https://anilist.co/anime/117193)** | **3** |
-| **[Chainsaw Man](https://anilist.co/anime/127230)** | **5** |
-| **[Cyberpunk: Edgerunners](https://anilist.co/anime/120377)** | **4** |
-| **[High School DxD](https://anilist.co/anime/11617)** | **5** |
-| **[High School DxD BorN](https://anilist.co/anime/20745)** | **4** |
-| **[High School DxD HERO](https://anilist.co/anime/97767)** | **3** |
-| **[High School DxD NEW](https://anilist.co/anime/15451)** | **5** |
-| **[DON'T TOY WITH ME, MISS NAGATORO](https://anilist.co/anime/120697)** | **4** |
-| **[JUJUTSU KAISEN](https://anilist.co/anime/113415)** | **5** |
-| **[The Eminence in Shadow](https://anilist.co/anime/130298)** | **4** |
-| **[Shikimori's Not Just a Cutie](https://anilist.co/anime/127911)** | **5** |
-| **[Kill la Kill](https://anilist.co/anime/18679)** | **4** |
-| **[Demon Slayer: Kimetsu no Yaiba](https://anilist.co/anime/101922)** | **5** |
-| **[Demon Slayer: Kimetsu no Yaiba Entertainment District Arc](https://anilist.co/anime/142329)** | **5** |
-| **[Your Name.](https://anilist.co/anime/21519)** | **5** |
-| **[Komi Can’t Communicate](https://anilist.co/anime/133965)** | **4** |
-| **[The Garden of Words](https://anilist.co/anime/16782)** | **3** |
-| **[Black Summoner](https://anilist.co/anime/145260)** | **4** |
-| **[Lycoris Recoil](https://anilist.co/anime/143270)** | **4** |
-| **[The Misfit of Demon King Academy: History’s Strongest Demon King Reincarnates and Goes to School with His Descendants](https://anilist.co/anime/112301)** | **5** |
-| **[The Seven Deadly Sins](https://anilist.co/anime/20789)** | **5** |
-| **[Naruto](https://anilist.co/anime/20)** | **3** |
-| **[No Game, No Life](https://anilist.co/anime/19815)** | **4** |
-| **[Seraph of the End: Vampire Reign](https://anilist.co/anime/20829)** | **2** |
-| **[Seraph of the End: Battle in Nagoya](https://anilist.co/anime/20993)** | **2** |
-| **[Akashic Records of Bastard Magic Instructor](https://anilist.co/anime/21700)** | **4** |
-| **[Spirited Away](https://anilist.co/anime/199)** | **5** |
-| **[The Testament of Sister New Devil](https://anilist.co/anime/20678)** | **5** |
-| **[The Testament of Sister New Devil BURST](https://anilist.co/anime/21110)** | **5** |
-| **[The Testament of Sister New Devil: Tojo Basara's Hard, Sweet Daily Life](https://anilist.co/anime/21247)** | **4** |
-| **[Shinobi no Ittoki](https://anilist.co/anime/145604)** | **4** |
-| **[Food Wars!](https://anilist.co/anime/20923)** | **5** |
-| **[Food Wars! The Second Plate](https://anilist.co/anime/21518)** | **4** |
-| **[My Dress-Up Darling](https://anilist.co/anime/132405)** | **4** |
-| **[SPY x FAMILY](https://anilist.co/anime/140960)** | **5** |
-| **[SPY x FAMILY Cour 2](https://anilist.co/anime/142838)** | **4** |
-| **[Suzume](https://anilist.co/anime/142770)** | **5** |
-| **[Gurren Lagann](https://anilist.co/anime/2001)** | **5** |
-| **[Weathering With You](https://anilist.co/anime/106286)** | **4** |
-| **[Castle in the Sky](https://anilist.co/anime/513)** | **5** |
-| **[The Aristocrat’s Otherworldly Adventure: Serving Gods Who Go Too Far](https://anilist.co/anime/153332)** | **4** |
-| **[Violet Evergarden](https://anilist.co/anime/21827)** | **5** |
-| **[Scott Pilgrim Takes Off](https://anilist.co/anime/170206)** | **5** |
-| **[The Cat Returns](https://anilist.co/anime/597)** | **3** |
+| ID | Anime Title | Score |
+|:-------|:-------|:--------|
+| 1 | **[BOCCHI THE ROCK!](https://anilist.co/anime/130003)** | **5** |
+| 2 | **[My Hero Academia](https://anilist.co/anime/21459)** | **5** |
+| 3 | **[My Hero Academia Season 2](https://anilist.co/anime/21856)** | **4** |
+| 4 | **[My Hero Academia Season 3](https://anilist.co/anime/100166)** | **5** |
+| 5 | **[My Hero Academia Season 4](https://anilist.co/anime/104276)** | **4** |
+| 6 | **[My Hero Academia Season 5](https://anilist.co/anime/117193)** | **3** |
+| 7 | **[Chainsaw Man](https://anilist.co/anime/127230)** | **5** |
+| 8 | **[Cyberpunk: Edgerunners](https://anilist.co/anime/120377)** | **4** |
+| 9 | **[High School DxD](https://anilist.co/anime/11617)** | **5** |
+| 10 | **[High School DxD BorN](https://anilist.co/anime/20745)** | **4** |
+| 11 | **[High School DxD HERO](https://anilist.co/anime/97767)** | **3** |
+| 12 | **[High School DxD NEW](https://anilist.co/anime/15451)** | **5** |
+| 13 | **[DON'T TOY WITH ME, MISS NAGATORO](https://anilist.co/anime/120697)** | **4** |
+| 14 | **[JUJUTSU KAISEN](https://anilist.co/anime/113415)** | **5** |
+| 15 | **[The Eminence in Shadow](https://anilist.co/anime/130298)** | **4** |
+| 16 | **[Shikimori's Not Just a Cutie](https://anilist.co/anime/127911)** | **5** |
+| 17 | **[Kill la Kill](https://anilist.co/anime/18679)** | **4** |
+| 18 | **[Demon Slayer: Kimetsu no Yaiba](https://anilist.co/anime/101922)** | **5** |
+| 19 | **[Demon Slayer: Kimetsu no Yaiba Entertainment District Arc](https://anilist.co/anime/142329)** | **5** |
+| 20 | **[Your Name.](https://anilist.co/anime/21519)** | **5** |
+| 21 | **[Komi Can’t Communicate](https://anilist.co/anime/133965)** | **4** |
+| 22 | **[The Garden of Words](https://anilist.co/anime/16782)** | **3** |
+| 23 | **[Black Summoner](https://anilist.co/anime/145260)** | **4** |
+| 24 | **[Lycoris Recoil](https://anilist.co/anime/143270)** | **4** |
+| 25 | **[The Misfit of Demon King Academy: History’s Strongest Demon King Reincarnates and Goes to School with His Descendants](https://anilist.co/anime/112301)** | **5** |
+| 26 | **[The Seven Deadly Sins](https://anilist.co/anime/20789)** | **5** |
+| 27 | **[Naruto](https://anilist.co/anime/20)** | **3** |
+| 28 | **[No Game, No Life](https://anilist.co/anime/19815)** | **4** |
+| 29 | **[Seraph of the End: Vampire Reign](https://anilist.co/anime/20829)** | **2** |
+| 30 | **[Seraph of the End: Battle in Nagoya](https://anilist.co/anime/20993)** | **2** |
+| 31 | **[Akashic Records of Bastard Magic Instructor](https://anilist.co/anime/21700)** | **4** |
+| 32 | **[Spirited Away](https://anilist.co/anime/199)** | **5** |
+| 33 | **[The Testament of Sister New Devil](https://anilist.co/anime/20678)** | **5** |
+| 34 | **[The Testament of Sister New Devil BURST](https://anilist.co/anime/21110)** | **5** |
+| 35 | **[The Testament of Sister New Devil: Tojo Basara's Hard, Sweet Daily Life](https://anilist.co/anime/21247)** | **4** |
+| 36 | **[Shinobi no Ittoki](https://anilist.co/anime/145604)** | **4** |
+| 37 | **[Food Wars!](https://anilist.co/anime/20923)** | **5** |
+| 38 | **[Food Wars! The Second Plate](https://anilist.co/anime/21518)** | **4** |
+| 39 | **[My Dress-Up Darling](https://anilist.co/anime/132405)** | **4** |
+| 40 | **[SPY x FAMILY](https://anilist.co/anime/140960)** | **5** |
+| 41 | **[SPY x FAMILY Cour 2](https://anilist.co/anime/142838)** | **4** |
+| 42 | **[Suzume](https://anilist.co/anime/142770)** | **5** |
+| 43 | **[Gurren Lagann](https://anilist.co/anime/2001)** | **5** |
+| 44 | **[Weathering With You](https://anilist.co/anime/106286)** | **4** |
+| 45 | **[Castle in the Sky](https://anilist.co/anime/513)** | **5** |
+| 46 | **[The Aristocrat’s Otherworldly Adventure: Serving Gods Who Go Too Far](https://anilist.co/anime/153332)** | **4** |
+| 47 | **[Violet Evergarden](https://anilist.co/anime/21827)** | **5** |
+| 48 | **[Scott Pilgrim Takes Off](https://anilist.co/anime/170206)** | **5** |
+| 49 | **[The Cat Returns](https://anilist.co/anime/597)** | **3** |
 <!-- COMPLETED END -->
 
 </details>
@@ -151,16 +151,16 @@ This section is **fully automated**! GitHub checks my [anilist.co](https://anili
 <summary>Favourite Animes</summary>
 
 <!-- FAVOURITES START -->
-- **[High School DxD](https://anilist.co/anime/11617)**
-- **[No Game, No Life](https://anilist.co/anime/19815)**
-- **[Your Name.](https://anilist.co/anime/21519)**
-- **[Violet Evergarden](https://anilist.co/anime/21827)**
-- **[Cyberpunk: Edgerunners](https://anilist.co/anime/120377)**
-- **[Gurren Lagann](https://anilist.co/anime/2001)**
-- **[Castle in the Sky](https://anilist.co/anime/513)**
-- **[Suzume](https://anilist.co/anime/142770)**
-- **[Scott Pilgrim Takes Off](https://anilist.co/anime/170206)**
-- **[Shikimori's Not Just a Cutie](https://anilist.co/anime/127911)**
+1. **[High School DxD](https://anilist.co/anime/11617)**
+2. **[No Game, No Life](https://anilist.co/anime/19815)**
+3. **[Your Name.](https://anilist.co/anime/21519)**
+4. **[Violet Evergarden](https://anilist.co/anime/21827)**
+5. **[Cyberpunk: Edgerunners](https://anilist.co/anime/120377)**
+6. **[Gurren Lagann](https://anilist.co/anime/2001)**
+7. **[Castle in the Sky](https://anilist.co/anime/513)**
+8. **[Suzume](https://anilist.co/anime/142770)**
+9. **[Scott Pilgrim Takes Off](https://anilist.co/anime/170206)**
+10. **[Shikimori's Not Just a Cutie](https://anilist.co/anime/127911)**
 <!-- FAVOURITES END -->
 
 </details>
