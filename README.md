@@ -82,8 +82,7 @@ This section is **fully automated**! GitHub checks my [anilist.co](https://anili
 <summary>Currently Watching Animes</summary>
 
 <!-- CURRENTLY START -->
-- Lately watched `episode 12` of **[Black Clover](https://anilist.co/anime/97940)**
-- Lately watched `episode 8` of **[Hell’s Paradise](https://anilist.co/anime/128893)**
+- Lately watched `episode 5` of **[Solo Leveling](https://anilist.co/anime/151807)**
 <!-- CURRENTLY END -->
 
 </details>
@@ -143,6 +142,7 @@ This section is **fully automated**! GitHub checks my [anilist.co](https://anili
 | 47 | **[Violet Evergarden](https://anilist.co/anime/21827)** | **5** | **1**
 | 48 | **[Scott Pilgrim Takes Off](https://anilist.co/anime/170206)** | **5** | **0**
 | 49 | **[The Cat Returns](https://anilist.co/anime/597)** | **3** | **0**
+| 50 | **[The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat](https://anilist.co/anime/129898)** | **4** | **0**
 <!-- COMPLETED END -->
 
 </details>
