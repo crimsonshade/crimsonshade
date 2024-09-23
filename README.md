@@ -82,7 +82,7 @@ This section is **fully automated**! GitHub checks my [anilist.co](https://anili
 <summary>Currently Watching Animes</summary>
 
 <!-- CURRENTLY START -->
-- Lately watched `episode 5` of **[Solo Leveling](https://anilist.co/anime/151807)**
+- Lately watched `episode 6` of **[Solo Leveling](https://anilist.co/anime/151807)**
 <!-- CURRENTLY END -->
 
 </details>
@@ -138,7 +138,7 @@ This section is **fully automated**! GitHub checks my [anilist.co](https://anili
 | 43 | **[Gurren Lagann](https://anilist.co/anime/2001)** | **5** | **1**
 | 44 | **[Weathering With You](https://anilist.co/anime/106286)** | **4** | **2**
 | 45 | **[Castle in the Sky](https://anilist.co/anime/513)** | **5** | **0**
-| 46 | **[The Aristocrat’s Otherworldly Adventure: Serving Gods Who Go Too Far](https://anilist.co/anime/153332)** | **4** | **0**
+| 46 | **[The Aristocrat’s Otherworldly Adventure: Serving Gods Who Go Too Far](https://anilist.co/anime/153332)** | **3** | **0**
 | 47 | **[Violet Evergarden](https://anilist.co/anime/21827)** | **5** | **1**
 | 48 | **[Scott Pilgrim Takes Off](https://anilist.co/anime/170206)** | **5** | **0**
 | 49 | **[The Cat Returns](https://anilist.co/anime/597)** | **3** | **0**
