@@ -82,7 +82,7 @@ This section is **fully automated**! GitHub checks my [anilist.co](https://anili
 <summary>Currently Watching Animes</summary>
 
 <!-- CURRENTLY START -->
-- Lately watched `episode 10` of **[Solo Leveling](https://anilist.co/anime/151807)**
+- Lately watched `episode 1` of **[Alya Sometimes Hides Her Feelings in Russian](https://anilist.co/anime/162804)**
 <!-- CURRENTLY END -->
 
 </details>
