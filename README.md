@@ -83,6 +83,7 @@ This section is **fully automated**! GitHub checks my [anilist.co](https://anili
 
 <!-- CURRENTLY START -->
 - Lately watched `episode 1` of **[Alya Sometimes Hides Her Feelings in Russian](https://anilist.co/anime/162804)**
+- Lately watched `episode 1` of **[DAN DA DAN](https://anilist.co/anime/171018)**
 <!-- CURRENTLY END -->
 
 </details>
