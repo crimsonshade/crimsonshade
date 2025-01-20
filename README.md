@@ -82,8 +82,7 @@ This section is **fully automated**! GitHub checks my [anilist.co](https://anili
 <summary>Currently Watching Animes</summary>
 
 <!-- CURRENTLY START -->
-- Lately watched `episode 1` of **[Hell’s Paradise](https://anilist.co/anime/128893)**
-- Lately watched `episode 1` of **[DAN DA DAN](https://anilist.co/anime/171018)**
+- Lately watched `episode 2` of **[Blue Box](https://anilist.co/anime/170942)**
 <!-- CURRENTLY END -->
 
 </details>
