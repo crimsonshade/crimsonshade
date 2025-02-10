@@ -82,7 +82,7 @@ This section is **fully automated**! GitHub checks my [anilist.co](https://anili
 <summary>Currently Watching Animes</summary>
 
 <!-- CURRENTLY START -->
-- Lately watched `episode 2` of **[Blue Box](https://anilist.co/anime/170942)**
+- Lately watched `episode 43` of **[Black Clover](https://anilist.co/anime/97940)**
 <!-- CURRENTLY END -->
 
 </details>
