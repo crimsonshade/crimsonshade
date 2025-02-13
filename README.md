@@ -82,7 +82,8 @@ This section is **fully automated**! GitHub checks my [anilist.co](https://anili
 <summary>Currently Watching Animes</summary>
 
 <!-- CURRENTLY START -->
-- Lately watched `episode 43` of **[Black Clover](https://anilist.co/anime/97940)**
+- Lately watched `episode 49` of **[Black Clover](https://anilist.co/anime/97940)**
+- Lately watched `episode 0` of **[Gurren Lagann](https://anilist.co/anime/2001)**
 <!-- CURRENTLY END -->
 
 </details>
@@ -135,14 +136,13 @@ This section is **fully automated**! GitHub checks my [anilist.co](https://anili
 | 40 | **[SPY x FAMILY](https://anilist.co/anime/140960)** | **5** | **0**
 | 41 | **[SPY x FAMILY Cour 2](https://anilist.co/anime/142838)** | **4** | **0**
 | 42 | **[Suzume](https://anilist.co/anime/142770)** | **5** | **0**
-| 43 | **[Gurren Lagann](https://anilist.co/anime/2001)** | **5** | **1**
-| 44 | **[Weathering With You](https://anilist.co/anime/106286)** | **4** | **2**
-| 45 | **[Castle in the Sky](https://anilist.co/anime/513)** | **5** | **0**
-| 46 | **[The Aristocrat’s Otherworldly Adventure: Serving Gods Who Go Too Far](https://anilist.co/anime/153332)** | **3** | **0**
-| 47 | **[Violet Evergarden](https://anilist.co/anime/21827)** | **5** | **1**
-| 48 | **[Scott Pilgrim Takes Off](https://anilist.co/anime/170206)** | **5** | **0**
-| 49 | **[The Cat Returns](https://anilist.co/anime/597)** | **3** | **0**
-| 50 | **[The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat](https://anilist.co/anime/129898)** | **4** | **0**
+| 43 | **[Weathering With You](https://anilist.co/anime/106286)** | **4** | **2**
+| 44 | **[Castle in the Sky](https://anilist.co/anime/513)** | **5** | **0**
+| 45 | **[The Aristocrat’s Otherworldly Adventure: Serving Gods Who Go Too Far](https://anilist.co/anime/153332)** | **3** | **0**
+| 46 | **[Violet Evergarden](https://anilist.co/anime/21827)** | **5** | **1**
+| 47 | **[Scott Pilgrim Takes Off](https://anilist.co/anime/170206)** | **5** | **0**
+| 48 | **[The Cat Returns](https://anilist.co/anime/597)** | **3** | **0**
+| 49 | **[The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat](https://anilist.co/anime/129898)** | **4** | **0**
 <!-- COMPLETED END -->
 
 </details>
