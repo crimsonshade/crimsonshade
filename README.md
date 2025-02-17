@@ -83,7 +83,7 @@ This section is **fully automated**! GitHub checks my [anilist.co](https://anili
 
 <!-- CURRENTLY START -->
 - Lately watched `episode 49` of **[Black Clover](https://anilist.co/anime/97940)**
-- Lately watched `episode 0` of **[Gurren Lagann](https://anilist.co/anime/2001)**
+- Lately watched `episode 1` of **[Gurren Lagann](https://anilist.co/anime/2001)**
 <!-- CURRENTLY END -->
 
 </details>
@@ -113,7 +113,7 @@ This section is **fully automated**! GitHub checks my [anilist.co](https://anili
 | 17 | **[Kill la Kill](https://anilist.co/anime/18679)** | **4** | **0**
 | 18 | **[Demon Slayer: Kimetsu no Yaiba](https://anilist.co/anime/101922)** | **5** | **0**
 | 19 | **[Demon Slayer: Kimetsu no Yaiba Entertainment District Arc](https://anilist.co/anime/142329)** | **5** | **0**
-| 20 | **[Your Name.](https://anilist.co/anime/21519)** | **5** | **5**
+| 20 | **[Your Name.](https://anilist.co/anime/21519)** | **5** | **6**
 | 21 | **[Komi Can’t Communicate](https://anilist.co/anime/133965)** | **4** | **0**
 | 22 | **[The Garden of Words](https://anilist.co/anime/16782)** | **3** | **0**
 | 23 | **[Black Summoner](https://anilist.co/anime/145260)** | **4** | **0**
@@ -160,8 +160,7 @@ This section is **fully automated**! GitHub checks my [anilist.co](https://anili
 7. **[Castle in the Sky](https://anilist.co/anime/513)**
 8. **[Suzume](https://anilist.co/anime/142770)**
 9. **[Scott Pilgrim Takes Off](https://anilist.co/anime/170206)**
-10. **[Shikimori's Not Just a Cutie](https://anilist.co/anime/127911)**
-11. **[Food Wars!](https://anilist.co/anime/20923)**
+10. **[Food Wars!](https://anilist.co/anime/20923)**
 <!-- FAVOURITES END -->
 
 </details>
