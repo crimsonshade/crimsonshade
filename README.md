@@ -82,7 +82,7 @@ This section is **fully automated**! GitHub checks my [anilist.co](https://anili
 <summary>Currently Watching Animes</summary>
 
 <!-- CURRENTLY START -->
-- Lately watched `episode 49` of **[Black Clover](https://anilist.co/anime/97940)**
+- Lately watched `episode 50` of **[Black Clover](https://anilist.co/anime/97940)**
 - Lately watched `episode 2` of **[Gurren Lagann](https://anilist.co/anime/2001)**
 <!-- CURRENTLY END -->
 
