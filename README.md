@@ -83,7 +83,7 @@ This section is **fully automated**! GitHub checks my [anilist.co](https://anili
 
 <!-- CURRENTLY START -->
 - Lately watched `episode 51` of **[Black Clover](https://anilist.co/anime/97940)**
-- Lately watched `episode 3` of **[Chivalry of a Failed Knight](https://anilist.co/anime/21092)**
+- Lately watched `episode 8` of **[Chivalry of a Failed Knight](https://anilist.co/anime/21092)**
 - Lately watched `episode 6` of **[Frieren: Beyond Journey’s End](https://anilist.co/anime/154587)**
 <!-- CURRENTLY END -->
 
