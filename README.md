@@ -83,6 +83,7 @@ This section is **fully automated**! GitHub checks my [anilist.co](https://anili
 
 <!-- CURRENTLY START -->
 - Lately watched `episode 6` of **[Horimiya](https://anilist.co/anime/124080)**
+- Lately watched `episode 1` of **[Food Wars! The Second Plate](https://anilist.co/anime/21518)**
 <!-- CURRENTLY END -->
 
 </details>
@@ -131,19 +132,18 @@ This section is **fully automated**! GitHub checks my [anilist.co](https://anili
 | 36 | **[The Testament of Sister New Devil: Tojo Basara's Hard, Sweet Daily Life](https://anilist.co/anime/21247)** | **7** | **1**
 | 37 | **[Shinobi no Ittoki](https://anilist.co/anime/145604)** | **8** | **0**
 | 38 | **[Food Wars!](https://anilist.co/anime/20923)** | **9** | **2**
-| 39 | **[Food Wars! The Second Plate](https://anilist.co/anime/21518)** | **8** | **1**
-| 40 | **[My Dress-Up Darling](https://anilist.co/anime/132405)** | **8** | **0**
-| 41 | **[SPY x FAMILY](https://anilist.co/anime/140960)** | **9** | **0**
-| 42 | **[SPY x FAMILY Cour 2](https://anilist.co/anime/142838)** | **8** | **0**
-| 43 | **[Suzume](https://anilist.co/anime/142770)** | **9** | **0**
-| 44 | **[Gurren Lagann](https://anilist.co/anime/2001)** | **10** | **1**
-| 45 | **[Weathering With You](https://anilist.co/anime/106286)** | **7** | **2**
-| 46 | **[Castle in the Sky](https://anilist.co/anime/513)** | **9.5** | **0**
-| 47 | **[The Aristocrat’s Otherworldly Adventure: Serving Gods Who Go Too Far](https://anilist.co/anime/153332)** | **5** | **0**
-| 48 | **[Violet Evergarden](https://anilist.co/anime/21827)** | **10** | **1**
-| 49 | **[Scott Pilgrim Takes Off](https://anilist.co/anime/170206)** | **9** | **0**
-| 50 | **[The Cat Returns](https://anilist.co/anime/597)** | **5** | **0**
-| 51 | **[The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat](https://anilist.co/anime/129898)** | **7** | **0**
+| 39 | **[My Dress-Up Darling](https://anilist.co/anime/132405)** | **8** | **0**
+| 40 | **[SPY x FAMILY](https://anilist.co/anime/140960)** | **9** | **0**
+| 41 | **[SPY x FAMILY Cour 2](https://anilist.co/anime/142838)** | **8** | **0**
+| 42 | **[Suzume](https://anilist.co/anime/142770)** | **9** | **0**
+| 43 | **[Gurren Lagann](https://anilist.co/anime/2001)** | **10** | **1**
+| 44 | **[Weathering With You](https://anilist.co/anime/106286)** | **7** | **2**
+| 45 | **[Castle in the Sky](https://anilist.co/anime/513)** | **9.5** | **0**
+| 46 | **[The Aristocrat’s Otherworldly Adventure: Serving Gods Who Go Too Far](https://anilist.co/anime/153332)** | **5** | **0**
+| 47 | **[Violet Evergarden](https://anilist.co/anime/21827)** | **10** | **1**
+| 48 | **[Scott Pilgrim Takes Off](https://anilist.co/anime/170206)** | **9** | **0**
+| 49 | **[The Cat Returns](https://anilist.co/anime/597)** | **5** | **0**
+| 50 | **[The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat](https://anilist.co/anime/129898)** | **7** | **0**
 <!-- COMPLETED END -->
 
 </details>
