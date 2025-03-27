@@ -83,7 +83,7 @@ This section is **fully automated**! GitHub checks my [anilist.co](https://anili
 
 <!-- CURRENTLY START -->
 - Lately watched `episode 6` of **[Horimiya](https://anilist.co/anime/124080)**
-- Lately watched `episode 1` of **[Food Wars! The Second Plate](https://anilist.co/anime/21518)**
+- Lately watched `episode 11` of **[Food Wars! The Second Plate](https://anilist.co/anime/21518)**
 <!-- CURRENTLY END -->
 
 </details>
