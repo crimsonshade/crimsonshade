@@ -82,8 +82,8 @@ This section is **fully automated**! GitHub checks my [anilist.co](https://anili
 <summary>Currently Watching Animes</summary>
 
 <!-- CURRENTLY START -->
-- Lately watched `episode 6` of **[Horimiya](https://anilist.co/anime/124080)**
 - Lately watched `episode 11` of **[Food Wars! The Second Plate](https://anilist.co/anime/21518)**
+- Lately watched `episode 3` of **[Mushoku Tensei: Jobless Reincarnation Season 2](https://anilist.co/anime/146065)**
 <!-- CURRENTLY END -->
 
 </details>
@@ -144,6 +144,8 @@ This section is **fully automated**! GitHub checks my [anilist.co](https://anili
 | 48 | **[Scott Pilgrim Takes Off](https://anilist.co/anime/170206)** | **9** | **0**
 | 49 | **[The Cat Returns](https://anilist.co/anime/597)** | **5** | **0**
 | 50 | **[The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat](https://anilist.co/anime/129898)** | **7** | **0**
+| 51 | **[Mushoku Tensei: Jobless Reincarnation](https://anilist.co/anime/108465)** | **0** | **0**
+| 52 | **[Mushoku Tensei: Jobless Reincarnation Cour 2](https://anilist.co/anime/127720)** | **0** | **0**
 <!-- COMPLETED END -->
 
 </details>
