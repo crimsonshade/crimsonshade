@@ -83,7 +83,7 @@ This section is **fully automated**! GitHub checks my [anilist.co](https://anili
 
 <!-- CURRENTLY START -->
 - Lately watched `episode 11` of **[Food Wars! The Second Plate](https://anilist.co/anime/21518)**
-- Lately watched `episode 3` of **[Mushoku Tensei: Jobless Reincarnation Season 2](https://anilist.co/anime/146065)**
+- Lately watched `episode 7` of **[The Apothecary Diaries](https://anilist.co/anime/161645)**
 <!-- CURRENTLY END -->
 
 </details>
