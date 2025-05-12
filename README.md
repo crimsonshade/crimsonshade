@@ -82,8 +82,7 @@ This section is **fully automated**! GitHub checks my [anilist.co](https://anili
 <summary>Currently Watching Animes</summary>
 
 <!-- CURRENTLY START -->
-- Lately watched `episode 11` of **[Food Wars! The Second Plate](https://anilist.co/anime/21518)**
-- Lately watched `episode 7` of **[The Apothecary Diaries](https://anilist.co/anime/161645)**
+- Lately watched `episode 18` of **[The Apothecary Diaries](https://anilist.co/anime/161645)**
 <!-- CURRENTLY END -->
 
 </details>
