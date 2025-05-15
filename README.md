@@ -82,7 +82,6 @@ This section is **fully automated**! GitHub checks my [anilist.co](https://anili
 <summary>Currently Watching Animes</summary>
 
 <!-- CURRENTLY START -->
-- Lately watched `episode 18` of **[The Apothecary Diaries](https://anilist.co/anime/161645)**
 <!-- CURRENTLY END -->
 
 </details>
@@ -140,11 +139,12 @@ This section is **fully automated**! GitHub checks my [anilist.co](https://anili
 | 45 | **[Castle in the Sky](https://anilist.co/anime/513)** | **9.5** | **0**
 | 46 | **[The Aristocrat’s Otherworldly Adventure: Serving Gods Who Go Too Far](https://anilist.co/anime/153332)** | **5** | **0**
 | 47 | **[Violet Evergarden](https://anilist.co/anime/21827)** | **10** | **1**
-| 48 | **[Scott Pilgrim Takes Off](https://anilist.co/anime/170206)** | **9** | **0**
-| 49 | **[The Cat Returns](https://anilist.co/anime/597)** | **5** | **0**
-| 50 | **[The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat](https://anilist.co/anime/129898)** | **7** | **0**
-| 51 | **[Mushoku Tensei: Jobless Reincarnation](https://anilist.co/anime/108465)** | **0** | **0**
-| 52 | **[Mushoku Tensei: Jobless Reincarnation Cour 2](https://anilist.co/anime/127720)** | **0** | **0**
+| 48 | **[The Apothecary Diaries](https://anilist.co/anime/161645)** | **6.5** | **0**
+| 49 | **[Scott Pilgrim Takes Off](https://anilist.co/anime/170206)** | **9** | **0**
+| 50 | **[The Cat Returns](https://anilist.co/anime/597)** | **5** | **0**
+| 51 | **[The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat](https://anilist.co/anime/129898)** | **7** | **0**
+| 52 | **[Mushoku Tensei: Jobless Reincarnation](https://anilist.co/anime/108465)** | **0** | **0**
+| 53 | **[Mushoku Tensei: Jobless Reincarnation Cour 2](https://anilist.co/anime/127720)** | **0** | **0**
 <!-- COMPLETED END -->
 
 </details>
