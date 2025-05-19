@@ -82,6 +82,7 @@ This section is **fully automated**! GitHub checks my [anilist.co](https://anili
 <summary>Currently Watching Animes</summary>
 
 <!-- CURRENTLY START -->
+- Lately watched `episode 1` of **[Delicious in Dungeon](https://anilist.co/anime/153518)**
 <!-- CURRENTLY END -->
 
 </details>
@@ -143,8 +144,8 @@ This section is **fully automated**! GitHub checks my [anilist.co](https://anili
 | 49 | **[Scott Pilgrim Takes Off](https://anilist.co/anime/170206)** | **9** | **0**
 | 50 | **[The Cat Returns](https://anilist.co/anime/597)** | **5** | **0**
 | 51 | **[The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat](https://anilist.co/anime/129898)** | **7** | **0**
-| 52 | **[Mushoku Tensei: Jobless Reincarnation](https://anilist.co/anime/108465)** | **0** | **0**
-| 53 | **[Mushoku Tensei: Jobless Reincarnation Cour 2](https://anilist.co/anime/127720)** | **0** | **0**
+| 52 | **[Mushoku Tensei: Jobless Reincarnation](https://anilist.co/anime/108465)** | **6.5** | **0**
+| 53 | **[Mushoku Tensei: Jobless Reincarnation Cour 2](https://anilist.co/anime/127720)** | **7.5** | **0**
 <!-- COMPLETED END -->
 
 </details>
