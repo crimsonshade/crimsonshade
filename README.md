@@ -82,7 +82,6 @@ This section is **fully automated**! GitHub checks my [anilist.co](https://anili
 <summary>Currently Watching Animes</summary>
 
 <!-- CURRENTLY START -->
-- Lately watched `episode 1` of **[Delicious in Dungeon](https://anilist.co/anime/153518)**
 <!-- CURRENTLY END -->
 
 </details>
