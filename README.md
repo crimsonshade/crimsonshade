@@ -82,6 +82,8 @@ This section is **fully automated**! GitHub checks my [anilist.co](https://anili
 <summary>Currently Watching Animes</summary>
 
 <!-- CURRENTLY START -->
+- Lately watched `episode 1` of **[My Dress-Up Darling Season 2](https://anilist.co/anime/154768)**
+- Lately watched `episode 1` of **[Cultural Exchange with a Game Centre Girl](https://anilist.co/anime/180794)**
 <!-- CURRENTLY END -->
 
 </details>
