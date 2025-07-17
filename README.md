@@ -82,7 +82,7 @@ This section is **fully automated**! GitHub checks my [anilist.co](https://anili
 <summary>Currently Watching Animes</summary>
 
 <!-- CURRENTLY START -->
-- Lately watched `episode 1` of **[My Dress-Up Darling Season 2](https://anilist.co/anime/154768)**
+- Lately watched `episode 2` of **[My Dress-Up Darling Season 2](https://anilist.co/anime/154768)**
 - Lately watched `episode 1` of **[Cultural Exchange with a Game Centre Girl](https://anilist.co/anime/180794)**
 <!-- CURRENTLY END -->
 
@@ -132,7 +132,7 @@ This section is **fully automated**! GitHub checks my [anilist.co](https://anili
 | 36 | **[The Testament of Sister New Devil: Tojo Basara's Hard, Sweet Daily Life](https://anilist.co/anime/21247)** | **7** | **1**
 | 37 | **[Shinobi no Ittoki](https://anilist.co/anime/145604)** | **8** | **0**
 | 38 | **[Food Wars!](https://anilist.co/anime/20923)** | **9** | **2**
-| 39 | **[My Dress-Up Darling](https://anilist.co/anime/132405)** | **8** | **0**
+| 39 | **[My Dress-Up Darling](https://anilist.co/anime/132405)** | **9** | **0**
 | 40 | **[SPY x FAMILY](https://anilist.co/anime/140960)** | **9** | **0**
 | 41 | **[SPY x FAMILY Cour 2](https://anilist.co/anime/142838)** | **8** | **0**
 | 42 | **[Suzume](https://anilist.co/anime/142770)** | **9** | **0**
@@ -165,6 +165,7 @@ This section is **fully automated**! GitHub checks my [anilist.co](https://anili
 8. **[Suzume](https://anilist.co/anime/142770)**
 9. **[Scott Pilgrim Takes Off](https://anilist.co/anime/170206)**
 10. **[Food Wars!](https://anilist.co/anime/20923)**
+11. **[My Dress-Up Darling](https://anilist.co/anime/132405)**
 <!-- FAVOURITES END -->
 
 </details>
