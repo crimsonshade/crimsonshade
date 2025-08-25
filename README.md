@@ -82,8 +82,8 @@ This section is **fully automated**! GitHub checks my [anilist.co](https://anili
 <summary>Currently Watching Animes</summary>
 
 <!-- CURRENTLY START -->
+- Lately watched `episode 9` of **[Elfen Lied](https://anilist.co/anime/226)**
 - Lately watched `episode 2` of **[My Dress-Up Darling Season 2](https://anilist.co/anime/154768)**
-- Lately watched `episode 2` of **[Nukitashi THE ANIMATION](https://anilist.co/anime/174188)**
 <!-- CURRENTLY END -->
 
 </details>
